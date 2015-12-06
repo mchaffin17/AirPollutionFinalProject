@@ -3,12 +3,12 @@
 The World Health Organization reported that in 2012 about 7 million people died as a result of air pollution exposure, a finding that was more than double previous estimates.  According to the WHO, this finding “confirms that air pollution is now the world’s largest single environmental health risk.”  Air pollution can lead to a variety of potentially fatal conditions such as heart disease, stroke, COPD, and lung cancer.  Thus it is critical that more research on air pollution causes and interventions to reduce such pollution be done.
  
 As students at the Harvard T.H. Chan School of Public Health, we want to conduct some research into air pollution in the USA as well as on some of the determinants of such pollution such as weather, commuting, and population density given the severity of this public health issue.  By understanding the pollutant profiles of various cities, more targeted and effective interventions for reducing pollution on a by-pollutant-type basis could then be proposed and implemented.  Linking these specific profiles to certain determinants would also aid in the creation of powerful air pollution reduction policies.  These various analyses could be useful for developing legislation across the USA.  Additionally, we could predict the pollutant profiles of cities in the third world, where such measuring of pollutants is not available, based on weather, population, etc.  Such prediction would allow for better formulation of air pollution reduction policies for those cities.
-Initial Questions:
-·       Are there certain pollutant profiles that characterize groups of US cities?
-·       What is the distribution of pollutants (air particulate matter, gas levels, etc.) within these clusters?
-·       What are the determinants (weather, demographics, transportation, etc.) of these pollutant profiles?
-·       Can we use data on weather, demographics, transportation, etc. to predict a city’s pollutant profiles?
-·       Can specific policy recommendations be made based on a city’s pollutant profile?
+Initial Questions:<br>
+·       Are there certain pollutant profiles that characterize groups of US cities?<br>
+·       What is the distribution of pollutants (air particulate matter, gas levels, etc.) within these clusters?<br>
+·       What are the determinants (weather, demographics, transportation, etc.) of these pollutant profiles?<br>
+·       Can we use data on weather, demographics, transportation, etc. to predict a city’s pollutant profiles?<br>
+·       Can specific policy recommendations be made based on a city’s pollutant profile?<br.
 
 ##Notebooks in this repository
 There are several ipython notebooks in this repository. These are designed to break up the individual sections of the project into smaller, self-contained processes. To follow the project process, the optimal order to view these files is:<br>
