@@ -23,7 +23,7 @@ Each section contains the following information.
 **DataCollection&Cleaning.ipynb**
 This notebook contains the details of data collection and scraping. All files used in this process are either accessed directly from their links within the notebook or contain in the dropbox repository found at: https://www.dropbox.com/sh/cd95rdgrbm9cpz7/AAAG9758zR1tUMvGsxKtIJzXa?dl=0.
 
-**ExploratoryDataAnalysis.ipynb**
+[**ExploratoryDataAnalysis.ipynb**](https://github.com/mchaffin17/AirPollutionFinalProject/blob/master/DataCollection%26Cleaning.ipynb)
 This notebook contains the basic visualizations of the data and simple bivariate analyses.
 
 **PredictiveLinearModeling.ipynb**
