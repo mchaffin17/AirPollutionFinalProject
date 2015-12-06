@@ -20,13 +20,13 @@ There are several ipython notebooks in this repository. These are designed to br
 
 Each section contains the following information.
 
-**DataCollection&Cleaning.ipynb**
+[**DataCollection&Cleaning.ipynb**](https://github.com/mchaffin17/AirPollutionFinalProject/blob/master/DataCollection%26Cleaning.ipynb)
 This notebook contains the details of data collection and scraping. All files used in this process are either accessed directly from their links within the notebook or contain in the dropbox repository found at: https://www.dropbox.com/sh/cd95rdgrbm9cpz7/AAAG9758zR1tUMvGsxKtIJzXa?dl=0.
 
-[**ExploratoryDataAnalysis.ipynb**](https://github.com/mchaffin17/AirPollutionFinalProject/blob/master/DataCollection%26Cleaning.ipynb)
+[**ExploratoryDataAnalysis.ipynb**](https://github.com/mchaffin17/AirPollutionFinalProject/blob/master/ExploratoryDataAnalysis.ipynb)
 This notebook contains the basic visualizations of the data and simple bivariate analyses.
 
-**PredictiveLinearModeling.ipynb**
+[**PredictiveLinearModeling.ipynb**](https://github.com/mchaffin17/AirPollutionFinalProject/blob/master/PredictiveLinearModeling.ipynb)
 This notebook works to build predictive models of the individual pollutants based on demographic and environmental variables. Analysis was validated using cities in France.
 
 **UnsupervisedAnalysisPart1.ipynb**
