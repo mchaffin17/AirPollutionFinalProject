@@ -16,7 +16,7 @@ There are several ipython notebooks in this repository. These are designed to br
 2. ExplotatoryDataAnalysis.ipynb<br>
 3. PredictiveLinearModeling.ipynb<br>
 4. UnsupervisedAnalysisPart1.ipynb<br>
-5. SupervisedAnalysisPart2.ipynb<br>
+5. UnsupervisedAnalysisPart2.ipynb<br>
 
 Each section contains the following information.
 
@@ -29,10 +29,10 @@ This notebook contains the basic visualizations of the data and simple bivariate
 **PredictiveLinearModeling.ipynb**
 This notebook works to build predictive models of the individual pollutants based on demographic and environmental variables. Analysis was validated using cities in France.
 
-**UnsupervisedAnalysis.ipynb**
+**UnsupervisedAnalysisPart1.ipynb**
 This notebook works to generate particular clusters of urban areas given their pollutant profiles. Furthermore, it looks at differences in environmental and demographic variables between the clusters.
 
-**SupervisedAnalysis.ipynb**
+**UnsupervisedAnalysisPart2.ipynb**
 This notebook seeks to create classifiers to predict which type of pollutant profile a city has given their environmental and demographic characteristics. Analysis was validated using cities in France.
 
 ##Data Files in this Repository
