@@ -15,8 +15,8 @@ There are several ipython notebooks in this repository. These are designed to br
 1. DataCollection&Cleaning.ipynb<br>
 2. ExplotatoryDataAnalysis.ipynb<br>
 3. PredictiveLinearModeling.ipynb<br>
-4. UnsupervisedAnalysis.ipynb<br>
-5. SupervisedAnalysis.ipynb<br>
+4. UnsupervisedAnalysisPart1.ipynb<br>
+5. SupervisedAnalysisPart2.ipynb<br>
 
 Each section contains the following information.
 
