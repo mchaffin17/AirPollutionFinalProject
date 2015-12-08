@@ -4,11 +4,13 @@ The World Health Organization reported that in 2012 about 7 million people died 
  
 As students at the Harvard T.H. Chan School of Public Health, we want to conduct some research into air pollution in the USA as well as on some of the determinants of such pollution such as weather, commuting, and population density given the severity of this public health issue.  By understanding the pollutant profiles of various cities, more targeted and effective interventions for reducing pollution on a by-pollutant-type basis could then be proposed and implemented.  Linking these specific profiles to certain determinants would also aid in the creation of powerful air pollution reduction policies.  These various analyses could be useful for developing legislation across the USA.  Additionally, we could predict the pollutant profiles of cities in the third world, where such measuring of pollutants is not available, based on weather, population, etc.  Such prediction would allow for better formulation of air pollution reduction policies for those cities.
 Initial Questions:<br>
-·       Are there certain pollutant profiles that characterize groups of US cities?<br>
-·       What is the distribution of pollutants (air particulate matter, gas levels, etc.) within these clusters?<br>
-·       What are the determinants (weather, demographics, transportation, etc.) of these pollutant profiles?<br>
-·       Can we use data on weather, demographics, transportation, etc. to predict a city’s pollutant profiles?<br>
-·       Can specific policy recommendations be made based on a city’s pollutant profile?<br.
+<ol>
+<li>Are there certain pollutant profiles that characterize groups of US cities?</li>
+<li>What is the distribution of pollutants (air particulate matter, gas levels, etc.) within these clusters?</li>
+<li>What are the determinants (weather, demographics, transportation, etc.) of these pollutant profiles?</li>
+<li>Can we use data on weather, demographics, transportation, etc. to predict a city’s pollutant profiles?</li>
+<li>Can specific policy recommendations be made based on a city’s pollutant profile?</li>
+</ol>
 
 ##Key Findings
 Based on our analysis, air quality appears to be a composite of many features, some related to human activity and some related to environmental sources. The relative contribution of these two sources seems to vary across pollutants which has implications about how to design effective overall air quality interventions. Using multiple modeling approaches, we find that some pollutant concentrations, such as NO2 and O3, are easier to predict than others.<br>
@@ -19,8 +21,6 @@ Based on our analysis, air quality appears to be a composite of many features, s
         ·       These clusters can be differentiated by liquid precipitation, air pressure, temperature, and land area<br>
 ·       Differential patterns of missing pollutant data for US cities made imputation of clusters unreliable.<br>
 ·       When French cities were clustered with the same method, their pollutant profiles looked reasonably similar to the clustered US pollutant profiles.
-
-
 
 ##Notebooks in this repository
 There are several ipython notebooks in this repository. These are designed to break up the individual sections of the project into smaller, self-contained processes. To follow the project process, the optimal order to view these files is:<br>
@@ -65,3 +65,6 @@ There are several files in this repository beyond the ipython notebooks. There a
 ##Other files
 Beyond these files, there are several image files used throughout notebooks
 
+##Project Website and Video Links
+The project website can be found at: http://cs109airpollution.github.io/#analysis
+The video can be found at: FILL THIS IN
