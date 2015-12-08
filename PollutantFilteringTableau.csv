@@ -1,0 +1,3199 @@
+CBSA Name,Latitude,Longitude,Value,Pollutant
+"Aberdeen, SD",45.4625,-98.486111,8.513793103,PM2.5
+"Adrian, MI",41.995568,-83.946559,8.917948718,PM2.5
+"Akron, OH",41.07534387,-81.45333161,14.34320136,PM2.5
+"Albany, GA",31.576917,-84.100194,12.56560284,PM2.5
+"Albany-Lebanon, OR",44.3958,-122.7305,12.13529412,PM2.5
+"Albany-Schenectady-Troy, NY",42.64933845,-73.75513527,8.005054152,PM2.5
+"Albuquerque, NM",35.1021123,-106.5822999,5.235050072,PM2.5
+"Alexandria, LA",31.177638,-92.410611,9.205882353,PM2.5
+"Allegan, MI",42.767786,-86.148577,8.521487603,PM2.5
+"Allentown-Bethlehem-Easton, PA-NJ",40.65894808,-75.32647274,11.89428305,PM2.5
+"Altoona, PA",40.535278,-78.370833,6.245014903,PM2.5
+"Amarillo, TX",35.201584,-101.909248,5.94375,PM2.5
+"Anchorage, AK",61.32970154,-149.6073523,5.16688512,PM2.5
+"Anderson, IN",40.12368229,-85.65627135,11.05536041,PM2.5
+"Ann Arbor, MI",42.240565,-83.599602,9.331073446,PM2.5
+"Appleton, WI",44.30738,-88.395134,9.758823529,PM2.5
+"Asheville, NC",35.56625914,-82.74377597,10.39069767,PM2.5
+"Athens, OH",39.442165,-81.908827,9.241818182,PM2.5
+"Athens-Clarke County, GA",33.918067,-83.344495,11.38058252,PM2.5
+"Atlanta-Sandy Springs-Marietta, GA",33.8453635,-84.42455873,12.56556448,PM2.5
+"Atlantic City, NJ",39.41493448,-74.44001959,8.847008547,PM2.5
+"Augusta-Richmond County, GA-SC",33.54550761,-81.9565029,11.75414365,PM2.5
+"Augusta-Waterville, ME",44.312319,-69.786717,6.572941176,PM2.5
+"Austin-Round Rock, TX",30.37221069,-97.79188762,9.246902655,PM2.5
+"Bakersfield, CA",35.34879869,-118.8257388,13.82070916,PM2.5
+"Baltimore-Towson, MD",39.29799095,-76.58340733,11.38233222,PM2.5
+"Bangor, ME",44.79886,-68.769675,7.054237288,PM2.5
+"Baraboo, WI",43.4351,-89.6797,8.502702703,PM2.5
+"Baton Rouge, LA",30.42607437,-91.19754495,10.52356378,PM2.5
+"Bay City, MI",43.571391,-83.890721,8.147933884,PM2.5
+"Beaumont-Port Arthur, TX",30.004983,-93.83437303,10.61978022,PM2.5
+"Beaver Dam, WI",43.466111,-88.621111,9.213385154,PM2.5
+"Beckley, WV",37.807767,-81.197433,10.32916667,PM2.5
+"Bend, OR",44.063916,-121.312554,4.535185185,PM2.5
+"Bennington, VT",42.88759,-73.24984,6.925,PM2.5
+"Birmingham-Hoover, AL",33.53740179,-86.90415761,11.95628627,PM2.5
+"Bishop, CA",36.487823,-117.871036,7.171778693,PM2.5
+"Bismarck, ND",46.825425,-100.76821,7.750290185,PM2.5
+"Bloomington, IN",39.159383,-86.504762,11.92449431,PM2.5
+"Bloomington-Normal, IL",40.518735,-88.996896,10.49145299,PM2.5
+"Boise City-Nampa, ID",43.5934577,-116.4241489,11.13418918,PM2.5
+"Boone, NC",36.221944,-81.663056,8.824369748,PM2.5
+"Boston-Cambridge-Quincy, MA-NH",42.57994931,-70.98268804,8.421475791,PM2.5
+"Boulder, CO",40.09224361,-105.1827906,6.963636364,PM2.5
+"Bowling Green, KY",37.035438,-86.250628,11.50632184,PM2.5
+"Bozeman, MT",44.92217939,-111.1211956,6.844667204,PM2.5
+"Bradenton-Sarasota-Venice, FL",27.290556,-82.507222,7.240397351,PM2.5
+"Brainerd, MN",47.159942,-94.150987,4.722222222,PM2.5
+"Bridgeport-Stamford-Norwalk, CT",41.17355871,-73.34260583,8.75954416,PM2.5
+"Brigham City, UT",41.492707,-112.018863,8.126890756,PM2.5
+"Brookings, SD",44.310283,-96.80071,8.687288136,PM2.5
+"Brownsville-Harlingen, TX",26.06961,-97.162206,9.677358491,PM2.5
+"Brunswick, GA",31.169735,-81.495881,10.67692308,PM2.5
+"Buffalo-Niagara Falls, NY",42.90759227,-78.85601333,9.884707904,PM2.5
+"Burlington, NC",36.089004,-79.407821,11.08677686,PM2.5
+"Burlington-South Burlington, VT",44.49622599,-73.09988446,6.527019499,PM2.5
+"Butte-Silver Bow, MT",46.002602,-112.501247,8.715910538,PM2.5
+"Cadillac, MI",44.310555,-84.891865,5.945945946,PM2.5
+"Canton-Massillon, OH",40.78996826,-81.38946103,14.31553785,PM2.5
+"Cape Coral-Fort Myers, FL",26.602016,-81.877908,6.910126582,PM2.5
+"Casper, WY",42.851064,-106.325088,4.563793103,PM2.5
+"Cedar Rapids, IA",41.98383279,-91.68557435,10.87650728,PM2.5
+"Champaign-Urbana, IL",40.06856133,-88.34073689,11.19722222,PM2.5
+"Charleston, WV",38.35606303,-81.661562,12.4,PM2.5
+"Charleston-North Charleston, SC",32.87361789,-79.997958,9.514789534,PM2.5
+"Charlotte-Gastonia-Concord, NC-SC",35.24884427,-80.88021855,11.27096447,PM2.5
+"Charlottesville, VA",38.07657,-78.50397,9.424166667,PM2.5
+"Chattanooga, TN-GA",35.04274698,-85.26937879,11.52690167,PM2.5
+"Cheyenne, WY",41.139976,-104.817801,4.083333333,PM2.5
+"Chicago-Naperville-Joliet, IL-IN-WI",41.79394391,-87.58301846,12.82297061,PM2.5
+"Chico, CA",39.757371,-121.843286,7.987931034,PM2.5
+"Cincinnati-Middletown, OH-KY-IN",39.19154862,-84.43283871,13.2836742,PM2.5
+"Clarksburg, WV",39.278117,-80.34225,11.96396396,PM2.5
+"Clarksville, TN-KY",36.91171,-87.323337,11.15811966,PM2.5
+"Clearlake, CA",39.0327,-122.92229,3.075409836,PM2.5
+"Cleveland, MS",33.746056,-90.723028,10.6025,PM2.5
+"Cleveland-Elyria-Mentor, OH",41.41941166,-81.7296049,11.40398897,PM2.5
+"Clinton, IA",41.8487716,-90.19502377,12.26114286,PM2.5
+"Colorado Springs, CO",38.848014,-104.828564,6.187394958,PM2.5
+"Columbia, SC",34.02872753,-81.06940939,11.25613426,PM2.5
+"Columbus, GA-AL",32.47254779,-84.97438704,13.6015534,PM2.5
+"Columbus, OH",40.03751214,-82.90055391,12.4251573,PM2.5
+"Concord, NH",43.13244,-71.458306,8.426630435,PM2.5
+"Corning, NY",42.09142,-77.20978,7.387378641,PM2.5
+"Corpus Christi, TX",27.80627193,-97.43985594,9.888317757,PM2.5
+"Dallas-Fort Worth-Arlington, TX",32.77399758,-96.99734411,10.14545455,PM2.5
+"Daphne-Fairhope-Foley, AL",30.498001,-87.881412,10.23852459,PM2.5
+"Davenport-Moline-Rock Island, IA-IL",41.5251738,-90.60085289,12.23418108,PM2.5
+"Dayton, OH",39.79554436,-84.26935832,12.913,PM2.5
+"Decatur, AL",34.518735,-86.976939,11.15527673,PM2.5
+"Decatur, IL",39.866834,-88.925594,12.03137255,PM2.5
+"Deltona-Daytona Beach-Ormond Beach, FL",29.206667,-81.0525,7.54017094,PM2.5
+"Denver-Aurora, CO",39.70886032,-104.9688215,7.398333333,PM2.5
+"Des Moines-West Des Moines, IA",41.60324755,-93.66903423,10.12260128,PM2.5
+"Detroit-Warren-Livonia, MI",42.36918338,-83.07779311,10.50679206,PM2.5
+"Dickinson, ND",46.8943,-103.37853,4.653448276,PM2.5
+"Dothan, AL",31.226359,-85.390768,12.44705603,PM2.5
+"Dover, DE",39.07272309,-75.53699365,9.542600897,PM2.5
+"Duluth, MN-WI",46.97060103,-92.21101686,5.666285714,PM2.5
+"Durango, CO",37.12531294,-107.7096334,4.160588235,PM2.5
+"Durham, NC",35.89389454,-79.03366564,9.531465517,PM2.5
+"East Stroudsburg, PA",41.08306,-75.32328,9.157362381,PM2.5
+"Eau Claire, WI",44.812,-91.496,10.04285714,PM2.5
+"El Centro, CA",32.78617514,-115.5200726,9.472488038,PM2.5
+"El Dorado, AR",33.220274,-92.669619,11.61583333,PM2.5
+"El Paso, TX",31.76459761,-106.4846992,10.04624277,PM2.5
+"Elizabethtown, KY",37.705612,-85.852629,11.77318436,PM2.5
+"Elkhart-Goshen, IN",41.656905,-85.968372,12.81605317,PM2.5
+"Erie, PA",42.14175,-80.038611,11.24219588,PM2.5
+"Eugene-Springfield, OR",43.95846739,-122.9936976,6.45,PM2.5
+"Eureka-Arcata-Fortuna, CA",40.78950311,-124.1697125,5.903409091,PM2.5
+"Evansville, IN-KY",38.01887243,-87.54379887,12.58662383,PM2.5
+"Fairbanks, AK",64.81789312,-147.6210946,12.32665037,PM2.5
+"Fairmont, WV",39.481483,-80.134667,13.1039604,PM2.5
+"Fajardo, PR",18.383983,-65.618888,7.548648649,PM2.5
+"Fargo, ND-MN",46.933754,-96.85535,9.568171237,PM2.5
+"Farmington, NM",36.774162,-108.165034,4.57357513,PM2.5
+"Fayetteville, NC",35.041416,-78.953112,11.38760331,PM2.5
+"Fayetteville-Springdale-Rogers, AR-MO",36.1797,-94.116827,11.13983051,PM2.5
+"Flagstaff, AZ",35.206111,-111.652777,5.075,PM2.5
+"Flint, MI",43.047224,-83.670159,8.844262295,PM2.5
+"Florence, SC",34.214263,-79.767347,10.85363636,PM2.5
+"Florence-Muscle Shoals, AL",34.758781,-87.650562,11.03932191,PM2.5
+"Fort Collins-Loveland, CO",40.571288,-105.079693,6.461788618,PM2.5
+"Fort Madison-Keokuk, IA-MO",40.400959,-91.391012,11.80956522,PM2.5
+"Fort Payne, AL",34.287627,-85.968298,11.49805825,PM2.5
+"Fort Smith, AR-OK",35.4279724,-94.5054422,11.201,PM2.5
+"Fort Wayne, IN",41.12594064,-85.32059866,13.30314098,PM2.5
+"Frankfort, KY",38.219361,-84.8385,11.3795082,PM2.5
+"Fresno, CA",36.74209576,-119.962248,11.66617643,PM2.5
+"Gadsden, AL",33.993749,-85.991072,13.77481133,PM2.5
+"Gainesville, FL",29.68910527,-82.39509419,7.947881356,PM2.5
+"Gainesville, GA",34.30008,-83.81217,11.39009009,PM2.5
+"Gettysburg, PA",39.92002,-77.30968,11.75163742,PM2.5
+"Gillette, WY",44.09234726,-105.3676279,5.293744386,PM2.5
+"Goldsboro, NC",35.369214,-77.993893,10.63833333,PM2.5
+"Grand Island, NE",40.942099,-98.364967,7.273451327,PM2.5
+"Grand Junction, CO",39.063798,-108.561173,8.999159664,PM2.5
+"Grand Rapids-Wyoming, MI",42.97323592,-85.6743711,9.718983051,PM2.5
+"Grants Pass, OR",42.434139,-123.348466,6.405263158,PM2.5
+"Greeley, CO",40.31561488,-104.7635049,7.457627119,PM2.5
+"Green Bay, WI",44.50729,-87.99344,10.31532305,PM2.5
+"Greensboro-High Point, NC",36.09989713,-79.84823935,10.43980769,PM2.5
+"Greenville, NC",35.63861,-77.35805,9.218803419,PM2.5
+"Greenville-Mauldin-Easley, SC",34.87254107,-82.36194759,11.6034188,PM2.5
+"Grenada, MS",33.834444,-89.792778,9.789915966,PM2.5
+"Guayama, PR",17.957894,-66.165016,7.96,PM2.5
+"Gulfport-Biloxi, MS",30.34401629,-89.22897334,9.913716814,PM2.5
+"Hagerstown-Martinsburg, MD-WV",39.53735159,-77.77656094,12.19507545,PM2.5
+"Hammond, LA",30.503056,-90.376944,8.910714286,PM2.5
+"Hanford-Corcoran, CA",36.18976743,-119.5989878,17.39166411,PM2.5
+"Harriman, TN",35.90963051,-84.51197896,13.22857198,PM2.5
+"Harrisburg-Carlisle, PA",40.24672031,-77.04593016,12.83792387,PM2.5
+"Harrisonburg, VA",38.47753,-78.81952,11.26239316,PM2.5
+"Hartford-West Hartford-East Hartford, CT",41.77452431,-72.63233772,7.873728814,PM2.5
+"Hattiesburg, MS",31.323639,-89.287167,12.00608696,PM2.5
+"Helena, MT",46.658762,-112.013089,9.365622697,PM2.5
+"Helena-West Helena, AR",34.529766,-90.586049,11.45083333,PM2.5
+"Hickory-Lenoir-Morganton, NC",35.728889,-81.365556,11.41435897,PM2.5
+"Hilo, HI",19.38768281,-155.5709089,11.70627241,PM2.5
+"Hobbs, NM",32.726656,-103.122917,5.655660377,PM2.5
+"Holland-Grand Haven, MI",42.894451,-85.852734,9.141666667,PM2.5
+"Homosassa Springs, FL",28.980556,-82.7,7.625342466,PM2.5
+"Honolulu, HI",21.33364596,-157.9481043,5.826026269,PM2.5
+"Hot Springs, AR",34.469441,-93.000178,11.01239669,PM2.5
+"Houma-Bayou Cane-Thibodaux, LA",29.678883,-90.779967,8.799166667,PM2.5
+"Houston-Sugar Land-Baytown, TX",29.75684932,-95.23934311,12.12587549,PM2.5
+"Huntington-Ashland, WV-KY-OH",38.4612108,-82.56567409,12.37380952,PM2.5
+"Huntsville, AL",34.68767,-86.58637,11.58583333,PM2.5
+"Indianapolis-Carmel, IN",39.7891226,-86.16434226,14.6524791,PM2.5
+"Iowa City, IA",41.657232,-91.503478,11.47362319,PM2.5
+"Jackson, MS",32.36189133,-90.15196598,11.47511962,PM2.5
+"Jackson, WY-ID",43.47808,-110.76118,4.266071429,PM2.5
+"Jacksonville, FL",30.28165084,-81.60564027,8.640994371,PM2.5
+"Jamestown-Dunkirk-Fredonia, NY",42.29071,-79.58961,7.706722689,PM2.5
+"Jasper, IN",38.391443,-86.92916,13.5622807,PM2.5
+"Johnstown, PA",40.309722,-78.915,13.09004776,PM2.5
+"Juneau, AK",58.388497,-134.567237,8.65166426,PM2.5
+"Kahului-Wailuku, HI",20.780997,-156.446373,4.794388241,PM2.5
+"Kalamazoo-Portage, MI",42.278067,-85.54189,9.318934911,PM2.5
+"Kalispell, MT",48.30816278,-114.3061552,8.17933705,PM2.5
+"Kansas City, MO-KS",39.01800082,-94.55048137,10.2157057,PM2.5
+"Keene, NH",42.930472,-72.272389,8.372835214,PM2.5
+"Kingsport-Bristol-Bristol, TN-VA",36.608,-82.1641,10.83050847,PM2.5
+"Kinston, NC",35.231459,-77.568792,9.506034483,PM2.5
+"Klamath Falls, OR",42.190296,-121.731369,9.823728814,PM2.5
+"Kokomo, IN",40.485479,-86.132879,12.50267857,PM2.5
+"La Crosse, WI-MN",43.7775,-91.2269,8.15992075,PM2.5
+"La Grande, OR",45.339,-118.095206,5.867213115,PM2.5
+"Laconia, NH",43.566111,-71.496361,5.803225806,PM2.5
+"Lafayette, IN",40.431639,-86.8525,12.93811351,PM2.5
+"Lafayette, LA",30.24640341,-92.03415322,9.420661157,PM2.5
+"Lake Charles, LA",30.20193524,-93.39264944,9.302489627,PM2.5
+"Lakeland, FL",28.028889,-81.972222,7.798,PM2.5
+"Lancaster, PA",40.046667,-76.283333,11.72574475,PM2.5
+"Lansing-East Lansing, MI",42.738618,-84.534633,8.859821429,PM2.5
+"Laramie, WY",41.311586,-105.591725,4.81826087,PM2.5
+"Las Cruces, NM",31.94331425,-106.6164459,8.27277628,PM2.5
+"Las Vegas-Paradise, NV",36.06159089,-115.1821865,6.311302211,PM2.5
+"Laurel, MS",31.688638,-89.135115,12.25798319,PM2.5
+"Lebanon, NH-VT",43.629611,-72.309583,6.66531959,PM2.5
+"Lewiston-Auburn, ME",44.089406,-70.214219,7.14375,PM2.5
+"Lexington-Fayette, KY",38.05235558,-84.50240515,12.21774892,PM2.5
+"Lima, OH",40.770944,-84.0539,11.03846154,PM2.5
+"Lincoln, NE",40.81259,-96.68302,9.008333333,PM2.5
+"Little Rock-North Little Rock-Conway, AR",34.78672132,-92.31687002,12.16839623,PM2.5
+"Logan, UT-ID",41.75427848,-111.8351742,10.29900498,PM2.5
+"Los Angeles-Long Beach-Santa Ana, CA",33.96914303,-118.1464853,10.89636514,PM2.5
+"Louisville/Jefferson County, KY-IN",38.2790358,-85.78504853,13.74177467,PM2.5
+"Lubbock, TX",33.590764,-101.850419,6.386666667,PM2.5
+"Lumberton, NC",34.645,-78.99028,10.59256198,PM2.5
+"Lynchburg, VA",37.332706,-79.215011,9.804273504,PM2.5
+"Macon, GA",32.78375342,-83.61911022,13.2167382,PM2.5
+"Madera, CA",36.953256,-120.034203,21.45037043,PM2.5
+"Madison, WI",43.0911997,-89.3847737,11.39559338,PM2.5
+"Manchester-Nashua, NH",42.762056,-71.444583,8.075833333,PM2.5
+"Manitowoc, WI",44.138619,-87.6161,9.25625,PM2.5
+"Marshall, TX",32.668987,-94.167457,10.4295082,PM2.5
+"McAlester, OK",34.90227,-95.784375,9.840983607,PM2.5
+"McAllen-Edinburg-Mission, TX",26.226226,-98.29107,9.726923077,PM2.5
+"Medford, OR",42.3687564,-122.8781888,6.042564103,PM2.5
+"Memphis, TN-MS-AR",35.00789573,-90.08962285,11.00042017,PM2.5
+"Merced, CA",37.28529551,-120.4413059,15.04856524,PM2.5
+"Meridian, MS",32.364565,-88.731491,11.17731092,PM2.5
+"Miami, OK",36.922222,-94.838889,9.562921348,PM2.5
+"Miami-Fort Lauderdale-Pompano Beach, FL",26.30343289,-80.36402466,7.089207721,PM2.5
+"Michigan City-La Porte, IN",41.707212,-86.891216,10.73898305,PM2.5
+"Middlesborough, KY",36.60843,-83.73694,12.83166667,PM2.5
+"Milwaukee-Waukesha-West Allis, WI",43.10555066,-87.95216966,11.28528603,PM2.5
+"Minneapolis-St. Paul-Bloomington, MN-WI",44.95278591,-93.16198932,9.195550847,PM2.5
+"Missoula, MT",46.89865441,-114.0846746,8.119780355,PM2.5
+"Mobile, AL",30.62370027,-88.1140801,9.634433962,PM2.5
+"Modesto, CA",37.55541292,-120.9061995,12.41276116,PM2.5
+"Monroe, LA",32.509713,-92.046093,9.559504132,PM2.5
+"Monroe, MI",41.763889,-83.471944,9.386554622,PM2.5
+"Montgomery, AL",32.40712,-86.256367,12.09801797,PM2.5
+"Morgantown, WV",39.649367,-79.920867,11.31694915,PM2.5
+"Mount Vernon, IL",38.082155,-88.624943,11.26833333,PM2.5
+"Muncie, IN",40.201141,-85.387999,12.78738739,PM2.5
+"Muscatine, IA",41.40747146,-91.06748821,13.20654362,PM2.5
+"Muskegon-Norton Shores, MI",43.233061,-86.23858,8.259166667,PM2.5
+"Muskogee, OK",35.755273,-95.377669,10.72916667,PM2.5
+"Natchez, MS-LA",31.560752,-91.390405,10.41818182,PM2.5
+"New Castle, IN",40.009525,-85.523455,12.11711712,PM2.5
+"New Haven-Milford, CT",41.36472705,-72.93999064,8.997435897,PM2.5
+"New Orleans-Metairie-Kenner, LA",29.99660139,-90.19953599,9.417169811,PM2.5
+"New York-Northern New Jersey-Long Island, NY-NJ-PA",40.67905257,-74.0516864,9.600255933,PM2.5
+"Niles-Benton Harbor, MI",42.19779,-86.309694,8.753278689,PM2.5
+"Nogales, AZ",31.337204,-110.936718,10.2875,PM2.5
+"Norwich-New London, CT",41.524167,-72.076667,7.767222222,PM2.5
+"Odessa, TX",31.836575,-102.342037,7.068518519,PM2.5
+"Ogden-Clearfield, UT",41.16238711,-111.9591384,9.139539007,PM2.5
+"Oklahoma City, OK",35.52778238,-97.50688458,9.124662162,PM2.5
+"Omaha-Council Bluffs, NE-IA",41.23948052,-95.98260338,10.79664891,PM2.5
+"Orlando-Kissimmee, FL",28.60149084,-81.34734462,7.528358209,PM2.5
+"Ottawa-Streator, IL",41.293015,-89.049425,9.445132743,PM2.5
+"Owensboro, KY",37.780776,-87.075307,12.88416667,PM2.5
+"Oxnard-Thousand Oaks-Ventura, CA",34.2682838,-118.8860262,8.599052133,PM2.5
+"Paducah, KY-IL",37.06636,-88.63774,11.43628319,PM2.5
+"Palm Bay-Melbourne-Titusville, FL",28.053611,-80.628611,6.866666667,PM2.5
+"Parkersburg-Marietta-Vienna, WV-OH",39.323533,-81.552367,13.30769231,PM2.5
+"Pascagoula, MS",30.378287,-88.53393,9.471929825,PM2.5
+"Pendleton-Hermiston, OR",45.652231,-118.823033,6.950847458,PM2.5
+"Pensacola-Ferry Pass-Brent, FL",30.525367,-87.20355,9.173856209,PM2.5
+"Peoria, IL",40.697007,-89.584737,11.50909091,PM2.5
+"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",39.88988937,-75.36934768,11.52155116,PM2.5
+"Phoenix-Mesa-Scottsdale, AZ",33.40803235,-112.0426024,8.369250829,PM2.5
+"Pittsburgh, PA",40.44243353,-79.96699808,12.94701099,PM2.5
+"Pittsfield, MA",42.448009,-73.254108,8.926890756,PM2.5
+"Platteville, WI",42.693,-90.698,10.26,PM2.5
+"Pocatello, ID",42.978333,-112.455,4.517738991,PM2.5
+"Ponce, PR",18.009558,-66.627249,6.213157895,PM2.5
+"Port St. Lucie, FL",27.448889,-80.40833,7.74109589,PM2.5
+"Portland-South Portland-Biddeford, ME",43.66524301,-70.26536478,7.666019417,PM2.5
+"Portland-Vancouver-Beaverton, OR-WA",45.59277862,-122.6600392,6.229022082,PM2.5
+"Portsmouth, OH",38.754595,-82.917,11.8716763,PM2.5
+"Poughkeepsie-Newburgh-Middletown, NY",41.49916,-74.00885,8.154385965,PM2.5
+"Prescott, AZ",34.595,-112.331,3.866666667,PM2.5
+"Prineville, OR",44.299787,-120.844773,8.392,PM2.5
+"Providence-New Bedford-Fall River, RI-MA",41.73388069,-71.50745812,7.324748812,PM2.5
+"Provo-Orem, UT",40.29636615,-111.6995588,8.891956522,PM2.5
+"Pueblo, CO",38.276099,-104.597613,6.244628099,PM2.5
+"Quincy, IL-MO",39.915409,-91.335868,10.45344828,PM2.5
+"Raleigh-Cary, NC",35.82121667,-78.57328768,10.61938992,PM2.5
+"Rapid City, SD",44.08621593,-103.2678309,5.665503686,PM2.5
+"Reading, PA",40.38335,-75.9686,10.16555806,PM2.5
+"Redding, CA",40.62535241,-122.3958685,4.937931034,PM2.5
+"Reno-Sparks, NV",39.525083,-119.807717,6.139661119,PM2.5
+"Richmond, VA",37.52333494,-77.41125076,9.875123153,PM2.5
+"Richmond-Berea, KY",37.738458,-84.284952,10.70347826,PM2.5
+"Riverside-San Bernardino-Ontario, CA",33.93860393,-117.2228888,11.09653575,PM2.5
+"Riverton, WY",42.841049,-108.736277,9.405932203,PM2.5
+"Roanoke, VA",37.29734829,-79.98745384,10.25659574,PM2.5
+"Rochester, MN",43.996908,-92.450366,9.301724138,PM2.5
+"Rochester, NY",43.14618,-77.54817,8.615178571,PM2.5
+"Rock Springs, WY",41.591613,-109.220722,5.898095238,PM2.5
+"Rockford, IL",42.263081,-89.092767,9.887735849,PM2.5
+"Rocky Mount, NC",35.93355,-77.75007,9.700854701,PM2.5
+"Rome, GA",34.26054,-85.32333,13.28227425,PM2.5
+"Roswell, NM",33.396944,-104.523611,5.331683168,PM2.5
+"Russellville, AR",35.259775,-93.10005,11.28319328,PM2.5
+"Rutland, VT",43.608056,-72.982778,9.432758621,PM2.5
+"Sacramento--Arden-Arcade--Roseville, CA",38.60858387,-121.4499857,7.717821782,PM2.5
+"Salinas, CA",36.69676,-121.637182,6.449470975,PM2.5
+"Salisbury, NC",35.551868,-80.395039,11.02894737,PM2.5
+"Salt Lake City, UT",40.72784308,-111.9786522,9.515111111,PM2.5
+"San Antonio, TX",29.39187509,-98.4616046,8.848598131,PM2.5
+"San Diego-Carlsbad-San Marcos, CA",33.0655902,-117.0908327,5.564081604,PM2.5
+"San Francisco-Oakland-Fremont, CA",37.71404508,-122.2127003,9.037374335,PM2.5
+"San Jose-Sunnyvale-Santa Clara, CA",36.97531433,-121.5216514,7.289827971,PM2.5
+"San Juan-Caguas-Guaynabo, PR",18.440095,-66.11446,8.410769231,PM2.5
+"San Luis Obispo-Paso Robles, CA",35.2119431,-120.6107109,7.571759926,PM2.5
+"Santa Barbara-Santa Maria-Goleta, CA",34.69370092,-120.0719256,8.227542991,PM2.5
+"Santa Cruz-Watsonville, CA",36.983921,-121.989328,6.514847558,PM2.5
+"Santa Fe, NM",35.671111,-105.953611,4.0125,PM2.5
+"Santa Rosa-Petaluma, CA",38.443503,-122.710169,7.222441476,PM2.5
+"Sault Ste. Marie, MI",46.48003727,-84.43280708,12.87534247,PM2.5
+"Savannah, GA",32.1003745,-81.15143042,10.74473684,PM2.5
+"Scottsbluff, NE",41.876853,-103.656561,5.298,PM2.5
+"Scranton--Wilkes-Barre, PA",41.442778,-75.623056,9.696103943,PM2.5
+"Seaford, DE",38.6539,-75.6106,9.895454545,PM2.5
+"Searcy, AR",35.24894,-91.715596,11.67094017,PM2.5
+"Seattle-Tacoma-Bellevue, WA",47.64023211,-122.253088,6.550538934,PM2.5
+"Seneca, SC",34.805261,-83.2377,8.688073395,PM2.5
+"Sheridan, WY",44.81129562,-106.96403,7.463122924,PM2.5
+"Shreveport-Bossier City, LA",32.471666,-93.794999,10.98874172,PM2.5
+"Sierra Vista-Douglas, AZ",31.3492,-109.539683,6.776271186,PM2.5
+"Silver City, NM",32.784444,-108.271667,4.4875,PM2.5
+"Sioux City, IA-NE-SD",42.78379491,-96.70459423,9.644379111,PM2.5
+"Sioux Falls, SD",43.54746377,-96.70399391,10.05276977,PM2.5
+"Somerset, KY",37.09798,-84.61152,11.00042245,PM2.5
+"South Bend-Mishawaka, IN-MI",41.696692,-86.214683,13.76798922,PM2.5
+"Spartanburg, SC",34.955566,-81.924797,11.4045584,PM2.5
+"Spokane, WA",47.672482,-117.364852,7.483018868,PM2.5
+"Springfield, IL",39.831921,-89.644164,11.46637931,PM2.5
+"Springfield, MA",42.14996113,-72.57495832,8.44279661,PM2.5
+"Springfield, MO",37.199541,-93.284874,10.12289157,PM2.5
+"Springfield, OH",39.92882,-83.80949,13.13442623,PM2.5
+"St. Cloud, MN",45.549839,-94.13345,8.171551724,PM2.5
+"St. George, UT",37.1983,-113.1506,4.016489476,PM2.5
+"St. Joseph, MO-KS",39.741694,-94.858584,12.03020603,PM2.5
+"St. Louis, MO-IL",38.61557361,-90.26377219,12.04513495,PM2.5
+"State College, PA",40.811389,-77.877028,9.220222832,PM2.5
+"Stockton, CA",37.93687568,-121.2667798,11.82349018,PM2.5
+"Syracuse, NY",43.05235,-76.05921,7.774782609,PM2.5
+"Talladega-Sylacauga, AL",33.279747,-86.349438,11.74273504,PM2.5
+"Tallahassee, FL",30.439722,-84.346389,9.782248521,PM2.5
+"Tampa-St. Petersburg-Clearwater, FL",27.89439054,-82.51147769,8.145954357,PM2.5
+"Terre Haute, IN",39.48244216,-87.39757451,13.17532738,PM2.5
+"Texarkana, TX-Texarkana, AR",33.425758,-94.070802,12.14827586,PM2.5
+"Thomasville-Lexington, NC",35.814444,-80.2625,12.07647059,PM2.5
+"Toledo, OH",41.64256183,-83.55462775,11.24962025,PM2.5
+"Topeka, KS",39.024265,-95.711275,9.017948718,PM2.5
+"Torrington, CT",41.74944193,-73.20837007,6.737037037,PM2.5
+"Trenton-Ewing, NJ",40.24317538,-74.78843462,9.219230769,PM2.5
+"Truckee-Grass Valley, CA",39.31621582,-120.360704,5.246046512,PM2.5
+"Tucson, AZ",32.30873138,-111.0099895,5.084388186,PM2.5
+"Tulsa, OK",36.19979476,-95.97250905,10.73412073,PM2.5
+"Tupelo, MS",34.264917,-88.766222,11.96239316,PM2.5
+"Tuscaloosa, AL",33.18935,-87.484217,14.12722921,PM2.5
+"Ukiah, CA",39.2802891,-123.2791388,7.154346459,PM2.5
+"Valdosta, GA",30.848056,-83.294444,11.72222222,PM2.5
+"Vallejo-Fairfield, CA",38.102507,-122.237976,8.604891304,PM2.5
+"Vincennes, IN",38.740882,-87.484733,12.3026087,PM2.5
+"Virginia Beach-Norfolk-Newport News, VA-NC",36.89013061,-76.25725967,9.91379845,PM2.5
+"Visalia-Porterville, CA",36.332179,-119.291228,13.63166667,PM2.5
+"Warner Robins, GA",32.6056,-83.597907,12.11296296,PM2.5
+"Washington-Arlington-Alexandria, DC-VA-MD-WV",38.965312,-77.01699518,10.9273635,PM2.5
+"Waterloo-Cedar Falls, IA",42.49733486,-92.32983687,10.75625,PM2.5
+"Watertown, SD",44.89965,-97.128802,8.749137931,PM2.5
+"Weirton-Steubenville, WV-OH",40.37156001,-80.60230861,13.21819672,PM2.5
+"Wheeling, WV-OH",40.01626136,-80.71727565,13.50932203,PM2.5
+"Wichita, KS",37.62920351,-97.33308158,8.562381853,PM2.5
+"Wilmington, NC",34.364167,-77.838611,8.019827586,PM2.5
+"Winchester, VA-WV",39.28102,-78.08157,10.80762712,PM2.5
+"Winston-Salem, NC",36.0878216,-80.25767634,10.78726415,PM2.5
+"Worcester, MA",42.2620285,-71.7963485,8.415966387,PM2.5
+"Yakima, WA",46.58701669,-120.5105795,8.609917355,PM2.5
+"York-Hanover, PA",39.965278,-76.699444,12.10201228,PM2.5
+"Youngstown-Warren-Boardman, OH-PA",41.18392862,-80.58298992,11.41093632,PM2.5
+"Yuba City, CA",39.138773,-121.618549,6.131076923,PM2.5
+"Yuma, AZ",32.690278,-114.61444,7.365,PM2.5
+"Aberdeen, WA",NA,NA,NA,PM2.5
+"Ardmore, OK",NA,NA,NA,PM2.5
+"Barnstable Town, MA",NA,NA,NA,PM2.5
+"Bellingham, WA",NA,NA,NA,PM2.5
+"Berlin, NH-VT",NA,NA,NA,PM2.5
+"Billings, MT",NA,NA,NA,PM2.5
+"Branson, MO",NA,NA,NA,PM2.5
+"Bremerton-Silverdale, WA",NA,NA,NA,PM2.5
+"Carlsbad-Artesia, NM",NA,NA,NA,PM2.5
+"Centralia, WA",NA,NA,NA,PM2.5
+"Corsicana, TX",NA,NA,NA,PM2.5
+"Corvallis, OR",NA,NA,NA,PM2.5
+"Crescent City, CA",NA,NA,NA,PM2.5
+"Dalton, GA",NA,NA,NA,PM2.5
+"Douglas, GA",NA,NA,NA,PM2.5
+"Eagle Pass, TX",NA,NA,NA,PM2.5
+"Elko, NV",NA,NA,NA,PM2.5
+"Ellensburg, WA",NA,NA,NA,PM2.5
+"Emporia, KS",NA,NA,NA,PM2.5
+"Espanola, NM",NA,NA,NA,PM2.5
+"Great Falls, MT",NA,NA,NA,PM2.5
+"Harrison, AR",NA,NA,NA,PM2.5
+"Houghton, MI",NA,NA,NA,PM2.5
+"Kennewick-Richland-Pasco, WA",NA,NA,NA,PM2.5
+"Kingsville, TX",NA,NA,NA,PM2.5
+"Knoxville, TN",NA,NA,NA,PM2.5
+"Lake City, FL",NA,NA,NA,PM2.5
+"Lake Havasu City-Kingman, AZ",NA,NA,NA,PM2.5
+"Laredo, TX",NA,NA,NA,PM2.5
+"Lawrenceburg, TN",NA,NA,NA,PM2.5
+"Lawton, OK",NA,NA,NA,PM2.5
+"Lewiston, ID-WA",NA,NA,NA,PM2.5
+"Longview, WA",NA,NA,NA,PM2.5
+"Los Alamos, NM",NA,NA,NA,PM2.5
+"Marshall, MN",NA,NA,NA,PM2.5
+"Moscow, ID",NA,NA,NA,PM2.5
+"Moses Lake, WA",NA,NA,NA,PM2.5
+"Mount Vernon-Anacortes, WA",NA,NA,NA,PM2.5
+"Napa, CA",NA,NA,NA,PM2.5
+"Naples-Marco Island, FL",NA,NA,NA,PM2.5
+"Nashville-Davidson-Murfreesboro-Franklin, TN",NA,NA,NA,PM2.5
+"Ocala, FL",NA,NA,NA,PM2.5
+"Olympia, WA",NA,NA,NA,PM2.5
+"Panama City-Lynn Haven, FL",NA,NA,NA,PM2.5
+"Payson, AZ",NA,NA,NA,PM2.5
+"Ponca City, OK",NA,NA,NA,PM2.5
+"Port Angeles, WA",NA,NA,NA,PM2.5
+"Pullman, WA",NA,NA,NA,PM2.5
+"Red Bluff, CA",NA,NA,NA,PM2.5
+"Roseburg, OR",NA,NA,NA,PM2.5
+"Ruidoso, NM",NA,NA,NA,PM2.5
+"Salem, OR",NA,NA,NA,PM2.5
+"Shelton, WA",NA,NA,NA,PM2.5
+"Show Low, AZ",NA,NA,NA,PM2.5
+"Taos, NM",NA,NA,NA,PM2.5
+"The Dalles, OR",NA,NA,NA,PM2.5
+"Twin Falls, ID",NA,NA,NA,PM2.5
+"Utica-Rome, NY",NA,NA,NA,PM2.5
+"Vernal, UT",NA,NA,NA,PM2.5
+"Vineland-Millville-Bridgeton, NJ",NA,NA,NA,PM2.5
+"Waco, TX",NA,NA,NA,PM2.5
+"Walla Walla, WA",NA,NA,NA,PM2.5
+"Wenatchee, WA",NA,NA,NA,PM2.5
+"Wichita Falls, TX",NA,NA,NA,PM2.5
+"Winona, MN",NA,NA,NA,PM2.5
+"Athens, TN",NA,NA,NA,PM2.5
+"Canon City, CO",NA,NA,NA,PM2.5
+"Carbondale, IL",NA,NA,NA,PM2.5
+"Cleveland, TN",NA,NA,NA,PM2.5
+"Culpeper, VA",NA,NA,NA,PM2.5
+"Deming, NM",NA,NA,NA,PM2.5
+"Dodge City, KS",NA,NA,NA,PM2.5
+"East Liverpool-Salem, OH",NA,NA,NA,PM2.5
+"Evanston, WY",NA,NA,NA,PM2.5
+"Findlay, OH",NA,NA,NA,PM2.5
+"Gallup, NM",NA,NA,NA,PM2.5
+"Georgetown, SC",NA,NA,NA,PM2.5
+"Jackson, TN",NA,NA,NA,PM2.5
+"Joplin, MO",NA,NA,NA,PM2.5
+"Lexington, NE",NA,NA,NA,PM2.5
+"Mason City, IA",NA,NA,NA,PM2.5
+"New Castle, PA",NA,NA,NA,PM2.5
+"Pahrump, NV",NA,NA,NA,PM2.5
+"Palatka, FL",NA,NA,NA,PM2.5
+"Silverthorne, CO",NA,NA,NA,PM2.5
+"Summerville, GA",NA,NA,NA,PM2.5
+"Williamsport, PA",NA,NA,NA,PM2.5
+"Burley, ID",NA,NA,NA,PM2.5
+"Coeur d'Alene, ID",NA,NA,NA,PM2.5
+"Elmira, NY",NA,NA,NA,PM2.5
+"Granbury, TX",NA,NA,NA,PM2.5
+"Iron Mountain, MI-WI",NA,NA,NA,PM2.5
+"Killeen-Temple-Fort Hood, TX",NA,NA,NA,PM2.5
+"Kingston, NY",NA,NA,NA,PM2.5
+"Longview, TX",NA,NA,NA,PM2.5
+"Malone, NY",NA,NA,NA,PM2.5
+"Minot, ND",NA,NA,NA,PM2.5
+"Ocean Pines, MD",NA,NA,NA,PM2.5
+"Phoenix Lake-Cedar Ridge, CA",NA,NA,NA,PM2.5
+"Racine, WI",NA,NA,NA,PM2.5
+"Richmond, IN",NA,NA,NA,PM2.5
+"Rockland, ME",NA,NA,NA,PM2.5
+"Sevierville, TN",NA,NA,NA,PM2.5
+"Seymour, IN",NA,NA,NA,PM2.5
+"Sheboygan, WI",NA,NA,NA,PM2.5
+"Tahlequah, OK",NA,NA,NA,PM2.5
+"Tyler, TX",NA,NA,NA,PM2.5
+"Victoria, TX",NA,NA,NA,PM2.5
+"Wausau, WI",NA,NA,NA,PM2.5
+"Whitewater, WI",NA,NA,NA,PM2.5
+"Williston, ND",NA,NA,NA,PM2.5
+"Watertown-Fort Drum, NY",NA,NA,NA,PM2.5
+"Ames, IA",NA,NA,NA,PM2.5
+"Bemidji, MN",NA,NA,NA,PM2.5
+"Greeneville, TN",NA,NA,NA,PM2.5
+"Jefferson City, MO",NA,NA,NA,PM2.5
+"Lufkin, TX",NA,NA,NA,PM2.5
+"Warsaw, IN",NA,NA,NA,PM2.5
+"Gardnerville Ranchos, NV",NA,NA,NA,PM2.5
+"Americus, GA",NA,NA,NA,PM2.5
+"Anderson, SC",NA,NA,NA,PM2.5
+"Ashtabula, OH",NA,NA,NA,PM2.5
+"Carson City, NV",NA,NA,NA,PM2.5
+"Chambersburg, PA",NA,NA,NA,PM2.5
+"Columbia, MO",NA,NA,NA,PM2.5
+"DuBois, PA",NA,NA,NA,PM2.5
+"Effingham, IL",NA,NA,NA,PM2.5
+"Fallon, NV",NA,NA,NA,PM2.5
+"Fernley, NV",NA,NA,NA,PM2.5
+"Fond du Lac, WI",NA,NA,NA,PM2.5
+"Fort Walton Beach-Crestview-Destin, FL",NA,NA,NA,PM2.5
+"Gaffney, SC",NA,NA,NA,PM2.5
+"Huntington, IN",NA,NA,NA,PM2.5
+"Indiana, PA",NA,NA,NA,PM2.5
+"Janesville, WI",NA,NA,NA,PM2.5
+"Lincolnton, NC",NA,NA,NA,PM2.5
+"Morristown, TN",NA,NA,NA,PM2.5
+"Mount Vernon, OH",NA,NA,NA,PM2.5
+"Myrtle Beach-Conway-North Myrtle Beach, SC",NA,NA,NA,PM2.5
+"Red Wing, MN",NA,NA,NA,PM2.5
+"Sebring, FL",NA,NA,NA,PM2.5
+"Traverse City, MI",NA,NA,NA,PM2.5
+"Walterboro, SC",NA,NA,NA,PM2.5
+"Watertown-Fort Atkinson, WI",NA,NA,NA,PM2.5
+"Wilmington, OH",NA,NA,NA,PM2.5
+"Coffeyville, KS",NA,NA,NA,PM2.5
+"New Philadelphia-Dover, OH",NA,NA,NA,PM2.5
+"Warren, PA",NA,NA,NA,PM2.5
+"Washington, IN",NA,NA,NA,PM2.5
+"Washington, NC",NA,NA,NA,PM2.5
+"Yauco, PR",NA,NA,NA,PM2.5
+"Aberdeen, SD",,,19.57894737,PM10
+"Adrian, MI",,,NA,PM10
+"Akron, OH",,,NA,PM10
+"Albany, GA",,,20.75409836,PM10
+"Albany-Lebanon, OR",,,NA,PM10
+"Albany-Schenectady-Troy, NY",,,NA,PM10
+"Albuquerque, NM",,,28.25651721,PM10
+"Alexandria, LA",,,NA,PM10
+"Allegan, MI",,,NA,PM10
+"Allentown-Bethlehem-Easton, PA-NJ",,,17.06460674,PM10
+"Altoona, PA",,,16.49041096,PM10
+"Amarillo, TX",,,NA,PM10
+"Anchorage, AK",,,16.37865398,PM10
+"Anderson, IN",,,NA,PM10
+"Ann Arbor, MI",,,NA,PM10
+"Appleton, WI",,,NA,PM10
+"Asheville, NC",,,NA,PM10
+"Athens, OH",,,NA,PM10
+"Athens-Clarke County, GA",,,NA,PM10
+"Atlanta-Sandy Springs-Marietta, GA",,,18.22664016,PM10
+"Atlantic City, NJ",,,15.42857143,PM10
+"Augusta-Richmond County, GA-SC",,,19.07272727,PM10
+"Augusta-Waterville, ME",,,12.61666667,PM10
+"Austin-Round Rock, TX",,,15.34745763,PM10
+"Bakersfield, CA",,,30.9450727,PM10
+"Baltimore-Towson, MD",,,16.33529412,PM10
+"Bangor, ME",,,14.95,PM10
+"Baraboo, WI",,,NA,PM10
+"Baton Rouge, LA",,,27.80172414,PM10
+"Bay City, MI",,,NA,PM10
+"Beaumont-Port Arthur, TX",,,NA,PM10
+"Beaver Dam, WI",,,14.28682171,PM10
+"Beckley, WV",,,NA,PM10
+"Bend, OR",,,NA,PM10
+"Bennington, VT",,,NA,PM10
+"Birmingham-Hoover, AL",,,26.56141304,PM10
+"Bishop, CA",,,23.90907089,PM10
+"Bismarck, ND",,,13.91525424,PM10
+"Bloomington, IN",,,NA,PM10
+"Bloomington-Normal, IL",,,NA,PM10
+"Boise City-Nampa, ID",,,18.30747126,PM10
+"Boone, NC",,,NA,PM10
+"Boston-Cambridge-Quincy, MA-NH",,,13.28571429,PM10
+"Boulder, CO",,,18.21238938,PM10
+"Bowling Green, KY",,,NA,PM10
+"Bozeman, MT",,,NA,PM10
+"Bradenton-Sarasota-Venice, FL",,,18.77134986,PM10
+"Brainerd, MN",,,NA,PM10
+"Bridgeport-Stamford-Norwalk, CT",,,14.06666667,PM10
+"Brigham City, UT",,,NA,PM10
+"Brookings, SD",,,27.56666667,PM10
+"Brownsville-Harlingen, TX",,,19.1570997,PM10
+"Brunswick, GA",,,19.60784314,PM10
+"Buffalo-Niagara Falls, NY",,,NA,PM10
+"Burlington, NC",,,NA,PM10
+"Burlington-South Burlington, VT",,,9.22,PM10
+"Butte-Silver Bow, MT",,,29.75617284,PM10
+"Cadillac, MI",,,NA,PM10
+"Canton-Massillon, OH",,,NA,PM10
+"Cape Coral-Fort Myers, FL",,,16.3908046,PM10
+"Casper, WY",,,15.12418301,PM10
+"Cedar Rapids, IA",,,20.3852459,PM10
+"Champaign-Urbana, IL",,,NA,PM10
+"Charleston, WV",,,18.85277778,PM10
+"Charleston-North Charleston, SC",,,17.4269341,PM10
+"Charlotte-Gastonia-Concord, NC-SC",,,19.71238095,PM10
+"Charlottesville, VA",,,NA,PM10
+"Chattanooga, TN-GA",,,18.01680672,PM10
+"Cheyenne, WY",,,14.21022727,PM10
+"Chicago-Naperville-Joliet, IL-IN-WI",,,23.56002752,PM10
+"Chico, CA",,,16.36065574,PM10
+"Cincinnati-Middletown, OH-KY-IN",,,23.26229508,PM10
+"Clarksburg, WV",,,NA,PM10
+"Clarksville, TN-KY",,,19.5862069,PM10
+"Clearlake, CA",,,NA,PM10
+"Cleveland, MS",,,NA,PM10
+"Cleveland-Elyria-Mentor, OH",,,22.86859273,PM10
+"Clinton, IA",,,NA,PM10
+"Colorado Springs, CO",,,19.5,PM10
+"Columbia, SC",,,19.96691871,PM10
+"Columbus, GA-AL",,,18.84745763,PM10
+"Columbus, OH",,,34.02521008,PM10
+"Concord, NH",,,NA,PM10
+"Corning, NY",,,NA,PM10
+"Corpus Christi, TX",,,20.14545455,PM10
+"Dallas-Fort Worth-Arlington, TX",,,22.13247863,PM10
+"Daphne-Fairhope-Foley, AL",,,NA,PM10
+"Davenport-Moline-Rock Island, IA-IL",,,32.30811554,PM10
+"Dayton, OH",,,20.76470588,PM10
+"Decatur, AL",,,NA,PM10
+"Decatur, IL",,,NA,PM10
+"Deltona-Daytona Beach-Ormond Beach, FL",,,15.01388889,PM10
+"Denver-Aurora, CO",,,26.02932406,PM10
+"Des Moines-West Des Moines, IA",,,20.00829876,PM10
+"Detroit-Warren-Livonia, MI",,,20.37598736,PM10
+"Dickinson, ND",,,NA,PM10
+"Dothan, AL",,,NA,PM10
+"Dover, DE",,,NA,PM10
+"Duluth, MN-WI",,,21.78857143,PM10
+"Durango, CO",,,25.26126126,PM10
+"Durham, NC",,,NA,PM10
+"East Stroudsburg, PA",,,NA,PM10
+"Eau Claire, WI",,,9,PM10
+"El Centro, CA",,,32.50166113,PM10
+"El Dorado, AR",,,NA,PM10
+"El Paso, TX",,,27.36845984,PM10
+"Elizabethtown, KY",,,NA,PM10
+"Elkhart-Goshen, IN",,,NA,PM10
+"Erie, PA",,,14.18831169,PM10
+"Eugene-Springfield, OR",,,11.75925926,PM10
+"Eureka-Arcata-Fortuna, CA",,,17.75418994,PM10
+"Evansville, IN-KY",,,19.66371681,PM10
+"Fairbanks, AK",,,NA,PM10
+"Fairmont, WV",,,NA,PM10
+"Fajardo, PR",,,24.98575499,PM10
+"Fargo, ND-MN",,,12.97720798,PM10
+"Farmington, NM",,,16.96442688,PM10
+"Fayetteville, NC",,,16.48333333,PM10
+"Fayetteville-Springdale-Rogers, AR-MO",,,NA,PM10
+"Flagstaff, AZ",,,22.37982196,PM10
+"Flint, MI",,,NA,PM10
+"Florence, SC",,,NA,PM10
+"Florence-Muscle Shoals, AL",,,NA,PM10
+"Fort Collins-Loveland, CO",,,19.46606335,PM10
+"Fort Madison-Keokuk, IA-MO",,,NA,PM10
+"Fort Payne, AL",,,NA,PM10
+"Fort Smith, AR-OK",,,NA,PM10
+"Fort Wayne, IN",,,25.90909091,PM10
+"Frankfort, KY",,,NA,PM10
+"Fresno, CA",,,27.83139535,PM10
+"Gadsden, AL",,,NA,PM10
+"Gainesville, FL",,,NA,PM10
+"Gainesville, GA",,,NA,PM10
+"Gettysburg, PA",,,NA,PM10
+"Gillette, WY",,,18.09166667,PM10
+"Goldsboro, NC",,,NA,PM10
+"Grand Island, NE",,,NA,PM10
+"Grand Junction, CO",,,25.29137931,PM10
+"Grand Rapids-Wyoming, MI",,,13.64423077,PM10
+"Grants Pass, OR",,,NA,PM10
+"Greeley, CO",,,20.30252101,PM10
+"Green Bay, WI",,,NA,PM10
+"Greensboro-High Point, NC",,,15.59649123,PM10
+"Greenville, NC",,,NA,PM10
+"Greenville-Mauldin-Easley, SC",,,16.60784314,PM10
+"Grenada, MS",,,NA,PM10
+"Guayama, PR",,,25.71794872,PM10
+"Gulfport-Biloxi, MS",,,NA,PM10
+"Hagerstown-Martinsburg, MD-WV",,,NA,PM10
+"Hammond, LA",,,NA,PM10
+"Hanford-Corcoran, CA",,,34.37576499,PM10
+"Harriman, TN",,,18.27895595,PM10
+"Harrisburg-Carlisle, PA",,,16.74444444,PM10
+"Harrisonburg, VA",,,NA,PM10
+"Hartford-West Hartford-East Hartford, CT",,,10.48148148,PM10
+"Hattiesburg, MS",,,NA,PM10
+"Helena, MT",,,NA,PM10
+"Helena-West Helena, AR",,,NA,PM10
+"Hickory-Lenoir-Morganton, NC",,,16.69827586,PM10
+"Hilo, HI",,,NA,PM10
+"Hobbs, NM",,,20.04166667,PM10
+"Holland-Grand Haven, MI",,,NA,PM10
+"Homosassa Springs, FL",,,NA,PM10
+"Honolulu, HI",,,15.35952712,PM10
+"Hot Springs, AR",,,NA,PM10
+"Houma-Bayou Cane-Thibodaux, LA",,,NA,PM10
+"Houston-Sugar Land-Baytown, TX",,,24,PM10
+"Huntington-Ashland, WV-KY-OH",,,26.25714286,PM10
+"Huntsville, AL",,,17.31042654,PM10
+"Indianapolis-Carmel, IN",,,24.86872587,PM10
+"Iowa City, IA",,,22.7,PM10
+"Jackson, MS",,,19.06976744,PM10
+"Jackson, WY-ID",,,13.43103448,PM10
+"Jacksonville, FL",,,20.58204769,PM10
+"Jamestown-Dunkirk-Fredonia, NY",,,NA,PM10
+"Jasper, IN",,,20.86440678,PM10
+"Johnstown, PA",,,19.31531532,PM10
+"Juneau, AK",,,9.016528926,PM10
+"Kahului-Wailuku, HI",,,NA,PM10
+"Kalamazoo-Portage, MI",,,NA,PM10
+"Kalispell, MT",,,17.73,PM10
+"Kansas City, MO-KS",,,26.53846154,PM10
+"Keene, NH",,,NA,PM10
+"Kingsport-Bristol-Bristol, TN-VA",,,NA,PM10
+"Kinston, NC",,,NA,PM10
+"Klamath Falls, OR",,,17.3375,PM10
+"Kokomo, IN",,,NA,PM10
+"La Crosse, WI-MN",,,NA,PM10
+"La Grande, OR",,,12.2,PM10
+"Laconia, NH",,,NA,PM10
+"Lafayette, IN",,,NA,PM10
+"Lafayette, LA",,,22.58741259,PM10
+"Lake Charles, LA",,,NA,PM10
+"Lakeland, FL",,,15.44630404,PM10
+"Lancaster, PA",,,15.92011019,PM10
+"Lansing-East Lansing, MI",,,NA,PM10
+"Laramie, WY",,,23.01231527,PM10
+"Las Cruces, NM",,,37.43196061,PM10
+"Las Vegas-Paradise, NV",,,14.86847305,PM10
+"Laurel, MS",,,NA,PM10
+"Lebanon, NH-VT",,,NA,PM10
+"Lewiston-Auburn, ME",,,13.4,PM10
+"Lexington-Fayette, KY",,,19.32758621,PM10
+"Lima, OH",,,18.95294118,PM10
+"Lincoln, NE",,,NA,PM10
+"Little Rock-North Little Rock-Conway, AR",,,21.22777778,PM10
+"Logan, UT-ID",,,22.53781513,PM10
+"Los Angeles-Long Beach-Santa Ana, CA",,,24.09632846,PM10
+"Louisville/Jefferson County, KY-IN",,,21.47850467,PM10
+"Lubbock, TX",,,NA,PM10
+"Lumberton, NC",,,NA,PM10
+"Lynchburg, VA",,,NA,PM10
+"Macon, GA",,,23.73504274,PM10
+"Madera, CA",,,42,PM10
+"Madison, WI",,,19,PM10
+"Manchester-Nashua, NH",,,11.88596491,PM10
+"Manitowoc, WI",,,NA,PM10
+"Marshall, TX",,,16.38983051,PM10
+"McAlester, OK",,,NA,PM10
+"McAllen-Edinburg-Mission, TX",,,18.35891089,PM10
+"Medford, OR",,,12.51497006,PM10
+"Memphis, TN-MS-AR",,,20.90751445,PM10
+"Merced, CA",,,24.94827586,PM10
+"Meridian, MS",,,NA,PM10
+"Miami, OK",,,21.85714286,PM10
+"Miami-Fort Lauderdale-Pompano Beach, FL",,,17.33020638,PM10
+"Michigan City-La Porte, IN",,,NA,PM10
+"Middlesborough, KY",,,NA,PM10
+"Milwaukee-Waukesha-West Allis, WI",,,21.81609195,PM10
+"Minneapolis-St. Paul-Bloomington, MN-WI",,,25.07664234,PM10
+"Missoula, MT",,,16.96866097,PM10
+"Mobile, AL",,,19.39909297,PM10
+"Modesto, CA",,,22.69166667,PM10
+"Monroe, LA",,,NA,PM10
+"Monroe, MI",,,NA,PM10
+"Montgomery, AL",,,24.76271186,PM10
+"Morgantown, WV",,,NA,PM10
+"Mount Vernon, IL",,,NA,PM10
+"Muncie, IN",,,NA,PM10
+"Muscatine, IA",,,25.52066116,PM10
+"Muskegon-Norton Shores, MI",,,NA,PM10
+"Muskogee, OK",,,30.26541555,PM10
+"Natchez, MS-LA",,,NA,PM10
+"New Castle, IN",,,NA,PM10
+"New Haven-Milford, CT",,,16.27826087,PM10
+"New Orleans-Metairie-Kenner, LA",,,24.97856049,PM10
+"New York-Northern New Jersey-Long Island, NY-NJ-PA",,,27.48514851,PM10
+"Niles-Benton Harbor, MI",,,NA,PM10
+"Nogales, AZ",,,56.56830601,PM10
+"Norwich-New London, CT",,,NA,PM10
+"Odessa, TX",,,NA,PM10
+"Ogden-Clearfield, UT",,,24.78743961,PM10
+"Oklahoma City, OK",,,21.66850829,PM10
+"Omaha-Council Bluffs, NE-IA",,,28.91392904,PM10
+"Orlando-Kissimmee, FL",,,15.63848921,PM10
+"Ottawa-Streator, IL",,,26.49703264,PM10
+"Owensboro, KY",,,NA,PM10
+"Oxnard-Thousand Oaks-Ventura, CA",,,18.20247934,PM10
+"Paducah, KY-IL",,,17.49122807,PM10
+"Palm Bay-Melbourne-Titusville, FL",,,13.9862259,PM10
+"Parkersburg-Marietta-Vienna, WV-OH",,,NA,PM10
+"Pascagoula, MS",,,NA,PM10
+"Pendleton-Hermiston, OR",,,14.7173913,PM10
+"Pensacola-Ferry Pass-Brent, FL",,,NA,PM10
+"Peoria, IL",,,18.21428571,PM10
+"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",,,22.44958678,PM10
+"Phoenix-Mesa-Scottsdale, AZ",,,35.95980512,PM10
+"Pittsburgh, PA",,,21.78184535,PM10
+"Pittsfield, MA",,,NA,PM10
+"Platteville, WI",,,NA,PM10
+"Pocatello, ID",,,16.9021879,PM10
+"Ponce, PR",,,30.7008547,PM10
+"Port St. Lucie, FL",,,NA,PM10
+"Portland-South Portland-Biddeford, ME",,,18.49367089,PM10
+"Portland-Vancouver-Beaverton, OR-WA",,,12.31578947,PM10
+"Portsmouth, OH",,,18.22625929,PM10
+"Poughkeepsie-Newburgh-Middletown, NY",,,NA,PM10
+"Prescott, AZ",,,11.06779661,PM10
+"Prineville, OR",,,NA,PM10
+"Providence-New Bedford-Fall River, RI-MA",,,13.68531469,PM10
+"Provo-Orem, UT",,,25.34869739,PM10
+"Pueblo, CO",,,18.63302752,PM10
+"Quincy, IL-MO",,,NA,PM10
+"Raleigh-Cary, NC",,,16.86486486,PM10
+"Rapid City, SD",,,23.95754717,PM10
+"Reading, PA",,,8.216901408,PM10
+"Redding, CA",,,12.78285714,PM10
+"Reno-Sparks, NV",,,20.95164076,PM10
+"Richmond, VA",,,15.95798319,PM10
+"Richmond-Berea, KY",,,NA,PM10
+"Riverside-San Bernardino-Ontario, CA",,,29.42114486,PM10
+"Riverton, WY",,,10.82602339,PM10
+"Roanoke, VA",,,18.74576271,PM10
+"Rochester, MN",,,NA,PM10
+"Rochester, NY",,,NA,PM10
+"Rock Springs, WY",,,13.78726749,PM10
+"Rockford, IL",,,NA,PM10
+"Rocky Mount, NC",,,NA,PM10
+"Rome, GA",,,25.16949153,PM10
+"Roswell, NM",,,17.5,PM10
+"Russellville, AR",,,NA,PM10
+"Rutland, VT",,,13.62711864,PM10
+"Sacramento--Arden-Arcade--Roseville, CA",,,16.09090909,PM10
+"Salinas, CA",,,16.49171271,PM10
+"Salisbury, NC",,,NA,PM10
+"Salt Lake City, UT",,,32.68596059,PM10
+"San Antonio, TX",,,16.66596639,PM10
+"San Diego-Carlsbad-San Marcos, CA",,,23.96226415,PM10
+"San Francisco-Oakland-Fremont, CA",,,17.10089021,PM10
+"San Jose-Sunnyvale-Santa Clara, CA",,,15.60283688,PM10
+"San Juan-Caguas-Guaynabo, PR",,,28.43703704,PM10
+"San Luis Obispo-Paso Robles, CA",,,24.86581097,PM10
+"Santa Barbara-Santa Maria-Goleta, CA",,,17.82627579,PM10
+"Santa Cruz-Watsonville, CA",,,14.16393443,PM10
+"Santa Fe, NM",,,11.39814815,PM10
+"Santa Rosa-Petaluma, CA",,,10.02222222,PM10
+"Sault Ste. Marie, MI",,,NA,PM10
+"Savannah, GA",,,15.57894737,PM10
+"Scottsbluff, NE",,,NA,PM10
+"Scranton--Wilkes-Barre, PA",,,15.28374656,PM10
+"Seaford, DE",,,NA,PM10
+"Searcy, AR",,,NA,PM10
+"Seattle-Tacoma-Bellevue, WA",,,NA,PM10
+"Seneca, SC",,,NA,PM10
+"Sheridan, WY",,,18.65073529,PM10
+"Shreveport-Bossier City, LA",,,19.82248521,PM10
+"Sierra Vista-Douglas, AZ",,,22.65454545,PM10
+"Silver City, NM",,,13.31481481,PM10
+"Sioux City, IA-NE-SD",,,18.62935323,PM10
+"Sioux Falls, SD",,,19.46116505,PM10
+"Somerset, KY",,,NA,PM10
+"South Bend-Mishawaka, IN-MI",,,NA,PM10
+"Spartanburg, SC",,,NA,PM10
+"Spokane, WA",,,20.67213115,PM10
+"Springfield, IL",,,NA,PM10
+"Springfield, MA",,,11.79166667,PM10
+"Springfield, MO",,,16.95283019,PM10
+"Springfield, OH",,,NA,PM10
+"St. Cloud, MN",,,NA,PM10
+"St. George, UT",,,NA,PM10
+"St. Joseph, MO-KS",,,31.50314465,PM10
+"St. Louis, MO-IL",,,25.68308351,PM10
+"State College, PA",,,NA,PM10
+"Stockton, CA",,,14.10877193,PM10
+"Syracuse, NY",,,NA,PM10
+"Talladega-Sylacauga, AL",,,NA,PM10
+"Tallahassee, FL",,,NA,PM10
+"Tampa-St. Petersburg-Clearwater, FL",,,20.29945554,PM10
+"Terre Haute, IN",,,21.28813559,PM10
+"Texarkana, TX-Texarkana, AR",,,NA,PM10
+"Thomasville-Lexington, NC",,,NA,PM10
+"Toledo, OH",,,23.92261905,PM10
+"Topeka, KS",,,26.17772512,PM10
+"Torrington, CT",,,5.238095238,PM10
+"Trenton-Ewing, NJ",,,20.62711864,PM10
+"Truckee-Grass Valley, CA",,,NA,PM10
+"Tucson, AZ",,,24.20929259,PM10
+"Tulsa, OK",,,19.55314961,PM10
+"Tupelo, MS",,,NA,PM10
+"Tuscaloosa, AL",,,NA,PM10
+"Ukiah, CA",,,21.10632184,PM10
+"Valdosta, GA",,,NA,PM10
+"Vallejo-Fairfield, CA",,,12.26666667,PM10
+"Vincennes, IN",,,NA,PM10
+"Virginia Beach-Norfolk-Newport News, VA-NC",,,17.06134969,PM10
+"Visalia-Porterville, CA",,,33.54098361,PM10
+"Warner Robins, GA",,,NA,PM10
+"Washington-Arlington-Alexandria, DC-VA-MD-WV",,,18.08203991,PM10
+"Waterloo-Cedar Falls, IA",,,23.58677686,PM10
+"Watertown, SD",,,24.0661157,PM10
+"Weirton-Steubenville, WV-OH",,,18.61959654,PM10
+"Wheeling, WV-OH",,,NA,PM10
+"Wichita, KS",,,20.20053476,PM10
+"Wilmington, NC",,,NA,PM10
+"Winchester, VA-WV",,,15.61666667,PM10
+"Winston-Salem, NC",,,17.05278174,PM10
+"Worcester, MA",,,15.51666667,PM10
+"Yakima, WA",,,15.1754386,PM10
+"York-Hanover, PA",,,22.11550152,PM10
+"Youngstown-Warren-Boardman, OH-PA",,,20.48553055,PM10
+"Yuba City, CA",,,15.7,PM10
+"Yuma, AZ",,,33.53735632,PM10
+"Aberdeen, WA",,,NA,PM10
+"Ardmore, OK",,,NA,PM10
+"Barnstable Town, MA",,,NA,PM10
+"Bellingham, WA",,,NA,PM10
+"Berlin, NH-VT",,,NA,PM10
+"Billings, MT",,,NA,PM10
+"Branson, MO",,,NA,PM10
+"Bremerton-Silverdale, WA",,,NA,PM10
+"Carlsbad-Artesia, NM",,,NA,PM10
+"Centralia, WA",,,NA,PM10
+"Corsicana, TX",,,NA,PM10
+"Corvallis, OR",,,NA,PM10
+"Crescent City, CA",,,14.54237288,PM10
+"Dalton, GA",,,NA,PM10
+"Douglas, GA",,,NA,PM10
+"Eagle Pass, TX",,,NA,PM10
+"Elko, NV",,,26.76923077,PM10
+"Ellensburg, WA",,,NA,PM10
+"Emporia, KS",,,NA,PM10
+"Espanola, NM",,,NA,PM10
+"Great Falls, MT",,,NA,PM10
+"Harrison, AR",,,NA,PM10
+"Houghton, MI",,,NA,PM10
+"Kennewick-Richland-Pasco, WA",,,10.73397436,PM10
+"Kingsville, TX",,,NA,PM10
+"Knoxville, TN",,,24.43354839,PM10
+"Lake City, FL",,,NA,PM10
+"Lake Havasu City-Kingman, AZ",,,17.19672131,PM10
+"Laredo, TX",,,21.95444685,PM10
+"Lawrenceburg, TN",,,NA,PM10
+"Lawton, OK",,,NA,PM10
+"Lewiston, ID-WA",,,NA,PM10
+"Longview, WA",,,NA,PM10
+"Los Alamos, NM",,,NA,PM10
+"Marshall, MN",,,NA,PM10
+"Moscow, ID",,,NA,PM10
+"Moses Lake, WA",,,NA,PM10
+"Mount Vernon-Anacortes, WA",,,NA,PM10
+"Napa, CA",,,16.67213115,PM10
+"Naples-Marco Island, FL",,,NA,PM10
+"Nashville-Davidson-Murfreesboro-Franklin, TN",,,21.46961326,PM10
+"Ocala, FL",,,NA,PM10
+"Olympia, WA",,,NA,PM10
+"Panama City-Lynn Haven, FL",,,NA,PM10
+"Payson, AZ",,,25.21299094,PM10
+"Ponca City, OK",,,NA,PM10
+"Port Angeles, WA",,,NA,PM10
+"Pullman, WA",,,NA,PM10
+"Red Bluff, CA",,,17.83050847,PM10
+"Roseburg, OR",,,NA,PM10
+"Ruidoso, NM",,,NA,PM10
+"Salem, OR",,,NA,PM10
+"Shelton, WA",,,NA,PM10
+"Show Low, AZ",,,14.96511628,PM10
+"Taos, NM",,,16.14814815,PM10
+"The Dalles, OR",,,NA,PM10
+"Twin Falls, ID",,,NA,PM10
+"Utica-Rome, NY",,,NA,PM10
+"Vernal, UT",,,NA,PM10
+"Vineland-Millville-Bridgeton, NJ",,,NA,PM10
+"Waco, TX",,,NA,PM10
+"Walla Walla, WA",,,15.94505495,PM10
+"Wenatchee, WA",,,NA,PM10
+"Wichita Falls, TX",,,NA,PM10
+"Winona, MN",,,NA,PM10
+"Athens, TN",,,24.95081967,PM10
+"Canon City, CO",,,14.5,PM10
+"Carbondale, IL",,,21.90909091,PM10
+"Cleveland, TN",,,20.71779141,PM10
+"Culpeper, VA",,,15.75,PM10
+"Deming, NM",,,25.06623932,PM10
+"Dodge City, KS",,,16.94794521,PM10
+"East Liverpool-Salem, OH",,,23.42372881,PM10
+"Evanston, WY",,,12.51951952,PM10
+"Findlay, OH",,,18.67032967,PM10
+"Gallup, NM",,,13.18959108,PM10
+"Georgetown, SC",,,21.46502058,PM10
+"Jackson, TN",,,15.51724138,PM10
+"Joplin, MO",,,24.51376147,PM10
+"Lexington, NE",,,22.57446809,PM10
+"Mason City, IA",,,21.93984962,PM10
+"New Castle, PA",,,25.18313953,PM10
+"Pahrump, NV",,,23.07602793,PM10
+"Palatka, FL",,,18.2005571,PM10
+"Silverthorne, CO",,,14.58012821,PM10
+"Summerville, GA",,,17.66101695,PM10
+"Williamsport, PA",,,15.64814815,PM10
+"Burley, ID",,,NA,PM10
+"Coeur d'Alene, ID",,,NA,PM10
+"Elmira, NY",,,NA,PM10
+"Granbury, TX",,,NA,PM10
+"Iron Mountain, MI-WI",,,NA,PM10
+"Killeen-Temple-Fort Hood, TX",,,NA,PM10
+"Kingston, NY",,,NA,PM10
+"Longview, TX",,,NA,PM10
+"Malone, NY",,,NA,PM10
+"Minot, ND",,,NA,PM10
+"Ocean Pines, MD",,,NA,PM10
+"Phoenix Lake-Cedar Ridge, CA",,,NA,PM10
+"Racine, WI",,,NA,PM10
+"Richmond, IN",,,NA,PM10
+"Rockland, ME",,,NA,PM10
+"Sevierville, TN",,,NA,PM10
+"Seymour, IN",,,NA,PM10
+"Sheboygan, WI",,,NA,PM10
+"Tahlequah, OK",,,NA,PM10
+"Tyler, TX",,,NA,PM10
+"Victoria, TX",,,NA,PM10
+"Wausau, WI",,,NA,PM10
+"Whitewater, WI",,,NA,PM10
+"Williston, ND",,,NA,PM10
+"Watertown-Fort Drum, NY",,,NA,PM10
+"Ames, IA",,,NA,PM10
+"Bemidji, MN",,,NA,PM10
+"Greeneville, TN",,,NA,PM10
+"Jefferson City, MO",,,NA,PM10
+"Lufkin, TX",,,NA,PM10
+"Warsaw, IN",,,NA,PM10
+"Gardnerville Ranchos, NV",,,NA,PM10
+"Americus, GA",,,NA,PM10
+"Anderson, SC",,,NA,PM10
+"Ashtabula, OH",,,NA,PM10
+"Carson City, NV",,,NA,PM10
+"Chambersburg, PA",,,NA,PM10
+"Columbia, MO",,,NA,PM10
+"DuBois, PA",,,NA,PM10
+"Effingham, IL",,,NA,PM10
+"Fallon, NV",,,NA,PM10
+"Fernley, NV",,,NA,PM10
+"Fond du Lac, WI",,,NA,PM10
+"Fort Walton Beach-Crestview-Destin, FL",,,NA,PM10
+"Gaffney, SC",,,NA,PM10
+"Huntington, IN",,,NA,PM10
+"Indiana, PA",,,NA,PM10
+"Janesville, WI",,,NA,PM10
+"Lincolnton, NC",,,NA,PM10
+"Morristown, TN",,,NA,PM10
+"Mount Vernon, OH",,,NA,PM10
+"Myrtle Beach-Conway-North Myrtle Beach, SC",,,NA,PM10
+"Red Wing, MN",,,NA,PM10
+"Sebring, FL",,,NA,PM10
+"Traverse City, MI",,,NA,PM10
+"Walterboro, SC",,,NA,PM10
+"Watertown-Fort Atkinson, WI",,,NA,PM10
+"Wilmington, OH",,,NA,PM10
+"Coffeyville, KS",,,NA,PM10
+"New Philadelphia-Dover, OH",,,NA,PM10
+"Warren, PA",,,NA,PM10
+"Washington, IN",,,NA,PM10
+"Washington, NC",,,NA,PM10
+"Yauco, PR",,,NA,PM10
+"Aberdeen, SD",,,NA,CO
+"Adrian, MI",,,NA,CO
+"Akron, OH",,,0.340383305,CO
+"Albany, GA",,,NA,CO
+"Albany-Lebanon, OR",,,NA,CO
+"Albany-Schenectady-Troy, NY",,,0.339692744,CO
+"Albuquerque, NM",,,0.406902131,CO
+"Alexandria, LA",,,NA,CO
+"Allegan, MI",,,NA,CO
+"Allentown-Bethlehem-Easton, PA-NJ",,,0.320375028,CO
+"Altoona, PA",,,NA,CO
+"Amarillo, TX",,,NA,CO
+"Anchorage, AK",,,0.921398552,CO
+"Anderson, IN",,,NA,CO
+"Ann Arbor, MI",,,NA,CO
+"Appleton, WI",,,NA,CO
+"Asheville, NC",,,NA,CO
+"Athens, OH",,,NA,CO
+"Athens-Clarke County, GA",,,NA,CO
+"Atlanta-Sandy Springs-Marietta, GA",,,0.314466636,CO
+"Atlantic City, NJ",,,NA,CO
+"Augusta-Richmond County, GA-SC",,,NA,CO
+"Augusta-Waterville, ME",,,NA,CO
+"Austin-Round Rock, TX",,,0.300276243,CO
+"Bakersfield, CA",,,0.463889,CO
+"Baltimore-Towson, MD",,,0.391456824,CO
+"Bangor, ME",,,NA,CO
+"Baraboo, WI",,,NA,CO
+"Baton Rouge, LA",,,0.247223925,CO
+"Bay City, MI",,,NA,CO
+"Beaumont-Port Arthur, TX",,,0.173596148,CO
+"Beaver Dam, WI",,,0.12404944,CO
+"Beckley, WV",,,NA,CO
+"Bend, OR",,,NA,CO
+"Bennington, VT",,,NA,CO
+"Birmingham-Hoover, AL",,,0.41669682,CO
+"Bishop, CA",,,NA,CO
+"Bismarck, ND",,,NA,CO
+"Bloomington, IN",,,NA,CO
+"Bloomington-Normal, IL",,,NA,CO
+"Boise City-Nampa, ID",,,0.311235322,CO
+"Boone, NC",,,NA,CO
+"Boston-Cambridge-Quincy, MA-NH",,,0.269831838,CO
+"Boulder, CO",,,0.454621121,CO
+"Bowling Green, KY",,,0.3,CO
+"Bozeman, MT",,,0.333104771,CO
+"Bradenton-Sarasota-Venice, FL",,,NA,CO
+"Brainerd, MN",,,NA,CO
+"Bridgeport-Stamford-Norwalk, CT",,,0.33319779,CO
+"Brigham City, UT",,,NA,CO
+"Brookings, SD",,,NA,CO
+"Brownsville-Harlingen, TX",,,0.303566488,CO
+"Brunswick, GA",,,NA,CO
+"Buffalo-Niagara Falls, NY",,,0.352354409,CO
+"Burlington, NC",,,NA,CO
+"Burlington-South Burlington, VT",,,0.37764474,CO
+"Butte-Silver Bow, MT",,,NA,CO
+"Cadillac, MI",,,NA,CO
+"Canton-Massillon, OH",,,0.42499243,CO
+"Cape Coral-Fort Myers, FL",,,NA,CO
+"Casper, WY",,,NA,CO
+"Cedar Rapids, IA",,,0.226688678,CO
+"Champaign-Urbana, IL",,,NA,CO
+"Charleston, WV",,,NA,CO
+"Charleston-North Charleston, SC",,,0.078790003,CO
+"Charlotte-Gastonia-Concord, NC-SC",,,0.314959089,CO
+"Charlottesville, VA",,,NA,CO
+"Chattanooga, TN-GA",,,NA,CO
+"Cheyenne, WY",,,NA,CO
+"Chicago-Naperville-Joliet, IL-IN-WI",,,0.465238037,CO
+"Chico, CA",,,0.334282173,CO
+"Cincinnati-Middletown, OH-KY-IN",,,0.326002059,CO
+"Clarksburg, WV",,,NA,CO
+"Clarksville, TN-KY",,,NA,CO
+"Clearlake, CA",,,NA,CO
+"Cleveland, MS",,,NA,CO
+"Cleveland-Elyria-Mentor, OH",,,0.493493174,CO
+"Clinton, IA",,,NA,CO
+"Colorado Springs, CO",,,0.441835838,CO
+"Columbia, SC",,,0.283123596,CO
+"Columbus, GA-AL",,,NA,CO
+"Columbus, OH",,,0.343733332,CO
+"Concord, NH",,,NA,CO
+"Corning, NY",,,0.155826836,CO
+"Corpus Christi, TX",,,NA,CO
+"Dallas-Fort Worth-Arlington, TX",,,0.298436951,CO
+"Daphne-Fairhope-Foley, AL",,,NA,CO
+"Davenport-Moline-Rock Island, IA-IL",,,0.222915304,CO
+"Dayton, OH",,,0.362898407,CO
+"Decatur, AL",,,NA,CO
+"Decatur, IL",,,NA,CO
+"Deltona-Daytona Beach-Ormond Beach, FL",,,NA,CO
+"Denver-Aurora, CO",,,0.434786807,CO
+"Des Moines-West Des Moines, IA",,,0.293051009,CO
+"Detroit-Warren-Livonia, MI",,,0.324357041,CO
+"Dickinson, ND",,,NA,CO
+"Dothan, AL",,,NA,CO
+"Dover, DE",,,NA,CO
+"Duluth, MN-WI",,,0.458500764,CO
+"Durango, CO",,,0.313213249,CO
+"Durham, NC",,,NA,CO
+"East Stroudsburg, PA",,,NA,CO
+"Eau Claire, WI",,,NA,CO
+"El Centro, CA",,,0.684567863,CO
+"El Dorado, AR",,,NA,CO
+"El Paso, TX",,,0.361380373,CO
+"Elizabethtown, KY",,,NA,CO
+"Elkhart-Goshen, IN",,,NA,CO
+"Erie, PA",,,0.347146118,CO
+"Eugene-Springfield, OR",,,0.397694052,CO
+"Eureka-Arcata-Fortuna, CA",,,0.317403748,CO
+"Evansville, IN-KY",,,0.853335034,CO
+"Fairbanks, AK",,,1.045498319,CO
+"Fairmont, WV",,,NA,CO
+"Fajardo, PR",,,NA,CO
+"Fargo, ND-MN",,,0.171961726,CO
+"Farmington, NM",,,NA,CO
+"Fayetteville, NC",,,NA,CO
+"Fayetteville-Springdale-Rogers, AR-MO",,,NA,CO
+"Flagstaff, AZ",,,NA,CO
+"Flint, MI",,,NA,CO
+"Florence, SC",,,NA,CO
+"Florence-Muscle Shoals, AL",,,NA,CO
+"Fort Collins-Loveland, CO",,,0.365279464,CO
+"Fort Madison-Keokuk, IA-MO",,,NA,CO
+"Fort Payne, AL",,,NA,CO
+"Fort Smith, AR-OK",,,NA,CO
+"Fort Wayne, IN",,,0.420914871,CO
+"Frankfort, KY",,,NA,CO
+"Fresno, CA",,,0.343574217,CO
+"Gadsden, AL",,,NA,CO
+"Gainesville, FL",,,NA,CO
+"Gainesville, GA",,,NA,CO
+"Gettysburg, PA",,,0.300910856,CO
+"Gillette, WY",,,NA,CO
+"Goldsboro, NC",,,NA,CO
+"Grand Island, NE",,,NA,CO
+"Grand Junction, CO",,,0.386342869,CO
+"Grand Rapids-Wyoming, MI",,,0.329243759,CO
+"Grants Pass, OR",,,NA,CO
+"Greeley, CO",,,0.396783362,CO
+"Green Bay, WI",,,NA,CO
+"Greensboro-High Point, NC",,,NA,CO
+"Greenville, NC",,,NA,CO
+"Greenville-Mauldin-Easley, SC",,,0.326421928,CO
+"Grenada, MS",,,NA,CO
+"Guayama, PR",,,NA,CO
+"Gulfport-Biloxi, MS",,,NA,CO
+"Hagerstown-Martinsburg, MD-WV",,,NA,CO
+"Hammond, LA",,,NA,CO
+"Hanford-Corcoran, CA",,,NA,CO
+"Harriman, TN",,,NA,CO
+"Harrisburg-Carlisle, PA",,,0.319452055,CO
+"Harrisonburg, VA",,,NA,CO
+"Hartford-West Hartford-East Hartford, CT",,,0.593376433,CO
+"Hattiesburg, MS",,,NA,CO
+"Helena, MT",,,NA,CO
+"Helena-West Helena, AR",,,NA,CO
+"Hickory-Lenoir-Morganton, NC",,,NA,CO
+"Hilo, HI",,,NA,CO
+"Hobbs, NM",,,NA,CO
+"Holland-Grand Haven, MI",,,NA,CO
+"Homosassa Springs, FL",,,NA,CO
+"Honolulu, HI",,,0.339277329,CO
+"Hot Springs, AR",,,NA,CO
+"Houma-Bayou Cane-Thibodaux, LA",,,NA,CO
+"Houston-Sugar Land-Baytown, TX",,,0.306245429,CO
+"Huntington-Ashland, WV-KY-OH",,,NA,CO
+"Huntsville, AL",,,NA,CO
+"Indianapolis-Carmel, IN",,,0.45372776,CO
+"Iowa City, IA",,,NA,CO
+"Jackson, MS",,,0.243234774,CO
+"Jackson, WY-ID",,,0.266514818,CO
+"Jacksonville, FL",,,0.340674685,CO
+"Jamestown-Dunkirk-Fredonia, NY",,,NA,CO
+"Jasper, IN",,,NA,CO
+"Johnstown, PA",,,0.396657597,CO
+"Juneau, AK",,,NA,CO
+"Kahului-Wailuku, HI",,,NA,CO
+"Kalamazoo-Portage, MI",,,NA,CO
+"Kalispell, MT",,,0.7783565,CO
+"Kansas City, MO-KS",,,0.40840483,CO
+"Keene, NH",,,NA,CO
+"Kingsport-Bristol-Bristol, TN-VA",,,0.354189121,CO
+"Kinston, NC",,,NA,CO
+"Klamath Falls, OR",,,NA,CO
+"Kokomo, IN",,,NA,CO
+"La Crosse, WI-MN",,,NA,CO
+"La Grande, OR",,,NA,CO
+"Laconia, NH",,,NA,CO
+"Lafayette, IN",,,NA,CO
+"Lafayette, LA",,,NA,CO
+"Lake Charles, LA",,,NA,CO
+"Lakeland, FL",,,NA,CO
+"Lancaster, PA",,,NA,CO
+"Lansing-East Lansing, MI",,,NA,CO
+"Laramie, WY",,,NA,CO
+"Las Cruces, NM",,,NA,CO
+"Las Vegas-Paradise, NV",,,0.553074815,CO
+"Laurel, MS",,,NA,CO
+"Lebanon, NH-VT",,,NA,CO
+"Lewiston-Auburn, ME",,,NA,CO
+"Lexington-Fayette, KY",,,NA,CO
+"Lima, OH",,,NA,CO
+"Lincoln, NE",,,0.415774118,CO
+"Little Rock-North Little Rock-Conway, AR",,,0.430200396,CO
+"Logan, UT-ID",,,NA,CO
+"Los Angeles-Long Beach-Santa Ana, CA",,,0.433177507,CO
+"Louisville/Jefferson County, KY-IN",,,0.672400102,CO
+"Lubbock, TX",,,NA,CO
+"Lumberton, NC",,,NA,CO
+"Lynchburg, VA",,,NA,CO
+"Macon, GA",,,NA,CO
+"Madera, CA",,,NA,CO
+"Madison, WI",,,NA,CO
+"Manchester-Nashua, NH",,,0.422596323,CO
+"Manitowoc, WI",,,NA,CO
+"Marshall, TX",,,NA,CO
+"McAlester, OK",,,NA,CO
+"McAllen-Edinburg-Mission, TX",,,NA,CO
+"Medford, OR",,,0.503545982,CO
+"Memphis, TN-MS-AR",,,0.394372132,CO
+"Merced, CA",,,NA,CO
+"Meridian, MS",,,NA,CO
+"Miami, OK",,,NA,CO
+"Miami-Fort Lauderdale-Pompano Beach, FL",,,0.394467628,CO
+"Michigan City-La Porte, IN",,,NA,CO
+"Middlesborough, KY",,,NA,CO
+"Milwaukee-Waukesha-West Allis, WI",,,NA,CO
+"Minneapolis-St. Paul-Bloomington, MN-WI",,,0.379890722,CO
+"Missoula, MT",,,0.686385768,CO
+"Mobile, AL",,,NA,CO
+"Modesto, CA",,,0.331290701,CO
+"Monroe, LA",,,NA,CO
+"Monroe, MI",,,NA,CO
+"Montgomery, AL",,,NA,CO
+"Morgantown, WV",,,NA,CO
+"Mount Vernon, IL",,,NA,CO
+"Muncie, IN",,,NA,CO
+"Muscatine, IA",,,NA,CO
+"Muskegon-Norton Shores, MI",,,NA,CO
+"Muskogee, OK",,,NA,CO
+"Natchez, MS-LA",,,NA,CO
+"New Castle, IN",,,NA,CO
+"New Haven-Milford, CT",,,0.292725877,CO
+"New Orleans-Metairie-Kenner, LA",,,NA,CO
+"New York-Northern New Jersey-Long Island, NY-NJ-PA",,,0.394937038,CO
+"Niles-Benton Harbor, MI",,,NA,CO
+"Nogales, AZ",,,NA,CO
+"Norwich-New London, CT",,,NA,CO
+"Odessa, TX",,,NA,CO
+"Ogden-Clearfield, UT",,,0.493194778,CO
+"Oklahoma City, OK",,,0.318413236,CO
+"Omaha-Council Bluffs, NE-IA",,,0.543909332,CO
+"Orlando-Kissimmee, FL",,,0.397128632,CO
+"Ottawa-Streator, IL",,,NA,CO
+"Owensboro, KY",,,NA,CO
+"Oxnard-Thousand Oaks-Ventura, CA",,,NA,CO
+"Paducah, KY-IL",,,NA,CO
+"Palm Bay-Melbourne-Titusville, FL",,,NA,CO
+"Parkersburg-Marietta-Vienna, WV-OH",,,NA,CO
+"Pascagoula, MS",,,NA,CO
+"Pendleton-Hermiston, OR",,,NA,CO
+"Pensacola-Ferry Pass-Brent, FL",,,NA,CO
+"Peoria, IL",,,0.547523981,CO
+"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",,,0.33620665,CO
+"Phoenix-Mesa-Scottsdale, AZ",,,0.467466695,CO
+"Pittsburgh, PA",,,0.393118237,CO
+"Pittsfield, MA",,,NA,CO
+"Platteville, WI",,,NA,CO
+"Pocatello, ID",,,NA,CO
+"Ponce, PR",,,NA,CO
+"Port St. Lucie, FL",,,NA,CO
+"Portland-South Portland-Biddeford, ME",,,0.332352225,CO
+"Portland-Vancouver-Beaverton, OR-WA",,,0.378074446,CO
+"Portsmouth, OH",,,NA,CO
+"Poughkeepsie-Newburgh-Middletown, NY",,,NA,CO
+"Prescott, AZ",,,NA,CO
+"Prineville, OR",,,NA,CO
+"Providence-New Bedford-Fall River, RI-MA",,,0.321456265,CO
+"Provo-Orem, UT",,,0.446712732,CO
+"Pueblo, CO",,,NA,CO
+"Quincy, IL-MO",,,NA,CO
+"Raleigh-Cary, NC",,,0.408828051,CO
+"Rapid City, SD",,,NA,CO
+"Reading, PA",,,0.313807404,CO
+"Redding, CA",,,NA,CO
+"Reno-Sparks, NV",,,0.381695556,CO
+"Richmond, VA",,,0.347474899,CO
+"Richmond-Berea, KY",,,NA,CO
+"Riverside-San Bernardino-Ontario, CA",,,0.381687533,CO
+"Riverton, WY",,,NA,CO
+"Roanoke, VA",,,0.331160652,CO
+"Rochester, MN",,,NA,CO
+"Rochester, NY",,,0.393866474,CO
+"Rock Springs, WY",,,NA,CO
+"Rockford, IL",,,0.361316625,CO
+"Rocky Mount, NC",,,NA,CO
+"Rome, GA",,,NA,CO
+"Roswell, NM",,,NA,CO
+"Russellville, AR",,,NA,CO
+"Rutland, VT",,,0.37536051,CO
+"Sacramento--Arden-Arcade--Roseville, CA",,,0.373579223,CO
+"Salinas, CA",,,0.33541167,CO
+"Salisbury, NC",,,0.305064547,CO
+"Salt Lake City, UT",,,0.393388394,CO
+"San Antonio, TX",,,0.331975066,CO
+"San Diego-Carlsbad-San Marcos, CA",,,0.547702481,CO
+"San Francisco-Oakland-Fremont, CA",,,0.347513876,CO
+"San Jose-Sunnyvale-Santa Clara, CA",,,0.35029513,CO
+"San Juan-Caguas-Guaynabo, PR",,,0.796497048,CO
+"San Luis Obispo-Paso Robles, CA",,,NA,CO
+"Santa Barbara-Santa Maria-Goleta, CA",,,0.30926874,CO
+"Santa Cruz-Watsonville, CA",,,0.302374443,CO
+"Santa Fe, NM",,,NA,CO
+"Santa Rosa-Petaluma, CA",,,0.350195526,CO
+"Sault Ste. Marie, MI",,,NA,CO
+"Savannah, GA",,,NA,CO
+"Scottsbluff, NE",,,NA,CO
+"Scranton--Wilkes-Barre, PA",,,0.30839566,CO
+"Seaford, DE",,,NA,CO
+"Searcy, AR",,,NA,CO
+"Seattle-Tacoma-Bellevue, WA",,,0.242945799,CO
+"Seneca, SC",,,NA,CO
+"Sheridan, WY",,,NA,CO
+"Shreveport-Bossier City, LA",,,NA,CO
+"Sierra Vista-Douglas, AZ",,,NA,CO
+"Silver City, NM",,,NA,CO
+"Sioux City, IA-NE-SD",,,0.121791944,CO
+"Sioux Falls, SD",,,NA,CO
+"Somerset, KY",,,NA,CO
+"South Bend-Mishawaka, IN-MI",,,NA,CO
+"Spartanburg, SC",,,NA,CO
+"Spokane, WA",,,0.549148436,CO
+"Springfield, IL",,,0.369343039,CO
+"Springfield, MA",,,0.28143052,CO
+"Springfield, MO",,,0.313245135,CO
+"Springfield, OH",,,NA,CO
+"St. Cloud, MN",,,NA,CO
+"St. George, UT",,,NA,CO
+"St. Joseph, MO-KS",,,NA,CO
+"St. Louis, MO-IL",,,0.335147176,CO
+"State College, PA",,,NA,CO
+"Stockton, CA",,,0.321257285,CO
+"Syracuse, NY",,,0.450777152,CO
+"Talladega-Sylacauga, AL",,,NA,CO
+"Tallahassee, FL",,,NA,CO
+"Tampa-St. Petersburg-Clearwater, FL",,,0.30956808,CO
+"Terre Haute, IN",,,NA,CO
+"Texarkana, TX-Texarkana, AR",,,NA,CO
+"Thomasville-Lexington, NC",,,NA,CO
+"Toledo, OH",,,NA,CO
+"Topeka, KS",,,NA,CO
+"Torrington, CT",,,0.193026162,CO
+"Trenton-Ewing, NJ",,,NA,CO
+"Truckee-Grass Valley, CA",,,NA,CO
+"Tucson, AZ",,,0.350459439,CO
+"Tulsa, OK",,,0.341058993,CO
+"Tupelo, MS",,,NA,CO
+"Tuscaloosa, AL",,,NA,CO
+"Ukiah, CA",,,NA,CO
+"Valdosta, GA",,,NA,CO
+"Vallejo-Fairfield, CA",,,0.375109972,CO
+"Vincennes, IN",,,NA,CO
+"Virginia Beach-Norfolk-Newport News, VA-NC",,,0.332319618,CO
+"Visalia-Porterville, CA",,,NA,CO
+"Warner Robins, GA",,,NA,CO
+"Washington-Arlington-Alexandria, DC-VA-MD-WV",,,0.537459143,CO
+"Waterloo-Cedar Falls, IA",,,NA,CO
+"Watertown, SD",,,NA,CO
+"Weirton-Steubenville, WV-OH",,,0.363830978,CO
+"Wheeling, WV-OH",,,NA,CO
+"Wichita, KS",,,0.486275234,CO
+"Wilmington, NC",,,NA,CO
+"Winchester, VA-WV",,,NA,CO
+"Winston-Salem, NC",,,0.534727425,CO
+"Worcester, MA",,,0.47852993,CO
+"Yakima, WA",,,NA,CO
+"York-Hanover, PA",,,0.329165321,CO
+"Youngstown-Warren-Boardman, OH-PA",,,NA,CO
+"Yuba City, CA",,,NA,CO
+"Yuma, AZ",,,NA,CO
+"Aberdeen, WA",,,NA,CO
+"Ardmore, OK",,,NA,CO
+"Barnstable Town, MA",,,NA,CO
+"Bellingham, WA",,,NA,CO
+"Berlin, NH-VT",,,NA,CO
+"Billings, MT",,,0.37695471,CO
+"Branson, MO",,,NA,CO
+"Bremerton-Silverdale, WA",,,NA,CO
+"Carlsbad-Artesia, NM",,,NA,CO
+"Centralia, WA",,,NA,CO
+"Corsicana, TX",,,NA,CO
+"Corvallis, OR",,,NA,CO
+"Crescent City, CA",,,NA,CO
+"Dalton, GA",,,NA,CO
+"Douglas, GA",,,NA,CO
+"Eagle Pass, TX",,,NA,CO
+"Elko, NV",,,NA,CO
+"Ellensburg, WA",,,NA,CO
+"Emporia, KS",,,NA,CO
+"Espanola, NM",,,NA,CO
+"Great Falls, MT",,,0.387404202,CO
+"Harrison, AR",,,NA,CO
+"Houghton, MI",,,NA,CO
+"Kennewick-Richland-Pasco, WA",,,NA,CO
+"Kingsville, TX",,,NA,CO
+"Knoxville, TN",,,0.180557123,CO
+"Lake City, FL",,,NA,CO
+"Lake Havasu City-Kingman, AZ",,,NA,CO
+"Laredo, TX",,,0.398496112,CO
+"Lawrenceburg, TN",,,NA,CO
+"Lawton, OK",,,NA,CO
+"Lewiston, ID-WA",,,NA,CO
+"Longview, WA",,,NA,CO
+"Los Alamos, NM",,,NA,CO
+"Marshall, MN",,,NA,CO
+"Moscow, ID",,,NA,CO
+"Moses Lake, WA",,,NA,CO
+"Mount Vernon-Anacortes, WA",,,NA,CO
+"Napa, CA",,,0.369126934,CO
+"Naples-Marco Island, FL",,,NA,CO
+"Nashville-Davidson-Murfreesboro-Franklin, TN",,,0.433047926,CO
+"Ocala, FL",,,NA,CO
+"Olympia, WA",,,NA,CO
+"Panama City-Lynn Haven, FL",,,NA,CO
+"Payson, AZ",,,NA,CO
+"Ponca City, OK",,,NA,CO
+"Port Angeles, WA",,,0.160235495,CO
+"Pullman, WA",,,NA,CO
+"Red Bluff, CA",,,NA,CO
+"Roseburg, OR",,,NA,CO
+"Ruidoso, NM",,,NA,CO
+"Salem, OR",,,NA,CO
+"Shelton, WA",,,NA,CO
+"Show Low, AZ",,,NA,CO
+"Taos, NM",,,NA,CO
+"The Dalles, OR",,,NA,CO
+"Twin Falls, ID",,,NA,CO
+"Utica-Rome, NY",,,NA,CO
+"Vernal, UT",,,NA,CO
+"Vineland-Millville-Bridgeton, NJ",,,NA,CO
+"Waco, TX",,,0.3,CO
+"Walla Walla, WA",,,NA,CO
+"Wenatchee, WA",,,NA,CO
+"Wichita Falls, TX",,,NA,CO
+"Winona, MN",,,NA,CO
+"Athens, TN",,,NA,CO
+"Canon City, CO",,,NA,CO
+"Carbondale, IL",,,NA,CO
+"Cleveland, TN",,,NA,CO
+"Culpeper, VA",,,NA,CO
+"Deming, NM",,,NA,CO
+"Dodge City, KS",,,NA,CO
+"East Liverpool-Salem, OH",,,NA,CO
+"Evanston, WY",,,NA,CO
+"Findlay, OH",,,NA,CO
+"Gallup, NM",,,NA,CO
+"Georgetown, SC",,,NA,CO
+"Jackson, TN",,,NA,CO
+"Joplin, MO",,,NA,CO
+"Lexington, NE",,,NA,CO
+"Mason City, IA",,,NA,CO
+"New Castle, PA",,,0.5481136,CO
+"Pahrump, NV",,,NA,CO
+"Palatka, FL",,,NA,CO
+"Silverthorne, CO",,,NA,CO
+"Summerville, GA",,,NA,CO
+"Williamsport, PA",,,NA,CO
+"Burley, ID",,,NA,CO
+"Coeur d'Alene, ID",,,NA,CO
+"Elmira, NY",,,NA,CO
+"Granbury, TX",,,NA,CO
+"Iron Mountain, MI-WI",,,NA,CO
+"Killeen-Temple-Fort Hood, TX",,,NA,CO
+"Kingston, NY",,,NA,CO
+"Longview, TX",,,NA,CO
+"Malone, NY",,,NA,CO
+"Minot, ND",,,NA,CO
+"Ocean Pines, MD",,,NA,CO
+"Phoenix Lake-Cedar Ridge, CA",,,NA,CO
+"Racine, WI",,,NA,CO
+"Richmond, IN",,,NA,CO
+"Rockland, ME",,,NA,CO
+"Sevierville, TN",,,NA,CO
+"Seymour, IN",,,NA,CO
+"Sheboygan, WI",,,NA,CO
+"Tahlequah, OK",,,NA,CO
+"Tyler, TX",,,NA,CO
+"Victoria, TX",,,NA,CO
+"Wausau, WI",,,NA,CO
+"Whitewater, WI",,,NA,CO
+"Williston, ND",,,NA,CO
+"Watertown-Fort Drum, NY",,,NA,CO
+"Ames, IA",,,NA,CO
+"Bemidji, MN",,,NA,CO
+"Greeneville, TN",,,NA,CO
+"Jefferson City, MO",,,NA,CO
+"Lufkin, TX",,,NA,CO
+"Warsaw, IN",,,NA,CO
+"Gardnerville Ranchos, NV",,,0.508778599,CO
+"Americus, GA",,,NA,CO
+"Anderson, SC",,,NA,CO
+"Ashtabula, OH",,,NA,CO
+"Carson City, NV",,,NA,CO
+"Chambersburg, PA",,,NA,CO
+"Columbia, MO",,,NA,CO
+"DuBois, PA",,,NA,CO
+"Effingham, IL",,,NA,CO
+"Fallon, NV",,,NA,CO
+"Fernley, NV",,,NA,CO
+"Fond du Lac, WI",,,NA,CO
+"Fort Walton Beach-Crestview-Destin, FL",,,NA,CO
+"Gaffney, SC",,,NA,CO
+"Huntington, IN",,,NA,CO
+"Indiana, PA",,,NA,CO
+"Janesville, WI",,,NA,CO
+"Lincolnton, NC",,,NA,CO
+"Morristown, TN",,,NA,CO
+"Mount Vernon, OH",,,NA,CO
+"Myrtle Beach-Conway-North Myrtle Beach, SC",,,NA,CO
+"Red Wing, MN",,,NA,CO
+"Sebring, FL",,,NA,CO
+"Traverse City, MI",,,NA,CO
+"Walterboro, SC",,,NA,CO
+"Watertown-Fort Atkinson, WI",,,NA,CO
+"Wilmington, OH",,,NA,CO
+"Coffeyville, KS",,,NA,CO
+"New Philadelphia-Dover, OH",,,NA,CO
+"Warren, PA",,,NA,CO
+"Washington, IN",,,NA,CO
+"Washington, NC",,,NA,CO
+"Yauco, PR",,,NA,CO
+"Aberdeen, SD",,,NA,NO2
+"Adrian, MI",,,NA,NO2
+"Akron, OH",,,NA,NO2
+"Albany, GA",,,NA,NO2
+"Albany-Lebanon, OR",,,NA,NO2
+"Albany-Schenectady-Troy, NY",,,NA,NO2
+"Albuquerque, NM",,,12.10161438,NO2
+"Alexandria, LA",,,NA,NO2
+"Allegan, MI",,,NA,NO2
+"Allentown-Bethlehem-Easton, PA-NJ",,,10.76056971,NO2
+"Altoona, PA",,,NA,NO2
+"Amarillo, TX",,,NA,NO2
+"Anchorage, AK",,,NA,NO2
+"Anderson, IN",,,NA,NO2
+"Ann Arbor, MI",,,NA,NO2
+"Appleton, WI",,,NA,NO2
+"Asheville, NC",,,NA,NO2
+"Athens, OH",,,4.028358398,NO2
+"Athens-Clarke County, GA",,,NA,NO2
+"Atlanta-Sandy Springs-Marietta, GA",,,6.762884571,NO2
+"Atlantic City, NJ",,,NA,NO2
+"Augusta-Richmond County, GA-SC",,,NA,NO2
+"Augusta-Waterville, ME",,,NA,NO2
+"Austin-Round Rock, TX",,,2.963859671,NO2
+"Bakersfield, CA",,,9.751891216,NO2
+"Baltimore-Towson, MD",,,15.32358232,NO2
+"Bangor, ME",,,NA,NO2
+"Baraboo, WI",,,NA,NO2
+"Baton Rouge, LA",,,7.093000967,NO2
+"Bay City, MI",,,NA,NO2
+"Beaumont-Port Arthur, TX",,,5.558645032,NO2
+"Beaver Dam, WI",,,NA,NO2
+"Beckley, WV",,,NA,NO2
+"Bend, OR",,,NA,NO2
+"Bennington, VT",,,NA,NO2
+"Birmingham-Hoover, AL",,,NA,NO2
+"Bishop, CA",,,NA,NO2
+"Bismarck, ND",,,5.694316422,NO2
+"Bloomington, IN",,,NA,NO2
+"Bloomington-Normal, IL",,,NA,NO2
+"Boise City-Nampa, ID",,,8.629604306,NO2
+"Boone, NC",,,NA,NO2
+"Boston-Cambridge-Quincy, MA-NH",,,11.10451174,NO2
+"Boulder, CO",,,NA,NO2
+"Bowling Green, KY",,,NA,NO2
+"Bozeman, MT",,,1.879283966,NO2
+"Bradenton-Sarasota-Venice, FL",,,4.387560156,NO2
+"Brainerd, MN",,,NA,NO2
+"Bridgeport-Stamford-Norwalk, CT",,,10.11896203,NO2
+"Brigham City, UT",,,NA,NO2
+"Brookings, SD",,,NA,NO2
+"Brownsville-Harlingen, TX",,,NA,NO2
+"Brunswick, GA",,,NA,NO2
+"Buffalo-Niagara Falls, NY",,,10.63969174,NO2
+"Burlington, NC",,,NA,NO2
+"Burlington-South Burlington, VT",,,8.544439318,NO2
+"Butte-Silver Bow, MT",,,NA,NO2
+"Cadillac, MI",,,0.644424768,NO2
+"Canton-Massillon, OH",,,NA,NO2
+"Cape Coral-Fort Myers, FL",,,NA,NO2
+"Casper, WY",,,NA,NO2
+"Cedar Rapids, IA",,,NA,NO2
+"Champaign-Urbana, IL",,,NA,NO2
+"Charleston, WV",,,NA,NO2
+"Charleston-North Charleston, SC",,,4.757325215,NO2
+"Charlotte-Gastonia-Concord, NC-SC",,,11.78774318,NO2
+"Charlottesville, VA",,,NA,NO2
+"Chattanooga, TN-GA",,,NA,NO2
+"Cheyenne, WY",,,NA,NO2
+"Chicago-Naperville-Joliet, IL-IN-WI",,,18.2739661,NO2
+"Chico, CA",,,7.211525326,NO2
+"Cincinnati-Middletown, OH-KY-IN",,,9.373848845,NO2
+"Clarksburg, WV",,,NA,NO2
+"Clarksville, TN-KY",,,NA,NO2
+"Clearlake, CA",,,NA,NO2
+"Cleveland, MS",,,NA,NO2
+"Cleveland-Elyria-Mentor, OH",,,12.14881786,NO2
+"Clinton, IA",,,NA,NO2
+"Colorado Springs, CO",,,NA,NO2
+"Columbia, SC",,,5.332524898,NO2
+"Columbus, GA-AL",,,NA,NO2
+"Columbus, OH",,,NA,NO2
+"Concord, NH",,,NA,NO2
+"Corning, NY",,,1.340796059,NO2
+"Corpus Christi, TX",,,NA,NO2
+"Dallas-Fort Worth-Arlington, TX",,,7.427530246,NO2
+"Daphne-Fairhope-Foley, AL",,,NA,NO2
+"Davenport-Moline-Rock Island, IA-IL",,,8.467156962,NO2
+"Dayton, OH",,,NA,NO2
+"Decatur, AL",,,NA,NO2
+"Decatur, IL",,,NA,NO2
+"Deltona-Daytona Beach-Ormond Beach, FL",,,NA,NO2
+"Denver-Aurora, CO",,,22.31862491,NO2
+"Des Moines-West Des Moines, IA",,,8.974310991,NO2
+"Detroit-Warren-Livonia, MI",,,11.95570469,NO2
+"Dickinson, ND",,,NA,NO2
+"Dothan, AL",,,NA,NO2
+"Dover, DE",,,NA,NO2
+"Duluth, MN-WI",,,1.800839825,NO2
+"Durango, CO",,,4.926513431,NO2
+"Durham, NC",,,NA,NO2
+"East Stroudsburg, PA",,,NA,NO2
+"Eau Claire, WI",,,NA,NO2
+"El Centro, CA",,,9.504219418,NO2
+"El Dorado, AR",,,NA,NO2
+"El Paso, TX",,,14.71035197,NO2
+"Elizabethtown, KY",,,NA,NO2
+"Elkhart-Goshen, IN",,,NA,NO2
+"Erie, PA",,,7.856617439,NO2
+"Eugene-Springfield, OR",,,NA,NO2
+"Eureka-Arcata-Fortuna, CA",,,2.624854282,NO2
+"Evansville, IN-KY",,,11.19558708,NO2
+"Fairbanks, AK",,,NA,NO2
+"Fairmont, WV",,,NA,NO2
+"Fajardo, PR",,,NA,NO2
+"Fargo, ND-MN",,,5.418301605,NO2
+"Farmington, NM",,,9.454797639,NO2
+"Fayetteville, NC",,,NA,NO2
+"Fayetteville-Springdale-Rogers, AR-MO",,,NA,NO2
+"Flagstaff, AZ",,,NA,NO2
+"Flint, MI",,,NA,NO2
+"Florence, SC",,,NA,NO2
+"Florence-Muscle Shoals, AL",,,NA,NO2
+"Fort Collins-Loveland, CO",,,NA,NO2
+"Fort Madison-Keokuk, IA-MO",,,NA,NO2
+"Fort Payne, AL",,,NA,NO2
+"Fort Smith, AR-OK",,,8.402738481,NO2
+"Fort Wayne, IN",,,NA,NO2
+"Frankfort, KY",,,NA,NO2
+"Fresno, CA",,,9.833904941,NO2
+"Gadsden, AL",,,NA,NO2
+"Gainesville, FL",,,NA,NO2
+"Gainesville, GA",,,NA,NO2
+"Gettysburg, PA",,,2.642166139,NO2
+"Gillette, WY",,,4.033071939,NO2
+"Goldsboro, NC",,,NA,NO2
+"Grand Island, NE",,,NA,NO2
+"Grand Junction, CO",,,NA,NO2
+"Grand Rapids-Wyoming, MI",,,NA,NO2
+"Grants Pass, OR",,,NA,NO2
+"Greeley, CO",,,NA,NO2
+"Green Bay, WI",,,NA,NO2
+"Greensboro-High Point, NC",,,NA,NO2
+"Greenville, NC",,,NA,NO2
+"Greenville-Mauldin-Easley, SC",,,10.74787603,NO2
+"Grenada, MS",,,NA,NO2
+"Guayama, PR",,,NA,NO2
+"Gulfport-Biloxi, MS",,,NA,NO2
+"Hagerstown-Martinsburg, MD-WV",,,NA,NO2
+"Hammond, LA",,,NA,NO2
+"Hanford-Corcoran, CA",,,13.83055204,NO2
+"Harriman, TN",,,NA,NO2
+"Harrisburg-Carlisle, PA",,,6.807787076,NO2
+"Harrisonburg, VA",,,10.42077524,NO2
+"Hartford-West Hartford-East Hartford, CT",,,9.630066089,NO2
+"Hattiesburg, MS",,,NA,NO2
+"Helena, MT",,,NA,NO2
+"Helena-West Helena, AR",,,NA,NO2
+"Hickory-Lenoir-Morganton, NC",,,NA,NO2
+"Hilo, HI",,,NA,NO2
+"Hobbs, NM",,,5.602152724,NO2
+"Holland-Grand Haven, MI",,,NA,NO2
+"Homosassa Springs, FL",,,NA,NO2
+"Honolulu, HI",,,2.624887867,NO2
+"Hot Springs, AR",,,NA,NO2
+"Houma-Bayou Cane-Thibodaux, LA",,,NA,NO2
+"Houston-Sugar Land-Baytown, TX",,,8.868443368,NO2
+"Huntington-Ashland, WV-KY-OH",,,8.466758041,NO2
+"Huntsville, AL",,,NA,NO2
+"Indianapolis-Carmel, IN",,,12.70559263,NO2
+"Iowa City, IA",,,NA,NO2
+"Jackson, MS",,,NA,NO2
+"Jackson, WY-ID",,,NA,NO2
+"Jacksonville, FL",,,9.384170416,NO2
+"Jamestown-Dunkirk-Fredonia, NY",,,NA,NO2
+"Jasper, IN",,,NA,NO2
+"Johnstown, PA",,,10.56317735,NO2
+"Juneau, AK",,,NA,NO2
+"Kahului-Wailuku, HI",,,NA,NO2
+"Kalamazoo-Portage, MI",,,NA,NO2
+"Kalispell, MT",,,NA,NO2
+"Kansas City, MO-KS",,,9.01814028,NO2
+"Keene, NH",,,NA,NO2
+"Kingsport-Bristol-Bristol, TN-VA",,,10.36643048,NO2
+"Kinston, NC",,,NA,NO2
+"Klamath Falls, OR",,,NA,NO2
+"Kokomo, IN",,,NA,NO2
+"La Crosse, WI-MN",,,NA,NO2
+"La Grande, OR",,,NA,NO2
+"Laconia, NH",,,NA,NO2
+"Lafayette, IN",,,NA,NO2
+"Lafayette, LA",,,NA,NO2
+"Lake Charles, LA",,,6.661753931,NO2
+"Lakeland, FL",,,NA,NO2
+"Lancaster, PA",,,8.442587852,NO2
+"Lansing-East Lansing, MI",,,7.920993665,NO2
+"Laramie, WY",,,NA,NO2
+"Las Cruces, NM",,,6.830224205,NO2
+"Las Vegas-Paradise, NV",,,9.470974587,NO2
+"Laurel, MS",,,NA,NO2
+"Lebanon, NH-VT",,,NA,NO2
+"Lewiston-Auburn, ME",,,NA,NO2
+"Lexington-Fayette, KY",,,9.431065751,NO2
+"Lima, OH",,,NA,NO2
+"Lincoln, NE",,,NA,NO2
+"Little Rock-North Little Rock-Conway, AR",,,9.985305929,NO2
+"Logan, UT-ID",,,12.60263927,NO2
+"Los Angeles-Long Beach-Santa Ana, CA",,,18.19599004,NO2
+"Louisville/Jefferson County, KY-IN",,,NA,NO2
+"Lubbock, TX",,,NA,NO2
+"Lumberton, NC",,,NA,NO2
+"Lynchburg, VA",,,NA,NO2
+"Macon, GA",,,NA,NO2
+"Madera, CA",,,7.813161343,NO2
+"Madison, WI",,,NA,NO2
+"Manchester-Nashua, NH",,,4.97190698,NO2
+"Manitowoc, WI",,,2.5480115,NO2
+"Marshall, TX",,,3.721303644,NO2
+"McAlester, OK",,,NA,NO2
+"McAllen-Edinburg-Mission, TX",,,NA,NO2
+"Medford, OR",,,NA,NO2
+"Memphis, TN-MS-AR",,,10.29057652,NO2
+"Merced, CA",,,6.842709663,NO2
+"Meridian, MS",,,NA,NO2
+"Miami, OK",,,NA,NO2
+"Miami-Fort Lauderdale-Pompano Beach, FL",,,6.432599463,NO2
+"Michigan City-La Porte, IN",,,NA,NO2
+"Middlesborough, KY",,,NA,NO2
+"Milwaukee-Waukesha-West Allis, WI",,,12.84202667,NO2
+"Minneapolis-St. Paul-Bloomington, MN-WI",,,8.604535086,NO2
+"Missoula, MT",,,NA,NO2
+"Mobile, AL",,,NA,NO2
+"Modesto, CA",,,10.13065308,NO2
+"Monroe, LA",,,NA,NO2
+"Monroe, MI",,,NA,NO2
+"Montgomery, AL",,,NA,NO2
+"Morgantown, WV",,,NA,NO2
+"Mount Vernon, IL",,,NA,NO2
+"Muncie, IN",,,NA,NO2
+"Muscatine, IA",,,NA,NO2
+"Muskegon-Norton Shores, MI",,,NA,NO2
+"Muskogee, OK",,,NA,NO2
+"Natchez, MS-LA",,,NA,NO2
+"New Castle, IN",,,NA,NO2
+"New Haven-Milford, CT",,,13.65610155,NO2
+"New Orleans-Metairie-Kenner, LA",,,7.796183757,NO2
+"New York-Northern New Jersey-Long Island, NY-NJ-PA",,,15.79615655,NO2
+"Niles-Benton Harbor, MI",,,NA,NO2
+"Nogales, AZ",,,NA,NO2
+"Norwich-New London, CT",,,NA,NO2
+"Odessa, TX",,,NA,NO2
+"Ogden-Clearfield, UT",,,15.48416914,NO2
+"Oklahoma City, OK",,,7.765124341,NO2
+"Omaha-Council Bluffs, NE-IA",,,NA,NO2
+"Orlando-Kissimmee, FL",,,5.710667661,NO2
+"Ottawa-Streator, IL",,,NA,NO2
+"Owensboro, KY",,,7.060892605,NO2
+"Oxnard-Thousand Oaks-Ventura, CA",,,8.609332014,NO2
+"Paducah, KY-IL",,,6.849397921,NO2
+"Palm Bay-Melbourne-Titusville, FL",,,NA,NO2
+"Parkersburg-Marietta-Vienna, WV-OH",,,NA,NO2
+"Pascagoula, MS",,,5.503543258,NO2
+"Pendleton-Hermiston, OR",,,NA,NO2
+"Pensacola-Ferry Pass-Brent, FL",,,6.79505722,NO2
+"Peoria, IL",,,NA,NO2
+"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",,,15.11465517,NO2
+"Phoenix-Mesa-Scottsdale, AZ",,,16.55976336,NO2
+"Pittsburgh, PA",,,11.75480795,NO2
+"Pittsfield, MA",,,NA,NO2
+"Platteville, WI",,,NA,NO2
+"Pocatello, ID",,,NA,NO2
+"Ponce, PR",,,NA,NO2
+"Port St. Lucie, FL",,,NA,NO2
+"Portland-South Portland-Biddeford, ME",,,9.776615909,NO2
+"Portland-Vancouver-Beaverton, OR-WA",,,9.054466978,NO2
+"Portsmouth, OH",,,NA,NO2
+"Poughkeepsie-Newburgh-Middletown, NY",,,NA,NO2
+"Prescott, AZ",,,NA,NO2
+"Prineville, OR",,,NA,NO2
+"Providence-New Bedford-Fall River, RI-MA",,,7.570299723,NO2
+"Provo-Orem, UT",,,14.58671039,NO2
+"Pueblo, CO",,,NA,NO2
+"Quincy, IL-MO",,,NA,NO2
+"Raleigh-Cary, NC",,,NA,NO2
+"Rapid City, SD",,,NA,NO2
+"Reading, PA",,,8.226077583,NO2
+"Redding, CA",,,NA,NO2
+"Reno-Sparks, NV",,,16.26944778,NO2
+"Richmond, VA",,,8.971517874,NO2
+"Richmond-Berea, KY",,,NA,NO2
+"Riverside-San Bernardino-Ontario, CA",,,14.12997025,NO2
+"Riverton, WY",,,0.620559023,NO2
+"Roanoke, VA",,,7.603233011,NO2
+"Rochester, MN",,,NA,NO2
+"Rochester, NY",,,NA,NO2
+"Rock Springs, WY",,,3.46512354,NO2
+"Rockford, IL",,,NA,NO2
+"Rocky Mount, NC",,,NA,NO2
+"Rome, GA",,,NA,NO2
+"Roswell, NM",,,NA,NO2
+"Russellville, AR",,,NA,NO2
+"Rutland, VT",,,7.697216641,NO2
+"Sacramento--Arden-Arcade--Roseville, CA",,,8.380049437,NO2
+"Salinas, CA",,,6.053746255,NO2
+"Salisbury, NC",,,NA,NO2
+"Salt Lake City, UT",,,16.83973656,NO2
+"San Antonio, TX",,,6.096797485,NO2
+"San Diego-Carlsbad-San Marcos, CA",,,13.03501529,NO2
+"San Francisco-Oakland-Fremont, CA",,,11.34031134,NO2
+"San Jose-Sunnyvale-Santa Clara, CA",,,13.54778846,NO2
+"San Juan-Caguas-Guaynabo, PR",,,NA,NO2
+"San Luis Obispo-Paso Robles, CA",,,3.954350225,NO2
+"Santa Barbara-Santa Maria-Goleta, CA",,,3.639724174,NO2
+"Santa Cruz-Watsonville, CA",,,1.801134273,NO2
+"Santa Fe, NM",,,NA,NO2
+"Santa Rosa-Petaluma, CA",,,8.2174182,NO2
+"Sault Ste. Marie, MI",,,NA,NO2
+"Savannah, GA",,,NA,NO2
+"Scottsbluff, NE",,,NA,NO2
+"Scranton--Wilkes-Barre, PA",,,9.118592562,NO2
+"Seaford, DE",,,NA,NO2
+"Searcy, AR",,,NA,NO2
+"Seattle-Tacoma-Bellevue, WA",,,NA,NO2
+"Seneca, SC",,,NA,NO2
+"Sheridan, WY",,,NA,NO2
+"Shreveport-Bossier City, LA",,,NA,NO2
+"Sierra Vista-Douglas, AZ",,,NA,NO2
+"Silver City, NM",,,NA,NO2
+"Sioux City, IA-NE-SD",,,2.953638703,NO2
+"Sioux Falls, SD",,,6.590912682,NO2
+"Somerset, KY",,,NA,NO2
+"South Bend-Mishawaka, IN-MI",,,11.22809636,NO2
+"Spartanburg, SC",,,NA,NO2
+"Spokane, WA",,,NA,NO2
+"Springfield, IL",,,NA,NO2
+"Springfield, MA",,,7.791319888,NO2
+"Springfield, MO",,,7.952089129,NO2
+"Springfield, OH",,,NA,NO2
+"St. Cloud, MN",,,NA,NO2
+"St. George, UT",,,1.7248319,NO2
+"St. Joseph, MO-KS",,,NA,NO2
+"St. Louis, MO-IL",,,9.264381143,NO2
+"State College, PA",,,5.199145592,NO2
+"Stockton, CA",,,10.18244785,NO2
+"Syracuse, NY",,,NA,NO2
+"Talladega-Sylacauga, AL",,,NA,NO2
+"Tallahassee, FL",,,NA,NO2
+"Tampa-St. Petersburg-Clearwater, FL",,,5.880761012,NO2
+"Terre Haute, IN",,,NA,NO2
+"Texarkana, TX-Texarkana, AR",,,NA,NO2
+"Thomasville-Lexington, NC",,,NA,NO2
+"Toledo, OH",,,NA,NO2
+"Topeka, KS",,,NA,NO2
+"Torrington, CT",,,4.637255137,NO2
+"Trenton-Ewing, NJ",,,8.069802047,NO2
+"Truckee-Grass Valley, CA",,,3.526960942,NO2
+"Tucson, AZ",,,10.8242732,NO2
+"Tulsa, OK",,,8.352712011,NO2
+"Tupelo, MS",,,NA,NO2
+"Tuscaloosa, AL",,,NA,NO2
+"Ukiah, CA",,,NA,NO2
+"Valdosta, GA",,,NA,NO2
+"Vallejo-Fairfield, CA",,,9.323955984,NO2
+"Vincennes, IN",,,NA,NO2
+"Virginia Beach-Norfolk-Newport News, VA-NC",,,6.360843961,NO2
+"Visalia-Porterville, CA",,,12.54488764,NO2
+"Warner Robins, GA",,,NA,NO2
+"Washington-Arlington-Alexandria, DC-VA-MD-WV",,,12.66666586,NO2
+"Waterloo-Cedar Falls, IA",,,NA,NO2
+"Watertown, SD",,,NA,NO2
+"Weirton-Steubenville, WV-OH",,,NA,NO2
+"Wheeling, WV-OH",,,NA,NO2
+"Wichita, KS",,,5.999941866,NO2
+"Wilmington, NC",,,NA,NO2
+"Winchester, VA-WV",,,NA,NO2
+"Winston-Salem, NC",,,9.458113864,NO2
+"Worcester, MA",,,13.94791153,NO2
+"Yakima, WA",,,NA,NO2
+"York-Hanover, PA",,,13.41513608,NO2
+"Youngstown-Warren-Boardman, OH-PA",,,NA,NO2
+"Yuba City, CA",,,7.501746359,NO2
+"Yuma, AZ",,,NA,NO2
+"Aberdeen, WA",,,NA,NO2
+"Ardmore, OK",,,NA,NO2
+"Barnstable Town, MA",,,NA,NO2
+"Bellingham, WA",,,NA,NO2
+"Berlin, NH-VT",,,NA,NO2
+"Billings, MT",,,NA,NO2
+"Branson, MO",,,NA,NO2
+"Bremerton-Silverdale, WA",,,NA,NO2
+"Carlsbad-Artesia, NM",,,2.399147852,NO2
+"Centralia, WA",,,NA,NO2
+"Corsicana, TX",,,4.332976475,NO2
+"Corvallis, OR",,,NA,NO2
+"Crescent City, CA",,,NA,NO2
+"Dalton, GA",,,NA,NO2
+"Douglas, GA",,,NA,NO2
+"Eagle Pass, TX",,,NA,NO2
+"Elko, NV",,,NA,NO2
+"Ellensburg, WA",,,NA,NO2
+"Emporia, KS",,,NA,NO2
+"Espanola, NM",,,NA,NO2
+"Great Falls, MT",,,NA,NO2
+"Harrison, AR",,,NA,NO2
+"Houghton, MI",,,NA,NO2
+"Kennewick-Richland-Pasco, WA",,,NA,NO2
+"Kingsville, TX",,,NA,NO2
+"Knoxville, TN",,,0.895842556,NO2
+"Lake City, FL",,,NA,NO2
+"Lake Havasu City-Kingman, AZ",,,NA,NO2
+"Laredo, TX",,,NA,NO2
+"Lawrenceburg, TN",,,NA,NO2
+"Lawton, OK",,,NA,NO2
+"Lewiston, ID-WA",,,NA,NO2
+"Longview, WA",,,NA,NO2
+"Los Alamos, NM",,,NA,NO2
+"Marshall, MN",,,NA,NO2
+"Moscow, ID",,,NA,NO2
+"Moses Lake, WA",,,NA,NO2
+"Mount Vernon-Anacortes, WA",,,6.28955039,NO2
+"Napa, CA",,,8.507322123,NO2
+"Naples-Marco Island, FL",,,NA,NO2
+"Nashville-Davidson-Murfreesboro-Franklin, TN",,,12.54044927,NO2
+"Ocala, FL",,,NA,NO2
+"Olympia, WA",,,NA,NO2
+"Panama City-Lynn Haven, FL",,,NA,NO2
+"Payson, AZ",,,NA,NO2
+"Ponca City, OK",,,NA,NO2
+"Port Angeles, WA",,,NA,NO2
+"Pullman, WA",,,NA,NO2
+"Red Bluff, CA",,,NA,NO2
+"Roseburg, OR",,,NA,NO2
+"Ruidoso, NM",,,NA,NO2
+"Salem, OR",,,NA,NO2
+"Shelton, WA",,,NA,NO2
+"Show Low, AZ",,,NA,NO2
+"Taos, NM",,,NA,NO2
+"The Dalles, OR",,,NA,NO2
+"Twin Falls, ID",,,NA,NO2
+"Utica-Rome, NY",,,NA,NO2
+"Vernal, UT",,,4.214737993,NO2
+"Vineland-Millville-Bridgeton, NJ",,,NA,NO2
+"Waco, TX",,,2.791233028,NO2
+"Walla Walla, WA",,,NA,NO2
+"Wenatchee, WA",,,NA,NO2
+"Wichita Falls, TX",,,NA,NO2
+"Winona, MN",,,NA,NO2
+"Athens, TN",,,8.998646181,NO2
+"Canon City, CO",,,NA,NO2
+"Carbondale, IL",,,NA,NO2
+"Cleveland, TN",,,7.202295127,NO2
+"Culpeper, VA",,,NA,NO2
+"Deming, NM",,,4.560229986,NO2
+"Dodge City, KS",,,NA,NO2
+"East Liverpool-Salem, OH",,,NA,NO2
+"Evanston, WY",,,1.458148356,NO2
+"Findlay, OH",,,NA,NO2
+"Gallup, NM",,,NA,NO2
+"Georgetown, SC",,,NA,NO2
+"Jackson, TN",,,NA,NO2
+"Joplin, MO",,,NA,NO2
+"Lexington, NE",,,NA,NO2
+"Mason City, IA",,,NA,NO2
+"New Castle, PA",,,NA,NO2
+"Pahrump, NV",,,NA,NO2
+"Palatka, FL",,,NA,NO2
+"Silverthorne, CO",,,NA,NO2
+"Summerville, GA",,,NA,NO2
+"Williamsport, PA",,,NA,NO2
+"Burley, ID",,,NA,NO2
+"Coeur d'Alene, ID",,,1.978481169,NO2
+"Elmira, NY",,,NA,NO2
+"Granbury, TX",,,NA,NO2
+"Iron Mountain, MI-WI",,,NA,NO2
+"Killeen-Temple-Fort Hood, TX",,,NA,NO2
+"Kingston, NY",,,NA,NO2
+"Longview, TX",,,6.565428756,NO2
+"Malone, NY",,,2.162073288,NO2
+"Minot, ND",,,2.117789833,NO2
+"Ocean Pines, MD",,,NA,NO2
+"Phoenix Lake-Cedar Ridge, CA",,,NA,NO2
+"Racine, WI",,,NA,NO2
+"Richmond, IN",,,NA,NO2
+"Rockland, ME",,,NA,NO2
+"Sevierville, TN",,,NA,NO2
+"Seymour, IN",,,NA,NO2
+"Sheboygan, WI",,,NA,NO2
+"Tahlequah, OK",,,NA,NO2
+"Tyler, TX",,,3.588402932,NO2
+"Victoria, TX",,,NA,NO2
+"Wausau, WI",,,NA,NO2
+"Whitewater, WI",,,NA,NO2
+"Williston, ND",,,NA,NO2
+"Watertown-Fort Drum, NY",,,NA,NO2
+"Ames, IA",,,NA,NO2
+"Bemidji, MN",,,NA,NO2
+"Greeneville, TN",,,NA,NO2
+"Jefferson City, MO",,,NA,NO2
+"Lufkin, TX",,,NA,NO2
+"Warsaw, IN",,,NA,NO2
+"Gardnerville Ranchos, NV",,,NA,NO2
+"Americus, GA",,,NA,NO2
+"Anderson, SC",,,NA,NO2
+"Ashtabula, OH",,,NA,NO2
+"Carson City, NV",,,NA,NO2
+"Chambersburg, PA",,,NA,NO2
+"Columbia, MO",,,NA,NO2
+"DuBois, PA",,,NA,NO2
+"Effingham, IL",,,NA,NO2
+"Fallon, NV",,,NA,NO2
+"Fernley, NV",,,NA,NO2
+"Fond du Lac, WI",,,NA,NO2
+"Fort Walton Beach-Crestview-Destin, FL",,,NA,NO2
+"Gaffney, SC",,,NA,NO2
+"Huntington, IN",,,NA,NO2
+"Indiana, PA",,,NA,NO2
+"Janesville, WI",,,NA,NO2
+"Lincolnton, NC",,,NA,NO2
+"Morristown, TN",,,NA,NO2
+"Mount Vernon, OH",,,NA,NO2
+"Myrtle Beach-Conway-North Myrtle Beach, SC",,,NA,NO2
+"Red Wing, MN",,,NA,NO2
+"Sebring, FL",,,NA,NO2
+"Traverse City, MI",,,NA,NO2
+"Walterboro, SC",,,NA,NO2
+"Watertown-Fort Atkinson, WI",,,NA,NO2
+"Wilmington, OH",,,NA,NO2
+"Coffeyville, KS",,,NA,NO2
+"New Philadelphia-Dover, OH",,,NA,NO2
+"Warren, PA",,,NA,NO2
+"Washington, IN",,,NA,NO2
+"Washington, NC",,,NA,NO2
+"Yauco, PR",,,NA,NO2
+"Aberdeen, SD",,,NA,OZONE
+"Adrian, MI",,,0.03527544,OZONE
+"Akron, OH",,,0.028904419,OZONE
+"Albany, GA",,,NA,OZONE
+"Albany-Lebanon, OR",,,NA,OZONE
+"Albany-Schenectady-Troy, NY",,,0.030245564,OZONE
+"Albuquerque, NM",,,0.033126114,OZONE
+"Alexandria, LA",,,NA,OZONE
+"Allegan, MI",,,0.036818598,OZONE
+"Allentown-Bethlehem-Easton, PA-NJ",,,0.030632084,OZONE
+"Altoona, PA",,,0.029422075,OZONE
+"Amarillo, TX",,,NA,OZONE
+"Anchorage, AK",,,0.017219103,OZONE
+"Anderson, IN",,,0.034432266,OZONE
+"Ann Arbor, MI",,,0.031951995,OZONE
+"Appleton, WI",,,0.03098073,OZONE
+"Asheville, NC",,,0.036508603,OZONE
+"Athens, OH",,,0.031118318,OZONE
+"Athens-Clarke County, GA",,,0.030466831,OZONE
+"Atlanta-Sandy Springs-Marietta, GA",,,0.02907348,OZONE
+"Atlantic City, NJ",,,0.033128737,OZONE
+"Augusta-Richmond County, GA-SC",,,0.029298017,OZONE
+"Augusta-Waterville, ME",,,0.029201079,OZONE
+"Austin-Round Rock, TX",,,0.028650775,OZONE
+"Bakersfield, CA",,,0.035104308,OZONE
+"Baltimore-Towson, MD",,,0.033141505,OZONE
+"Bangor, ME",,,0.027584785,OZONE
+"Baraboo, WI",,,0.03257146,OZONE
+"Baton Rouge, LA",,,0.026165231,OZONE
+"Bay City, MI",,,NA,OZONE
+"Beaumont-Port Arthur, TX",,,0.028283884,OZONE
+"Beaver Dam, WI",,,0.031665276,OZONE
+"Beckley, WV",,,NA,OZONE
+"Bend, OR",,,0.030358188,OZONE
+"Bennington, VT",,,0.02959714,OZONE
+"Birmingham-Hoover, AL",,,0.028593919,OZONE
+"Bishop, CA",,,0.043204841,OZONE
+"Bismarck, ND",,,0.028803634,OZONE
+"Bloomington, IN",,,0.037221226,OZONE
+"Bloomington-Normal, IL",,,0.03047046,OZONE
+"Boise City-Nampa, ID",,,0.029370499,OZONE
+"Boone, NC",,,NA,OZONE
+"Boston-Cambridge-Quincy, MA-NH",,,0.030386265,OZONE
+"Boulder, CO",,,0.038738468,OZONE
+"Bowling Green, KY",,,0.032908997,OZONE
+"Bozeman, MT",,,NA,OZONE
+"Bradenton-Sarasota-Venice, FL",,,0.02871375,OZONE
+"Brainerd, MN",,,0.02995566,OZONE
+"Bridgeport-Stamford-Norwalk, CT",,,0.033556819,OZONE
+"Brigham City, UT",,,0.039569544,OZONE
+"Brookings, SD",,,0.030291247,OZONE
+"Brownsville-Harlingen, TX",,,0.026957592,OZONE
+"Brunswick, GA",,,0.030533195,OZONE
+"Buffalo-Niagara Falls, NY",,,0.031508282,OZONE
+"Burlington, NC",,,NA,OZONE
+"Burlington-South Burlington, VT",,,0.032820378,OZONE
+"Butte-Silver Bow, MT",,,NA,OZONE
+"Cadillac, MI",,,0.029454239,OZONE
+"Canton-Massillon, OH",,,0.03239505,OZONE
+"Cape Coral-Fort Myers, FL",,,0.031042227,OZONE
+"Casper, WY",,,NA,OZONE
+"Cedar Rapids, IA",,,0.030859211,OZONE
+"Champaign-Urbana, IL",,,0.025461811,OZONE
+"Charleston, WV",,,0.026350944,OZONE
+"Charleston-North Charleston, SC",,,0.028076258,OZONE
+"Charlotte-Gastonia-Concord, NC-SC",,,0.030348052,OZONE
+"Charlottesville, VA",,,0.03362153,OZONE
+"Chattanooga, TN-GA",,,0.036850014,OZONE
+"Cheyenne, WY",,,NA,OZONE
+"Chicago-Naperville-Joliet, IL-IN-WI",,,0.028158458,OZONE
+"Chico, CA",,,0.033119697,OZONE
+"Cincinnati-Middletown, OH-KY-IN",,,0.031884863,OZONE
+"Clarksburg, WV",,,NA,OZONE
+"Clarksville, TN-KY",,,0.039163996,OZONE
+"Clearlake, CA",,,0.02681238,OZONE
+"Cleveland, MS",,,0.034237739,OZONE
+"Cleveland-Elyria-Mentor, OH",,,0.032968156,OZONE
+"Clinton, IA",,,0.030468741,OZONE
+"Colorado Springs, CO",,,0.03673691,OZONE
+"Columbia, SC",,,0.02715334,OZONE
+"Columbus, GA-AL",,,0.031243057,OZONE
+"Columbus, OH",,,0.033681272,OZONE
+"Concord, NH",,,0.029949152,OZONE
+"Corning, NY",,,0.034119333,OZONE
+"Corpus Christi, TX",,,0.027530915,OZONE
+"Dallas-Fort Worth-Arlington, TX",,,0.028768502,OZONE
+"Daphne-Fairhope-Foley, AL",,,0.031423919,OZONE
+"Davenport-Moline-Rock Island, IA-IL",,,0.028323987,OZONE
+"Dayton, OH",,,0.033971641,OZONE
+"Decatur, AL",,,0.029770451,OZONE
+"Decatur, IL",,,0.029376619,OZONE
+"Deltona-Daytona Beach-Ormond Beach, FL",,,0.027632831,OZONE
+"Denver-Aurora, CO",,,0.034657331,OZONE
+"Des Moines-West Des Moines, IA",,,0.028684524,OZONE
+"Detroit-Warren-Livonia, MI",,,0.030027494,OZONE
+"Dickinson, ND",,,0.034078638,OZONE
+"Dothan, AL",,,0.028315667,OZONE
+"Dover, DE",,,0.032234533,OZONE
+"Duluth, MN-WI",,,0.030233516,OZONE
+"Durango, CO",,,0.036844375,OZONE
+"Durham, NC",,,0.029697916,OZONE
+"East Stroudsburg, PA",,,0.034583304,OZONE
+"Eau Claire, WI",,,NA,OZONE
+"El Centro, CA",,,0.029865909,OZONE
+"El Dorado, AR",,,NA,OZONE
+"El Paso, TX",,,0.027824546,OZONE
+"Elizabethtown, KY",,,0.033168695,OZONE
+"Elkhart-Goshen, IN",,,0.031585603,OZONE
+"Erie, PA",,,0.035236052,OZONE
+"Eugene-Springfield, OR",,,0.019780703,OZONE
+"Eureka-Arcata-Fortuna, CA",,,0.022839635,OZONE
+"Evansville, IN-KY",,,0.032523743,OZONE
+"Fairbanks, AK",,,NA,OZONE
+"Fairmont, WV",,,NA,OZONE
+"Fajardo, PR",,,NA,OZONE
+"Fargo, ND-MN",,,0.026462685,OZONE
+"Farmington, NM",,,0.030412826,OZONE
+"Fayetteville, NC",,,0.031986395,OZONE
+"Fayetteville-Springdale-Rogers, AR-MO",,,0.030756715,OZONE
+"Flagstaff, AZ",,,0.043949003,OZONE
+"Flint, MI",,,0.033528818,OZONE
+"Florence, SC",,,0.028605785,OZONE
+"Florence-Muscle Shoals, AL",,,0.02838131,OZONE
+"Fort Collins-Loveland, CO",,,0.038430497,OZONE
+"Fort Madison-Keokuk, IA-MO",,,NA,OZONE
+"Fort Payne, AL",,,NA,OZONE
+"Fort Smith, AR-OK",,,0.026875677,OZONE
+"Fort Wayne, IN",,,0.032689605,OZONE
+"Frankfort, KY",,,NA,OZONE
+"Fresno, CA",,,0.030099586,OZONE
+"Gadsden, AL",,,0.027381683,OZONE
+"Gainesville, FL",,,0.026167282,OZONE
+"Gainesville, GA",,,NA,OZONE
+"Gettysburg, PA",,,0.039670256,OZONE
+"Gillette, WY",,,0.035437814,OZONE
+"Goldsboro, NC",,,NA,OZONE
+"Grand Island, NE",,,NA,OZONE
+"Grand Junction, CO",,,0.042280302,OZONE
+"Grand Rapids-Wyoming, MI",,,0.029175812,OZONE
+"Grants Pass, OR",,,NA,OZONE
+"Greeley, CO",,,0.030991951,OZONE
+"Green Bay, WI",,,0.033900281,OZONE
+"Greensboro-High Point, NC",,,0.036316616,OZONE
+"Greenville, NC",,,0.033151891,OZONE
+"Greenville-Mauldin-Easley, SC",,,0.027040942,OZONE
+"Grenada, MS",,,NA,OZONE
+"Guayama, PR",,,NA,OZONE
+"Gulfport-Biloxi, MS",,,0.03141214,OZONE
+"Hagerstown-Martinsburg, MD-WV",,,0.034046345,OZONE
+"Hammond, LA",,,NA,OZONE
+"Hanford-Corcoran, CA",,,0.031610747,OZONE
+"Harriman, TN",,,NA,OZONE
+"Harrisburg-Carlisle, PA",,,0.02845695,OZONE
+"Harrisonburg, VA",,,0.030250803,OZONE
+"Hartford-West Hartford-East Hartford, CT",,,0.034377584,OZONE
+"Hattiesburg, MS",,,NA,OZONE
+"Helena, MT",,,NA,OZONE
+"Helena-West Helena, AR",,,NA,OZONE
+"Hickory-Lenoir-Morganton, NC",,,0.030292398,OZONE
+"Hilo, HI",,,NA,OZONE
+"Hobbs, NM",,,0.027729747,OZONE
+"Holland-Grand Haven, MI",,,0.034567293,OZONE
+"Homosassa Springs, FL",,,NA,OZONE
+"Honolulu, HI",,,0.020412268,OZONE
+"Hot Springs, AR",,,NA,OZONE
+"Houma-Bayou Cane-Thibodaux, LA",,,0.026858499,OZONE
+"Houston-Sugar Land-Baytown, TX",,,0.024482813,OZONE
+"Huntington-Ashland, WV-KY-OH",,,0.027190923,OZONE
+"Huntsville, AL",,,0.031763309,OZONE
+"Indianapolis-Carmel, IN",,,0.031117407,OZONE
+"Iowa City, IA",,,NA,OZONE
+"Jackson, MS",,,0.026821412,OZONE
+"Jackson, WY-ID",,,0.044652562,OZONE
+"Jacksonville, FL",,,0.026354561,OZONE
+"Jamestown-Dunkirk-Fredonia, NY",,,0.035420104,OZONE
+"Jasper, IN",,,NA,OZONE
+"Johnstown, PA",,,0.027056163,OZONE
+"Juneau, AK",,,NA,OZONE
+"Kahului-Wailuku, HI",,,NA,OZONE
+"Kalamazoo-Portage, MI",,,0.033189989,OZONE
+"Kalispell, MT",,,0.021451777,OZONE
+"Kansas City, MO-KS",,,0.031123155,OZONE
+"Keene, NH",,,0.023701968,OZONE
+"Kingsport-Bristol-Bristol, TN-VA",,,0.030877014,OZONE
+"Kinston, NC",,,0.031219486,OZONE
+"Klamath Falls, OR",,,NA,OZONE
+"Kokomo, IN",,,NA,OZONE
+"La Crosse, WI-MN",,,0.03000769,OZONE
+"La Grande, OR",,,NA,OZONE
+"Laconia, NH",,,0.034557293,OZONE
+"Lafayette, IN",,,0.034304826,OZONE
+"Lafayette, LA",,,0.029153989,OZONE
+"Lake Charles, LA",,,0.027722632,OZONE
+"Lakeland, FL",,,0.026694062,OZONE
+"Lancaster, PA",,,0.031481342,OZONE
+"Lansing-East Lansing, MI",,,0.031370537,OZONE
+"Laramie, WY",,,NA,OZONE
+"Las Cruces, NM",,,0.031781757,OZONE
+"Las Vegas-Paradise, NV",,,0.0367807,OZONE
+"Laurel, MS",,,NA,OZONE
+"Lebanon, NH-VT",,,0.024055304,OZONE
+"Lewiston-Auburn, ME",,,0.025238586,OZONE
+"Lexington-Fayette, KY",,,0.034747243,OZONE
+"Lima, OH",,,0.035113488,OZONE
+"Lincoln, NE",,,0.024484205,OZONE
+"Little Rock-North Little Rock-Conway, AR",,,0.028697591,OZONE
+"Logan, UT-ID",,,0.025783423,OZONE
+"Los Angeles-Long Beach-Santa Ana, CA",,,0.025303636,OZONE
+"Louisville/Jefferson County, KY-IN",,,0.031300451,OZONE
+"Lubbock, TX",,,NA,OZONE
+"Lumberton, NC",,,NA,OZONE
+"Lynchburg, VA",,,NA,OZONE
+"Macon, GA",,,0.026530041,OZONE
+"Madera, CA",,,0.027658285,OZONE
+"Madison, WI",,,0.032259097,OZONE
+"Manchester-Nashua, NH",,,0.033160686,OZONE
+"Manitowoc, WI",,,0.031048842,OZONE
+"Marshall, TX",,,0.026011984,OZONE
+"McAlester, OK",,,0.030738241,OZONE
+"McAllen-Edinburg-Mission, TX",,,0.022444567,OZONE
+"Medford, OR",,,0.030356961,OZONE
+"Memphis, TN-MS-AR",,,0.031637281,OZONE
+"Merced, CA",,,0.028088272,OZONE
+"Meridian, MS",,,0.02573752,OZONE
+"Miami, OK",,,0.030922075,OZONE
+"Miami-Fort Lauderdale-Pompano Beach, FL",,,0.027025837,OZONE
+"Michigan City-La Porte, IN",,,0.033627731,OZONE
+"Middlesborough, KY",,,0.033425179,OZONE
+"Milwaukee-Waukesha-West Allis, WI",,,0.030608378,OZONE
+"Minneapolis-St. Paul-Bloomington, MN-WI",,,0.028383019,OZONE
+"Missoula, MT",,,0.020726149,OZONE
+"Mobile, AL",,,0.02726377,OZONE
+"Modesto, CA",,,0.025338118,OZONE
+"Monroe, LA",,,0.02712631,OZONE
+"Monroe, MI",,,NA,OZONE
+"Montgomery, AL",,,0.03198483,OZONE
+"Morgantown, WV",,,0.034397654,OZONE
+"Mount Vernon, IL",,,0.035988454,OZONE
+"Muncie, IN",,,0.033030087,OZONE
+"Muscatine, IA",,,NA,OZONE
+"Muskegon-Norton Shores, MI",,,0.032981864,OZONE
+"Muskogee, OK",,,0.022173636,OZONE
+"Natchez, MS-LA",,,0.026693672,OZONE
+"New Castle, IN",,,NA,OZONE
+"New Haven-Milford, CT",,,0.027447863,OZONE
+"New Orleans-Metairie-Kenner, LA",,,0.027904512,OZONE
+"New York-Northern New Jersey-Long Island, NY-NJ-PA",,,0.028576702,OZONE
+"Niles-Benton Harbor, MI",,,0.035648208,OZONE
+"Nogales, AZ",,,NA,OZONE
+"Norwich-New London, CT",,,0.035344497,OZONE
+"Odessa, TX",,,NA,OZONE
+"Ogden-Clearfield, UT",,,0.030420165,OZONE
+"Oklahoma City, OK",,,0.031124268,OZONE
+"Omaha-Council Bluffs, NE-IA",,,0.028063415,OZONE
+"Orlando-Kissimmee, FL",,,0.027680357,OZONE
+"Ottawa-Streator, IL",,,NA,OZONE
+"Owensboro, KY",,,0.034355276,OZONE
+"Oxnard-Thousand Oaks-Ventura, CA",,,0.029344513,OZONE
+"Paducah, KY-IL",,,0.03279948,OZONE
+"Palm Bay-Melbourne-Titusville, FL",,,0.032259897,OZONE
+"Parkersburg-Marietta-Vienna, WV-OH",,,0.032916839,OZONE
+"Pascagoula, MS",,,0.033771829,OZONE
+"Pendleton-Hermiston, OR",,,0.029548829,OZONE
+"Pensacola-Ferry Pass-Brent, FL",,,0.033915814,OZONE
+"Peoria, IL",,,0.027512399,OZONE
+"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",,,0.031291659,OZONE
+"Phoenix-Mesa-Scottsdale, AZ",,,0.033257131,OZONE
+"Pittsburgh, PA",,,0.029114819,OZONE
+"Pittsfield, MA",,,0.039793411,OZONE
+"Platteville, WI",,,NA,OZONE
+"Pocatello, ID",,,NA,OZONE
+"Ponce, PR",,,NA,OZONE
+"Port St. Lucie, FL",,,0.028134031,OZONE
+"Portland-South Portland-Biddeford, ME",,,0.029504788,OZONE
+"Portland-Vancouver-Beaverton, OR-WA",,,0.021089212,OZONE
+"Portsmouth, OH",,,NA,OZONE
+"Poughkeepsie-Newburgh-Middletown, NY",,,0.028368165,OZONE
+"Prescott, AZ",,,0.036522163,OZONE
+"Prineville, OR",,,NA,OZONE
+"Providence-New Bedford-Fall River, RI-MA",,,0.034840566,OZONE
+"Provo-Orem, UT",,,0.033144026,OZONE
+"Pueblo, CO",,,NA,OZONE
+"Quincy, IL-MO",,,0.031106989,OZONE
+"Raleigh-Cary, NC",,,0.031516355,OZONE
+"Rapid City, SD",,,0.032255537,OZONE
+"Reading, PA",,,0.030171233,OZONE
+"Redding, CA",,,0.028613387,OZONE
+"Reno-Sparks, NV",,,0.032225145,OZONE
+"Richmond, VA",,,0.034115961,OZONE
+"Richmond-Berea, KY",,,NA,OZONE
+"Riverside-San Bernardino-Ontario, CA",,,0.035084927,OZONE
+"Riverton, WY",,,0.043770961,OZONE
+"Roanoke, VA",,,0.034548814,OZONE
+"Rochester, MN",,,0.027520926,OZONE
+"Rochester, NY",,,0.028938055,OZONE
+"Rock Springs, WY",,,0.036594794,OZONE
+"Rockford, IL",,,0.026083881,OZONE
+"Rocky Mount, NC",,,0.032553767,OZONE
+"Rome, GA",,,NA,OZONE
+"Roswell, NM",,,NA,OZONE
+"Russellville, AR",,,NA,OZONE
+"Rutland, VT",,,NA,OZONE
+"Sacramento--Arden-Arcade--Roseville, CA",,,0.028485409,OZONE
+"Salinas, CA",,,0.024651212,OZONE
+"Salisbury, NC",,,0.033818453,OZONE
+"Salt Lake City, UT",,,0.032903765,OZONE
+"San Antonio, TX",,,0.025882421,OZONE
+"San Diego-Carlsbad-San Marcos, CA",,,0.029411465,OZONE
+"San Francisco-Oakland-Fremont, CA",,,0.021225902,OZONE
+"San Jose-Sunnyvale-Santa Clara, CA",,,0.024689782,OZONE
+"San Juan-Caguas-Guaynabo, PR",,,0.011515027,OZONE
+"San Luis Obispo-Paso Robles, CA",,,0.030655042,OZONE
+"Santa Barbara-Santa Maria-Goleta, CA",,,0.029678209,OZONE
+"Santa Cruz-Watsonville, CA",,,0.02173036,OZONE
+"Santa Fe, NM",,,0.036908367,OZONE
+"Santa Rosa-Petaluma, CA",,,0.018027408,OZONE
+"Sault Ste. Marie, MI",,,0.026689875,OZONE
+"Savannah, GA",,,0.030008593,OZONE
+"Scottsbluff, NE",,,0.038104617,OZONE
+"Scranton--Wilkes-Barre, PA",,,0.027624353,OZONE
+"Seaford, DE",,,0.03583302,OZONE
+"Searcy, AR",,,NA,OZONE
+"Seattle-Tacoma-Bellevue, WA",,,0.022409439,OZONE
+"Seneca, SC",,,0.037734205,OZONE
+"Sheridan, WY",,,NA,OZONE
+"Shreveport-Bossier City, LA",,,0.029943,OZONE
+"Sierra Vista-Douglas, AZ",,,0.041481052,OZONE
+"Silver City, NM",,,0.0428764,OZONE
+"Sioux City, IA-NE-SD",,,0.029041127,OZONE
+"Sioux Falls, SD",,,0.028362449,OZONE
+"Somerset, KY",,,0.028001106,OZONE
+"South Bend-Mishawaka, IN-MI",,,0.029148242,OZONE
+"Spartanburg, SC",,,0.030801826,OZONE
+"Spokane, WA",,,0.028481299,OZONE
+"Springfield, IL",,,0.028590026,OZONE
+"Springfield, MA",,,0.031144956,OZONE
+"Springfield, MO",,,0.035010012,OZONE
+"Springfield, OH",,,0.03005037,OZONE
+"St. Cloud, MN",,,0.027232642,OZONE
+"St. George, UT",,,0.043929008,OZONE
+"St. Joseph, MO-KS",,,0.036504549,OZONE
+"St. Louis, MO-IL",,,0.030664505,OZONE
+"State College, PA",,,0.032633701,OZONE
+"Stockton, CA",,,0.025656548,OZONE
+"Syracuse, NY",,,0.029798697,OZONE
+"Talladega-Sylacauga, AL",,,NA,OZONE
+"Tallahassee, FL",,,0.02496424,OZONE
+"Tampa-St. Petersburg-Clearwater, FL",,,0.028915822,OZONE
+"Terre Haute, IN",,,0.030178114,OZONE
+"Texarkana, TX-Texarkana, AR",,,NA,OZONE
+"Thomasville-Lexington, NC",,,NA,OZONE
+"Toledo, OH",,,0.030435132,OZONE
+"Topeka, KS",,,0.027794948,OZONE
+"Torrington, CT",,,0.03654923,OZONE
+"Trenton-Ewing, NJ",,,0.029308359,OZONE
+"Truckee-Grass Valley, CA",,,0.038840255,OZONE
+"Tucson, AZ",,,0.032696644,OZONE
+"Tulsa, OK",,,0.030126313,OZONE
+"Tupelo, MS",,,0.030024523,OZONE
+"Tuscaloosa, AL",,,0.021327654,OZONE
+"Ukiah, CA",,,0.01503131,OZONE
+"Valdosta, GA",,,NA,OZONE
+"Vallejo-Fairfield, CA",,,0.024277652,OZONE
+"Vincennes, IN",,,NA,OZONE
+"Virginia Beach-Norfolk-Newport News, VA-NC",,,0.03676698,OZONE
+"Visalia-Porterville, CA",,,0.0355422,OZONE
+"Warner Robins, GA",,,NA,OZONE
+"Washington-Arlington-Alexandria, DC-VA-MD-WV",,,0.031101723,OZONE
+"Waterloo-Cedar Falls, IA",,,0.03074547,OZONE
+"Watertown, SD",,,NA,OZONE
+"Weirton-Steubenville, WV-OH",,,0.031035688,OZONE
+"Wheeling, WV-OH",,,0.031636273,OZONE
+"Wichita, KS",,,0.030578168,OZONE
+"Wilmington, NC",,,0.028820879,OZONE
+"Winchester, VA-WV",,,0.029672507,OZONE
+"Winston-Salem, NC",,,0.034991299,OZONE
+"Worcester, MA",,,0.03386746,OZONE
+"Yakima, WA",,,NA,OZONE
+"York-Hanover, PA",,,0.034462201,OZONE
+"Youngstown-Warren-Boardman, OH-PA",,,0.03205572,OZONE
+"Yuba City, CA",,,0.028425053,OZONE
+"Yuma, AZ",,,0.037268688,OZONE
+"Aberdeen, WA",,,NA,OZONE
+"Ardmore, OK",,,0.033451151,OZONE
+"Barnstable Town, MA",,,0.038315455,OZONE
+"Bellingham, WA",,,0.01904113,OZONE
+"Berlin, NH-VT",,,0.037085787,OZONE
+"Billings, MT",,,NA,OZONE
+"Branson, MO",,,0.031084918,OZONE
+"Bremerton-Silverdale, WA",,,NA,OZONE
+"Carlsbad-Artesia, NM",,,0.033754913,OZONE
+"Centralia, WA",,,NA,OZONE
+"Corsicana, TX",,,0.030483569,OZONE
+"Corvallis, OR",,,NA,OZONE
+"Crescent City, CA",,,NA,OZONE
+"Dalton, GA",,,0.042733086,OZONE
+"Douglas, GA",,,NA,OZONE
+"Eagle Pass, TX",,,NA,OZONE
+"Elko, NV",,,NA,OZONE
+"Ellensburg, WA",,,NA,OZONE
+"Emporia, KS",,,NA,OZONE
+"Espanola, NM",,,NA,OZONE
+"Great Falls, MT",,,NA,OZONE
+"Harrison, AR",,,0.038213526,OZONE
+"Houghton, MI",,,NA,OZONE
+"Kennewick-Richland-Pasco, WA",,,NA,OZONE
+"Kingsville, TX",,,NA,OZONE
+"Knoxville, TN",,,0.032138113,OZONE
+"Lake City, FL",,,0.02597434,OZONE
+"Lake Havasu City-Kingman, AZ",,,NA,OZONE
+"Laredo, TX",,,0.021959124,OZONE
+"Lawrenceburg, TN",,,NA,OZONE
+"Lawton, OK",,,0.030691895,OZONE
+"Lewiston, ID-WA",,,NA,OZONE
+"Longview, WA",,,NA,OZONE
+"Los Alamos, NM",,,NA,OZONE
+"Marshall, MN",,,0.032397195,OZONE
+"Moscow, ID",,,NA,OZONE
+"Moses Lake, WA",,,NA,OZONE
+"Mount Vernon-Anacortes, WA",,,0.018967145,OZONE
+"Napa, CA",,,0.02313637,OZONE
+"Naples-Marco Island, FL",,,0.025981781,OZONE
+"Nashville-Davidson-Murfreesboro-Franklin, TN",,,0.03135317,OZONE
+"Ocala, FL",,,0.025858448,OZONE
+"Olympia, WA",,,0.021193792,OZONE
+"Panama City-Lynn Haven, FL",,,0.035063772,OZONE
+"Payson, AZ",,,0.045966671,OZONE
+"Ponca City, OK",,,0.029170703,OZONE
+"Port Angeles, WA",,,0.029983585,OZONE
+"Pullman, WA",,,NA,OZONE
+"Red Bluff, CA",,,0.035709351,OZONE
+"Roseburg, OR",,,NA,OZONE
+"Ruidoso, NM",,,NA,OZONE
+"Salem, OR",,,0.019396357,OZONE
+"Shelton, WA",,,NA,OZONE
+"Show Low, AZ",,,0.040723299,OZONE
+"Taos, NM",,,NA,OZONE
+"The Dalles, OR",,,NA,OZONE
+"Twin Falls, ID",,,NA,OZONE
+"Utica-Rome, NY",,,0.026275964,OZONE
+"Vernal, UT",,,0.044704036,OZONE
+"Vineland-Millville-Bridgeton, NJ",,,0.028918783,OZONE
+"Waco, TX",,,0.028020532,OZONE
+"Walla Walla, WA",,,NA,OZONE
+"Wenatchee, WA",,,NA,OZONE
+"Wichita Falls, TX",,,NA,OZONE
+"Winona, MN",,,NA,OZONE
+"Athens, TN",,,NA,OZONE
+"Canon City, CO",,,NA,OZONE
+"Carbondale, IL",,,NA,OZONE
+"Cleveland, TN",,,NA,OZONE
+"Culpeper, VA",,,NA,OZONE
+"Deming, NM",,,0.02836169,OZONE
+"Dodge City, KS",,,NA,OZONE
+"East Liverpool-Salem, OH",,,NA,OZONE
+"Evanston, WY",,,0.040767904,OZONE
+"Findlay, OH",,,NA,OZONE
+"Gallup, NM",,,NA,OZONE
+"Georgetown, SC",,,NA,OZONE
+"Jackson, TN",,,NA,OZONE
+"Joplin, MO",,,0.037400647,OZONE
+"Lexington, NE",,,NA,OZONE
+"Mason City, IA",,,NA,OZONE
+"New Castle, PA",,,0.026566009,OZONE
+"Pahrump, NV",,,NA,OZONE
+"Palatka, FL",,,NA,OZONE
+"Silverthorne, CO",,,NA,OZONE
+"Summerville, GA",,,0.024184882,OZONE
+"Williamsport, PA",,,0.02941747,OZONE
+"Burley, ID",,,0.043686946,OZONE
+"Coeur d'Alene, ID",,,0.028856115,OZONE
+"Elmira, NY",,,0.026360874,OZONE
+"Granbury, TX",,,0.028121805,OZONE
+"Iron Mountain, MI-WI",,,0.029153612,OZONE
+"Killeen-Temple-Fort Hood, TX",,,0.03033637,OZONE
+"Kingston, NY",,,0.034377153,OZONE
+"Longview, TX",,,0.027936238,OZONE
+"Malone, NY",,,0.015256563,OZONE
+"Minot, ND",,,NA,OZONE
+"Ocean Pines, MD",,,0.037382494,OZONE
+"Phoenix Lake-Cedar Ridge, CA",,,0.032082153,OZONE
+"Racine, WI",,,0.035354933,OZONE
+"Richmond, IN",,,NA,OZONE
+"Rockland, ME",,,0.034254033,OZONE
+"Sevierville, TN",,,0.049021938,OZONE
+"Seymour, IN",,,0.031354023,OZONE
+"Sheboygan, WI",,,0.034480073,OZONE
+"Tahlequah, OK",,,0.030479368,OZONE
+"Tyler, TX",,,0.032706918,OZONE
+"Victoria, TX",,,0.025738329,OZONE
+"Wausau, WI",,,0.033215472,OZONE
+"Whitewater, WI",,,0.034612146,OZONE
+"Williston, ND",,,NA,OZONE
+"Watertown-Fort Drum, NY",,,0.031260064,OZONE
+"Ames, IA",,,0.028748535,OZONE
+"Bemidji, MN",,,NA,OZONE
+"Greeneville, TN",,,NA,OZONE
+"Jefferson City, MO",,,0.035732442,OZONE
+"Lufkin, TX",,,NA,OZONE
+"Warsaw, IN",,,NA,OZONE
+"Gardnerville Ranchos, NV",,,NA,OZONE
+"Americus, GA",,,0.030182736,OZONE
+"Anderson, SC",,,0.031271854,OZONE
+"Ashtabula, OH",,,0.037318647,OZONE
+"Carson City, NV",,,0.027792606,OZONE
+"Chambersburg, PA",,,0.040611869,OZONE
+"Columbia, MO",,,0.029271442,OZONE
+"DuBois, PA",,,0.039902048,OZONE
+"Effingham, IL",,,0.032651626,OZONE
+"Fallon, NV",,,0.031323183,OZONE
+"Fernley, NV",,,0.032185543,OZONE
+"Fond du Lac, WI",,,0.032998575,OZONE
+"Fort Walton Beach-Crestview-Destin, FL",,,0.02913569,OZONE
+"Gaffney, SC",,,0.032629676,OZONE
+"Huntington, IN",,,0.031081585,OZONE
+"Indiana, PA",,,0.037971279,OZONE
+"Janesville, WI",,,0.031889377,OZONE
+"Lincolnton, NC",,,0.030602519,OZONE
+"Morristown, TN",,,0.035640278,OZONE
+"Mount Vernon, OH",,,0.034208484,OZONE
+"Myrtle Beach-Conway-North Myrtle Beach, SC",,,0.028749673,OZONE
+"Red Wing, MN",,,0.029058321,OZONE
+"Sebring, FL",,,0.029709803,OZONE
+"Traverse City, MI",,,0.035542957,OZONE
+"Walterboro, SC",,,0.025593983,OZONE
+"Watertown-Fort Atkinson, WI",,,0.031789487,OZONE
+"Wilmington, OH",,,0.039447953,OZONE
+"Coffeyville, KS",,,NA,OZONE
+"New Philadelphia-Dover, OH",,,NA,OZONE
+"Warren, PA",,,NA,OZONE
+"Washington, IN",,,NA,OZONE
+"Washington, NC",,,NA,OZONE
+"Yauco, PR",,,NA,OZONE
+"Aberdeen, SD",,,NA,SO2
+"Adrian, MI",,,NA,SO2
+"Akron, OH",,,2.308899706,SO2
+"Albany, GA",,,NA,SO2
+"Albany-Lebanon, OR",,,NA,SO2
+"Albany-Schenectady-Troy, NY",,,1.803467161,SO2
+"Albuquerque, NM",,,NA,SO2
+"Alexandria, LA",,,NA,SO2
+"Allegan, MI",,,NA,SO2
+"Allentown-Bethlehem-Easton, PA-NJ",,,2.286398306,SO2
+"Altoona, PA",,,4.723034205,SO2
+"Amarillo, TX",,,NA,SO2
+"Anchorage, AK",,,NA,SO2
+"Anderson, IN",,,NA,SO2
+"Ann Arbor, MI",,,NA,SO2
+"Appleton, WI",,,NA,SO2
+"Asheville, NC",,,NA,SO2
+"Athens, OH",,,4.97182171,SO2
+"Athens-Clarke County, GA",,,NA,SO2
+"Atlanta-Sandy Springs-Marietta, GA",,,1.763679374,SO2
+"Atlantic City, NJ",,,0.924480526,SO2
+"Augusta-Richmond County, GA-SC",,,NA,SO2
+"Augusta-Waterville, ME",,,NA,SO2
+"Austin-Round Rock, TX",,,NA,SO2
+"Bakersfield, CA",,,NA,SO2
+"Baltimore-Towson, MD",,,2.150567868,SO2
+"Bangor, ME",,,NA,SO2
+"Baraboo, WI",,,NA,SO2
+"Baton Rouge, LA",,,3.173781248,SO2
+"Bay City, MI",,,NA,SO2
+"Beaumont-Port Arthur, TX",,,1.604799624,SO2
+"Beaver Dam, WI",,,0.748856403,SO2
+"Beckley, WV",,,NA,SO2
+"Bend, OR",,,NA,SO2
+"Bennington, VT",,,NA,SO2
+"Birmingham-Hoover, AL",,,1.69771571,SO2
+"Bishop, CA",,,NA,SO2
+"Bismarck, ND",,,1.166007636,SO2
+"Bloomington, IN",,,NA,SO2
+"Bloomington-Normal, IL",,,NA,SO2
+"Boise City-Nampa, ID",,,0.334688072,SO2
+"Boone, NC",,,NA,SO2
+"Boston-Cambridge-Quincy, MA-NH",,,2.29700871,SO2
+"Boulder, CO",,,NA,SO2
+"Bowling Green, KY",,,1.29411422,SO2
+"Bozeman, MT",,,NA,SO2
+"Bradenton-Sarasota-Venice, FL",,,NA,SO2
+"Brainerd, MN",,,NA,SO2
+"Bridgeport-Stamford-Norwalk, CT",,,1.413831763,SO2
+"Brigham City, UT",,,NA,SO2
+"Brookings, SD",,,NA,SO2
+"Brownsville-Harlingen, TX",,,NA,SO2
+"Brunswick, GA",,,1.10087275,SO2
+"Buffalo-Niagara Falls, NY",,,1.617788681,SO2
+"Burlington, NC",,,NA,SO2
+"Burlington-South Burlington, VT",,,NA,SO2
+"Butte-Silver Bow, MT",,,NA,SO2
+"Cadillac, MI",,,NA,SO2
+"Canton-Massillon, OH",,,NA,SO2
+"Cape Coral-Fort Myers, FL",,,NA,SO2
+"Casper, WY",,,NA,SO2
+"Cedar Rapids, IA",,,0.805380285,SO2
+"Champaign-Urbana, IL",,,NA,SO2
+"Charleston, WV",,,3.890766258,SO2
+"Charleston-North Charleston, SC",,,0.830264425,SO2
+"Charlotte-Gastonia-Concord, NC-SC",,,0.933420692,SO2
+"Charlottesville, VA",,,NA,SO2
+"Chattanooga, TN-GA",,,NA,SO2
+"Cheyenne, WY",,,NA,SO2
+"Chicago-Naperville-Joliet, IL-IN-WI",,,2.252641405,SO2
+"Chico, CA",,,NA,SO2
+"Cincinnati-Middletown, OH-KY-IN",,,3.369287954,SO2
+"Clarksburg, WV",,,NA,SO2
+"Clarksville, TN-KY",,,2.510793532,SO2
+"Clearlake, CA",,,NA,SO2
+"Cleveland, MS",,,NA,SO2
+"Cleveland-Elyria-Mentor, OH",,,3.750911532,SO2
+"Clinton, IA",,,1.2529695,SO2
+"Colorado Springs, CO",,,NA,SO2
+"Columbia, SC",,,1.11795654,SO2
+"Columbus, GA-AL",,,1.192036866,SO2
+"Columbus, OH",,,NA,SO2
+"Concord, NH",,,8.526271899,SO2
+"Corning, NY",,,0.66136025,SO2
+"Corpus Christi, TX",,,0.497505034,SO2
+"Dallas-Fort Worth-Arlington, TX",,,0.58815439,SO2
+"Daphne-Fairhope-Foley, AL",,,NA,SO2
+"Davenport-Moline-Rock Island, IA-IL",,,0.518919041,SO2
+"Dayton, OH",,,NA,SO2
+"Decatur, AL",,,NA,SO2
+"Decatur, IL",,,2.063184962,SO2
+"Deltona-Daytona Beach-Ormond Beach, FL",,,NA,SO2
+"Denver-Aurora, CO",,,1.335092332,SO2
+"Des Moines-West Des Moines, IA",,,0.298088969,SO2
+"Detroit-Warren-Livonia, MI",,,2.475028826,SO2
+"Dickinson, ND",,,0.154062563,SO2
+"Dothan, AL",,,NA,SO2
+"Dover, DE",,,NA,SO2
+"Duluth, MN-WI",,,0.151098466,SO2
+"Durango, CO",,,NA,SO2
+"Durham, NC",,,NA,SO2
+"East Stroudsburg, PA",,,NA,SO2
+"Eau Claire, WI",,,NA,SO2
+"El Centro, CA",,,0.4837513,SO2
+"El Dorado, AR",,,2.021519858,SO2
+"El Paso, TX",,,0.477578282,SO2
+"Elizabethtown, KY",,,NA,SO2
+"Elkhart-Goshen, IN",,,NA,SO2
+"Erie, PA",,,5.618909184,SO2
+"Eugene-Springfield, OR",,,NA,SO2
+"Eureka-Arcata-Fortuna, CA",,,1.29455263,SO2
+"Evansville, IN-KY",,,2.235275158,SO2
+"Fairbanks, AK",,,NA,SO2
+"Fairmont, WV",,,NA,SO2
+"Fajardo, PR",,,NA,SO2
+"Fargo, ND-MN",,,0.292206759,SO2
+"Farmington, NM",,,0.762813989,SO2
+"Fayetteville, NC",,,NA,SO2
+"Fayetteville-Springdale-Rogers, AR-MO",,,NA,SO2
+"Flagstaff, AZ",,,NA,SO2
+"Flint, MI",,,NA,SO2
+"Florence, SC",,,NA,SO2
+"Florence-Muscle Shoals, AL",,,NA,SO2
+"Fort Collins-Loveland, CO",,,NA,SO2
+"Fort Madison-Keokuk, IA-MO",,,NA,SO2
+"Fort Payne, AL",,,NA,SO2
+"Fort Smith, AR-OK",,,NA,SO2
+"Fort Wayne, IN",,,NA,SO2
+"Frankfort, KY",,,NA,SO2
+"Fresno, CA",,,0.748682173,SO2
+"Gadsden, AL",,,NA,SO2
+"Gainesville, FL",,,NA,SO2
+"Gainesville, GA",,,NA,SO2
+"Gettysburg, PA",,,NA,SO2
+"Gillette, WY",,,1.598695663,SO2
+"Goldsboro, NC",,,NA,SO2
+"Grand Island, NE",,,NA,SO2
+"Grand Junction, CO",,,NA,SO2
+"Grand Rapids-Wyoming, MI",,,0.955336403,SO2
+"Grants Pass, OR",,,NA,SO2
+"Greeley, CO",,,NA,SO2
+"Green Bay, WI",,,2.275349121,SO2
+"Greensboro-High Point, NC",,,NA,SO2
+"Greenville, NC",,,NA,SO2
+"Greenville-Mauldin-Easley, SC",,,0.56689697,SO2
+"Grenada, MS",,,NA,SO2
+"Guayama, PR",,,0.687195698,SO2
+"Gulfport-Biloxi, MS",,,NA,SO2
+"Hagerstown-Martinsburg, MD-WV",,,NA,SO2
+"Hammond, LA",,,NA,SO2
+"Hanford-Corcoran, CA",,,NA,SO2
+"Harriman, TN",,,NA,SO2
+"Harrisburg-Carlisle, PA",,,2.850093349,SO2
+"Harrisonburg, VA",,,1.198585317,SO2
+"Hartford-West Hartford-East Hartford, CT",,,0.994400919,SO2
+"Hattiesburg, MS",,,NA,SO2
+"Helena, MT",,,NA,SO2
+"Helena-West Helena, AR",,,NA,SO2
+"Hickory-Lenoir-Morganton, NC",,,NA,SO2
+"Hilo, HI",,,25.54974776,SO2
+"Hobbs, NM",,,NA,SO2
+"Holland-Grand Haven, MI",,,NA,SO2
+"Homosassa Springs, FL",,,NA,SO2
+"Honolulu, HI",,,1.066555876,SO2
+"Hot Springs, AR",,,NA,SO2
+"Houma-Bayou Cane-Thibodaux, LA",,,NA,SO2
+"Houston-Sugar Land-Baytown, TX",,,1.210732746,SO2
+"Huntington-Ashland, WV-KY-OH",,,2.525003623,SO2
+"Huntsville, AL",,,NA,SO2
+"Indianapolis-Carmel, IN",,,3.196061733,SO2
+"Iowa City, IA",,,NA,SO2
+"Jackson, MS",,,0.766702806,SO2
+"Jackson, WY-ID",,,NA,SO2
+"Jacksonville, FL",,,1.399301365,SO2
+"Jamestown-Dunkirk-Fredonia, NY",,,1.42989451,SO2
+"Jasper, IN",,,7.491363425,SO2
+"Johnstown, PA",,,4.179094126,SO2
+"Juneau, AK",,,NA,SO2
+"Kahului-Wailuku, HI",,,NA,SO2
+"Kalamazoo-Portage, MI",,,NA,SO2
+"Kalispell, MT",,,NA,SO2
+"Kansas City, MO-KS",,,3.964893458,SO2
+"Keene, NH",,,NA,SO2
+"Kingsport-Bristol-Bristol, TN-VA",,,7.445480712,SO2
+"Kinston, NC",,,NA,SO2
+"Klamath Falls, OR",,,NA,SO2
+"Kokomo, IN",,,NA,SO2
+"La Crosse, WI-MN",,,NA,SO2
+"La Grande, OR",,,NA,SO2
+"Laconia, NH",,,NA,SO2
+"Lafayette, IN",,,NA,SO2
+"Lafayette, LA",,,NA,SO2
+"Lake Charles, LA",,,3.355486814,SO2
+"Lakeland, FL",,,NA,SO2
+"Lancaster, PA",,,NA,SO2
+"Lansing-East Lansing, MI",,,NA,SO2
+"Laramie, WY",,,NA,SO2
+"Las Cruces, NM",,,NA,SO2
+"Las Vegas-Paradise, NV",,,NA,SO2
+"Laurel, MS",,,NA,SO2
+"Lebanon, NH-VT",,,NA,SO2
+"Lewiston-Auburn, ME",,,NA,SO2
+"Lexington-Fayette, KY",,,2.131082006,SO2
+"Lima, OH",,,1.875075608,SO2
+"Lincoln, NE",,,NA,SO2
+"Little Rock-North Little Rock-Conway, AR",,,1.306437975,SO2
+"Logan, UT-ID",,,NA,SO2
+"Los Angeles-Long Beach-Santa Ana, CA",,,0.744200688,SO2
+"Louisville/Jefferson County, KY-IN",,,3.286169233,SO2
+"Lubbock, TX",,,NA,SO2
+"Lumberton, NC",,,NA,SO2
+"Lynchburg, VA",,,NA,SO2
+"Macon, GA",,,1.45459952,SO2
+"Madera, CA",,,NA,SO2
+"Madison, WI",,,NA,SO2
+"Manchester-Nashua, NH",,,1.449276416,SO2
+"Manitowoc, WI",,,NA,SO2
+"Marshall, TX",,,NA,SO2
+"McAlester, OK",,,NA,SO2
+"McAllen-Edinburg-Mission, TX",,,NA,SO2
+"Medford, OR",,,NA,SO2
+"Memphis, TN-MS-AR",,,3.082760721,SO2
+"Merced, CA",,,NA,SO2
+"Meridian, MS",,,NA,SO2
+"Miami, OK",,,NA,SO2
+"Miami-Fort Lauderdale-Pompano Beach, FL",,,0.403684384,SO2
+"Michigan City-La Porte, IN",,,2.354987775,SO2
+"Middlesborough, KY",,,NA,SO2
+"Milwaukee-Waukesha-West Allis, WI",,,2.081601333,SO2
+"Minneapolis-St. Paul-Bloomington, MN-WI",,,0.455252638,SO2
+"Missoula, MT",,,NA,SO2
+"Mobile, AL",,,NA,SO2
+"Modesto, CA",,,NA,SO2
+"Monroe, LA",,,0.36506537,SO2
+"Monroe, MI",,,NA,SO2
+"Montgomery, AL",,,NA,SO2
+"Morgantown, WV",,,3.175134049,SO2
+"Mount Vernon, IL",,,NA,SO2
+"Muncie, IN",,,NA,SO2
+"Muscatine, IA",,,5.240356343,SO2
+"Muskegon-Norton Shores, MI",,,NA,SO2
+"Muskogee, OK",,,0.831446107,SO2
+"Natchez, MS-LA",,,NA,SO2
+"New Castle, IN",,,NA,SO2
+"New Haven-Milford, CT",,,1.478638496,SO2
+"New Orleans-Metairie-Kenner, LA",,,4.417265509,SO2
+"New York-Northern New Jersey-Long Island, NY-NJ-PA",,,2.085634166,SO2
+"Niles-Benton Harbor, MI",,,NA,SO2
+"Nogales, AZ",,,NA,SO2
+"Norwich-New London, CT",,,NA,SO2
+"Odessa, TX",,,NA,SO2
+"Ogden-Clearfield, UT",,,0.773390567,SO2
+"Oklahoma City, OK",,,0.770320542,SO2
+"Omaha-Council Bluffs, NE-IA",,,1.478113595,SO2
+"Orlando-Kissimmee, FL",,,0.156410148,SO2
+"Ottawa-Streator, IL",,,0.72575391,SO2
+"Owensboro, KY",,,2.838899956,SO2
+"Oxnard-Thousand Oaks-Ventura, CA",,,NA,SO2
+"Paducah, KY-IL",,,1.200352274,SO2
+"Palm Bay-Melbourne-Titusville, FL",,,0.16761742,SO2
+"Parkersburg-Marietta-Vienna, WV-OH",,,6.310760997,SO2
+"Pascagoula, MS",,,1.136313566,SO2
+"Pendleton-Hermiston, OR",,,NA,SO2
+"Pensacola-Ferry Pass-Brent, FL",,,1.542153088,SO2
+"Peoria, IL",,,2.738395109,SO2
+"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",,,2.046106404,SO2
+"Phoenix-Mesa-Scottsdale, AZ",,,1.326381656,SO2
+"Pittsburgh, PA",,,4.355110135,SO2
+"Pittsfield, MA",,,NA,SO2
+"Platteville, WI",,,NA,SO2
+"Pocatello, ID",,,3.496307905,SO2
+"Ponce, PR",,,NA,SO2
+"Port St. Lucie, FL",,,NA,SO2
+"Portland-South Portland-Biddeford, ME",,,1.561812532,SO2
+"Portland-Vancouver-Beaverton, OR-WA",,,1.352357644,SO2
+"Portsmouth, OH",,,1.764927734,SO2
+"Poughkeepsie-Newburgh-Middletown, NY",,,NA,SO2
+"Prescott, AZ",,,NA,SO2
+"Prineville, OR",,,NA,SO2
+"Providence-New Bedford-Fall River, RI-MA",,,2.228675846,SO2
+"Provo-Orem, UT",,,NA,SO2
+"Pueblo, CO",,,NA,SO2
+"Quincy, IL-MO",,,NA,SO2
+"Raleigh-Cary, NC",,,1.014824912,SO2
+"Rapid City, SD",,,NA,SO2
+"Reading, PA",,,3.392797834,SO2
+"Redding, CA",,,NA,SO2
+"Reno-Sparks, NV",,,0.427121,SO2
+"Richmond, VA",,,1.951117446,SO2
+"Richmond-Berea, KY",,,NA,SO2
+"Riverside-San Bernardino-Ontario, CA",,,1.048273419,SO2
+"Riverton, WY",,,NA,SO2
+"Roanoke, VA",,,1.071753014,SO2
+"Rochester, MN",,,NA,SO2
+"Rochester, NY",,,2.185081918,SO2
+"Rock Springs, WY",,,0.859794466,SO2
+"Rockford, IL",,,NA,SO2
+"Rocky Mount, NC",,,NA,SO2
+"Rome, GA",,,1.557008824,SO2
+"Roswell, NM",,,NA,SO2
+"Russellville, AR",,,NA,SO2
+"Rutland, VT",,,2.433444159,SO2
+"Sacramento--Arden-Arcade--Roseville, CA",,,0.238595349,SO2
+"Salinas, CA",,,NA,SO2
+"Salisbury, NC",,,NA,SO2
+"Salt Lake City, UT",,,2.805586362,SO2
+"San Antonio, TX",,,0.592375734,SO2
+"San Diego-Carlsbad-San Marcos, CA",,,1.125664045,SO2
+"San Francisco-Oakland-Fremont, CA",,,0.927295616,SO2
+"San Jose-Sunnyvale-Santa Clara, CA",,,0.407740411,SO2
+"San Juan-Caguas-Guaynabo, PR",,,1.361444352,SO2
+"San Luis Obispo-Paso Robles, CA",,,0.289540329,SO2
+"Santa Barbara-Santa Maria-Goleta, CA",,,0.596914584,SO2
+"Santa Cruz-Watsonville, CA",,,NA,SO2
+"Santa Fe, NM",,,NA,SO2
+"Santa Rosa-Petaluma, CA",,,NA,SO2
+"Sault Ste. Marie, MI",,,NA,SO2
+"Savannah, GA",,,2.957518069,SO2
+"Scottsbluff, NE",,,NA,SO2
+"Scranton--Wilkes-Barre, PA",,,1.465391397,SO2
+"Seaford, DE",,,NA,SO2
+"Searcy, AR",,,NA,SO2
+"Seattle-Tacoma-Bellevue, WA",,,1.135852614,SO2
+"Seneca, SC",,,0.492759756,SO2
+"Sheridan, WY",,,NA,SO2
+"Shreveport-Bossier City, LA",,,0.339451757,SO2
+"Sierra Vista-Douglas, AZ",,,NA,SO2
+"Silver City, NM",,,0.054738741,SO2
+"Sioux City, IA-NE-SD",,,0.360347388,SO2
+"Sioux Falls, SD",,,0.247429364,SO2
+"Somerset, KY",,,NA,SO2
+"South Bend-Mishawaka, IN-MI",,,NA,SO2
+"Spartanburg, SC",,,NA,SO2
+"Spokane, WA",,,NA,SO2
+"Springfield, IL",,,0.995539254,SO2
+"Springfield, MA",,,1.437715956,SO2
+"Springfield, MO",,,2.328924102,SO2
+"Springfield, OH",,,1.39277594,SO2
+"St. Cloud, MN",,,NA,SO2
+"St. George, UT",,,NA,SO2
+"St. Joseph, MO-KS",,,NA,SO2
+"St. Louis, MO-IL",,,4.026923284,SO2
+"State College, PA",,,2.07257531,SO2
+"Stockton, CA",,,NA,SO2
+"Syracuse, NY",,,1.008467813,SO2
+"Talladega-Sylacauga, AL",,,NA,SO2
+"Tallahassee, FL",,,NA,SO2
+"Tampa-St. Petersburg-Clearwater, FL",,,1.052997932,SO2
+"Terre Haute, IN",,,3.131711474,SO2
+"Texarkana, TX-Texarkana, AR",,,NA,SO2
+"Thomasville-Lexington, NC",,,NA,SO2
+"Toledo, OH",,,NA,SO2
+"Topeka, KS",,,NA,SO2
+"Torrington, CT",,,0.614446533,SO2
+"Trenton-Ewing, NJ",,,NA,SO2
+"Truckee-Grass Valley, CA",,,NA,SO2
+"Tucson, AZ",,,0.47049448,SO2
+"Tulsa, OK",,,2.722998274,SO2
+"Tupelo, MS",,,NA,SO2
+"Tuscaloosa, AL",,,NA,SO2
+"Ukiah, CA",,,NA,SO2
+"Valdosta, GA",,,NA,SO2
+"Vallejo-Fairfield, CA",,,0.567688455,SO2
+"Vincennes, IN",,,NA,SO2
+"Virginia Beach-Norfolk-Newport News, VA-NC",,,2.250026037,SO2
+"Visalia-Porterville, CA",,,NA,SO2
+"Warner Robins, GA",,,NA,SO2
+"Washington-Arlington-Alexandria, DC-VA-MD-WV",,,2.167312668,SO2
+"Waterloo-Cedar Falls, IA",,,NA,SO2
+"Watertown, SD",,,NA,SO2
+"Weirton-Steubenville, WV-OH",,,5.752050585,SO2
+"Wheeling, WV-OH",,,4.711031264,SO2
+"Wichita, KS",,,0.729765218,SO2
+"Wilmington, NC",,,4.240054573,SO2
+"Winchester, VA-WV",,,NA,SO2
+"Winston-Salem, NC",,,0.331008142,SO2
+"Worcester, MA",,,2.045022095,SO2
+"Yakima, WA",,,NA,SO2
+"York-Hanover, PA",,,2.740246361,SO2
+"Youngstown-Warren-Boardman, OH-PA",,,2.435485638,SO2
+"Yuba City, CA",,,NA,SO2
+"Yuma, AZ",,,NA,SO2
+"Aberdeen, WA",,,NA,SO2
+"Ardmore, OK",,,NA,SO2
+"Barnstable Town, MA",,,NA,SO2
+"Bellingham, WA",,,NA,SO2
+"Berlin, NH-VT",,,NA,SO2
+"Billings, MT",,,3.875445764,SO2
+"Branson, MO",,,NA,SO2
+"Bremerton-Silverdale, WA",,,NA,SO2
+"Carlsbad-Artesia, NM",,,NA,SO2
+"Centralia, WA",,,NA,SO2
+"Corsicana, TX",,,1.089858277,SO2
+"Corvallis, OR",,,NA,SO2
+"Crescent City, CA",,,NA,SO2
+"Dalton, GA",,,NA,SO2
+"Douglas, GA",,,NA,SO2
+"Eagle Pass, TX",,,NA,SO2
+"Elko, NV",,,NA,SO2
+"Ellensburg, WA",,,NA,SO2
+"Emporia, KS",,,NA,SO2
+"Espanola, NM",,,NA,SO2
+"Great Falls, MT",,,NA,SO2
+"Harrison, AR",,,NA,SO2
+"Houghton, MI",,,NA,SO2
+"Kennewick-Richland-Pasco, WA",,,NA,SO2
+"Kingsville, TX",,,NA,SO2
+"Knoxville, TN",,,0.885127203,SO2
+"Lake City, FL",,,NA,SO2
+"Lake Havasu City-Kingman, AZ",,,NA,SO2
+"Laredo, TX",,,NA,SO2
+"Lawrenceburg, TN",,,NA,SO2
+"Lawton, OK",,,NA,SO2
+"Lewiston, ID-WA",,,NA,SO2
+"Longview, WA",,,NA,SO2
+"Los Alamos, NM",,,NA,SO2
+"Marshall, MN",,,NA,SO2
+"Moscow, ID",,,NA,SO2
+"Moses Lake, WA",,,NA,SO2
+"Mount Vernon-Anacortes, WA",,,NA,SO2
+"Napa, CA",,,NA,SO2
+"Naples-Marco Island, FL",,,NA,SO2
+"Nashville-Davidson-Murfreesboro-Franklin, TN",,,2.240044836,SO2
+"Ocala, FL",,,NA,SO2
+"Olympia, WA",,,NA,SO2
+"Panama City-Lynn Haven, FL",,,NA,SO2
+"Payson, AZ",,,6.739170973,SO2
+"Ponca City, OK",,,3.248199698,SO2
+"Port Angeles, WA",,,0.070861589,SO2
+"Pullman, WA",,,NA,SO2
+"Red Bluff, CA",,,NA,SO2
+"Roseburg, OR",,,NA,SO2
+"Ruidoso, NM",,,NA,SO2
+"Salem, OR",,,NA,SO2
+"Shelton, WA",,,NA,SO2
+"Show Low, AZ",,,NA,SO2
+"Taos, NM",,,NA,SO2
+"The Dalles, OR",,,NA,SO2
+"Twin Falls, ID",,,NA,SO2
+"Utica-Rome, NY",,,0.524398964,SO2
+"Vernal, UT",,,NA,SO2
+"Vineland-Millville-Bridgeton, NJ",,,1.074234507,SO2
+"Waco, TX",,,0.427821064,SO2
+"Walla Walla, WA",,,NA,SO2
+"Wenatchee, WA",,,NA,SO2
+"Wichita Falls, TX",,,NA,SO2
+"Winona, MN",,,NA,SO2
+"Athens, TN",,,3.121858099,SO2
+"Canon City, CO",,,NA,SO2
+"Carbondale, IL",,,NA,SO2
+"Cleveland, TN",,,6.928112975,SO2
+"Culpeper, VA",,,NA,SO2
+"Deming, NM",,,NA,SO2
+"Dodge City, KS",,,NA,SO2
+"East Liverpool-Salem, OH",,,2.674719258,SO2
+"Evanston, WY",,,NA,SO2
+"Findlay, OH",,,NA,SO2
+"Gallup, NM",,,NA,SO2
+"Georgetown, SC",,,NA,SO2
+"Jackson, TN",,,NA,SO2
+"Joplin, MO",,,NA,SO2
+"Lexington, NE",,,NA,SO2
+"Mason City, IA",,,NA,SO2
+"New Castle, PA",,,2.210771517,SO2
+"Pahrump, NV",,,NA,SO2
+"Palatka, FL",,,0.678844945,SO2
+"Silverthorne, CO",,,NA,SO2
+"Summerville, GA",,,NA,SO2
+"Williamsport, PA",,,NA,SO2
+"Burley, ID",,,NA,SO2
+"Coeur d'Alene, ID",,,NA,SO2
+"Elmira, NY",,,2.083974732,SO2
+"Granbury, TX",,,NA,SO2
+"Iron Mountain, MI-WI",,,NA,SO2
+"Killeen-Temple-Fort Hood, TX",,,NA,SO2
+"Kingston, NY",,,0.50136057,SO2
+"Longview, TX",,,1.205918638,SO2
+"Malone, NY",,,0.799554109,SO2
+"Minot, ND",,,1.739795589,SO2
+"Ocean Pines, MD",,,NA,SO2
+"Phoenix Lake-Cedar Ridge, CA",,,NA,SO2
+"Racine, WI",,,NA,SO2
+"Richmond, IN",,,2.788438131,SO2
+"Rockland, ME",,,NA,SO2
+"Sevierville, TN",,,0.684543392,SO2
+"Seymour, IN",,,NA,SO2
+"Sheboygan, WI",,,NA,SO2
+"Tahlequah, OK",,,NA,SO2
+"Tyler, TX",,,NA,SO2
+"Victoria, TX",,,NA,SO2
+"Wausau, WI",,,NA,SO2
+"Whitewater, WI",,,NA,SO2
+"Williston, ND",,,1.361191797,SO2
+"Watertown-Fort Drum, NY",,,NA,SO2
+"Ames, IA",,,NA,SO2
+"Bemidji, MN",,,NA,SO2
+"Greeneville, TN",,,NA,SO2
+"Jefferson City, MO",,,NA,SO2
+"Lufkin, TX",,,NA,SO2
+"Warsaw, IN",,,NA,SO2
+"Gardnerville Ranchos, NV",,,NA,SO2
+"Americus, GA",,,NA,SO2
+"Anderson, SC",,,NA,SO2
+"Ashtabula, OH",,,1.599623597,SO2
+"Carson City, NV",,,NA,SO2
+"Chambersburg, PA",,,NA,SO2
+"Columbia, MO",,,NA,SO2
+"DuBois, PA",,,NA,SO2
+"Effingham, IL",,,NA,SO2
+"Fallon, NV",,,NA,SO2
+"Fernley, NV",,,NA,SO2
+"Fond du Lac, WI",,,NA,SO2
+"Fort Walton Beach-Crestview-Destin, FL",,,NA,SO2
+"Gaffney, SC",,,NA,SO2
+"Huntington, IN",,,NA,SO2
+"Indiana, PA",,,5.089849533,SO2
+"Janesville, WI",,,NA,SO2
+"Lincolnton, NC",,,NA,SO2
+"Morristown, TN",,,NA,SO2
+"Mount Vernon, OH",,,NA,SO2
+"Myrtle Beach-Conway-North Myrtle Beach, SC",,,NA,SO2
+"Red Wing, MN",,,NA,SO2
+"Sebring, FL",,,NA,SO2
+"Traverse City, MI",,,NA,SO2
+"Walterboro, SC",,,NA,SO2
+"Watertown-Fort Atkinson, WI",,,NA,SO2
+"Wilmington, OH",,,NA,SO2
+"Coffeyville, KS",,,4.287253216,SO2
+"New Philadelphia-Dover, OH",,,3.95883455,SO2
+"Warren, PA",,,4.12982592,SO2
+"Washington, IN",,,4.59926823,SO2
+"Washington, NC",,,0.711338922,SO2
+"Yauco, PR",,,2.84830314,SO2

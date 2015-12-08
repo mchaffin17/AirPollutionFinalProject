@@ -48,6 +48,7 @@ There are several files in this repository beyond the ipython notebooks. There a
 9. YearDat2.csv - Updated yearly dataset for US cities (weather from NOAA)<br>
 10. us_transit_to_tableau.csv - A dataset that was used in tableau to generate a map of transit style across the US<br>
 11. dfClusters_kMeans.csv - A file indicating which cluster each US city fell in<br>
+12. PollutantFilteringTableau.csv - A file that was used to generate the tableau image that can filter maps based on pollutants <br>
 
 ##Other files
 Beyond these files, there are several image files used throughout notebooks
