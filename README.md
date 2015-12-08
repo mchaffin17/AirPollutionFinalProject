@@ -66,5 +66,5 @@ There are several files in this repository beyond the ipython notebooks. There a
 Beyond these files, there are several image files used throughout notebooks
 
 ##Project Website and Video Links
-The project website can be found at: http://cs109airpollution.github.io/#analysis
+The project website can be found at: http://cs109airpollution.github.io<br>
 The video can be found at: FILL THIS IN
