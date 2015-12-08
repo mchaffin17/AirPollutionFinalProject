@@ -45,10 +45,10 @@ This notebook contains the basic visualizations of the data and simple bivariate
 [**PredictiveLinearModeling.ipynb**](https://github.com/mchaffin17/AirPollutionFinalProject/blob/master/PredictiveLinearModeling.ipynb)
 This notebook works to build predictive models of the individual pollutants based on demographic and environmental variables. Analysis was validated using cities in France.
 
-**UnsupervisedAnalysisPart1.ipynb**
+[**UnsupervisedAnalysis.ipynb**](https://github.com/mchaffin17/AirPollutionFinalProject/blob/master/UnsupervisedAnalysis.ipynb)
 This notebook works to generate particular clusters of urban areas given their pollutant profiles. Furthermore, it looks at differences in environmental and demographic variables between the clusters.
 
-**UnsupervisedAnalysisPart2.ipynb**
+[**UnsupervisedAnalysis_pt2.ipynb**](https://github.com/mchaffin17/AirPollutionFinalProject/blob/master/UnsupervisedLearning_pt2.ipynb)
 This notebook seeks to create classifiers to predict which type of pollutant profile a city has given their environmental and demographic characteristics. Analysis was validated using cities in France.
 
 ##Data Files in this Repository
