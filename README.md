@@ -10,6 +10,18 @@ Initial Questions:<br>
 ·       Can we use data on weather, demographics, transportation, etc. to predict a city’s pollutant profiles?<br>
 ·       Can specific policy recommendations be made based on a city’s pollutant profile?<br.
 
+##Key Findings
+Based on our analysis, air quality appears to be a composite of many features, some related to human activity and some related to environmental sources. The relative contribution of these two sources seems to vary across pollutants which has implications about how to design effective overall air quality interventions. Using multiple modeling approaches, we find that some pollutant concentrations, such as NO2 and O3, are easier to predict than others.<br>
+·       Airborne NO2, PM2.5, and O3 of cities can be somewhat predicted based on demographic and weather features, but PM10, CO, and SO2 are not well described from these characteristics<br>
+·       Prediction models based on US cities do not extend well to French cities<br>
+·       The relative importance of anthropogenic and environmental factors to air pollutant concentrations varies between pollutants<br>
+·       Distinct types of cities exist that can be characterized by their particular pollutant profiles<br>
+        ·       These clusters can be differentiated by liquid precipitation, air pressure, temperature, and land area<br>
+·       Differential patterns of missing pollutant data for US cities made imputation of clusters unreliable.<br>
+·       When French cities were clustered with the same method, their pollutant profiles looked reasonably similar to the clustered US pollutant profiles.
+
+
+
 ##Notebooks in this repository
 There are several ipython notebooks in this repository. These are designed to break up the individual sections of the project into smaller, self-contained processes. To follow the project process, the optimal order to view these files is:<br>
 1. DataCollection&Cleaning.ipynb<br>
