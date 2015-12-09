@@ -54,7 +54,7 @@ This notebook works to build predictive models of the individual pollutants base
 This notebook works to generate particular clusters of urban areas given their pollutant profiles. Furthermore, it looks at differences in environmental and demographic variables between the clusters.
 
 [**UnsupervisedLearning_pt2.ipynb**](https://github.com/mchaffin17/AirPollutionFinalProject/blob/master/UnsupervisedLearning_pt2.ipynb)
-This notebook seeks to create classifiers to predict which type of pollutant profile a city has given their environmental and demographic characteristics. Analysis was validated using cities in France.
+This notebook seeks to extend cluster identities to US cities that are missing values for some pollutants using KNN. Additionally, it tries to see if French cities fall within the clusters generated with US cities to generalize these pollutant profiles beyond the US.
 
 ##Data Files in this Repository
 There are several files in this repository beyond the ipython notebooks. There are 11 datafiles:<br>
