@@ -31,7 +31,7 @@ Based on our analysis, air quality appears to be a composite of many features, s
 <li>When French cities were clustered with the same method, their pollutant profiles looked reasonably similar to the clustered US pollutant profiles.</li>
 <ul>
 
-##Notebooks in this repository
+##Notebooks in this repository<br>
 There are several ipython notebooks in this repository. These are designed to break up the individual sections of the project into smaller, self-contained processes. To follow the project process, the optimal order to view these files is:<br>
 1. DataCollection&Cleaning.ipynb<br>
 2. ExplotatoryDataAnalysis.ipynb<br>
@@ -53,7 +53,7 @@ This notebook works to build predictive models of the individual pollutants base
 [**UnsupervisedAnalysis.ipynb**](https://github.com/mchaffin17/AirPollutionFinalProject/blob/master/UnsupervisedAnalysis.ipynb)
 This notebook works to generate particular clusters of urban areas given their pollutant profiles. Furthermore, it looks at differences in environmental and demographic variables between the clusters.
 
-[**UnsupervisedAnalysis_pt2.ipynb**](https://github.com/mchaffin17/AirPollutionFinalProject/blob/master/UnsupervisedLearning_pt2.ipynb)
+[**UnsupervisedLearning_pt2.ipynb**](https://github.com/mchaffin17/AirPollutionFinalProject/blob/master/UnsupervisedLearning_pt2.ipynb)
 This notebook seeks to create classifiers to predict which type of pollutant profile a city has given their environmental and demographic characteristics. Analysis was validated using cities in France.
 
 ##Data Files in this Repository
@@ -68,8 +68,11 @@ There are several files in this repository beyond the ipython notebooks. There a
 8. YearDat.csv - Original yearly dataset for US cities (weather from EPA site)<br>
 9. YearDat2.csv - Updated yearly dataset for US cities (weather from NOAA)<br>
 10. us_transit_to_tableau.csv - A dataset that was used in tableau to generate a map of transit style across the US<br>
-11. dfClusters_kMeans.csv - A file indicating which cluster each US city fell in<br>
-12. PollutantFilteringTableau.csv - A file that was used to generate the tableau image that can filter maps based on pollutants <br>
+11. clustesr_knn.csv - A file indicating cluster identity inferred for many cities through KNN <br>
+12. cluster_knn_france.csv - Inferring French city cluster id with US clusters by KNN <br>
+13. dfClusters_kMeans.csv - A file indicating which cluster each US city fell in<br>
+14. PollutantFilteringTableau.csv - A file that was used to generate the tableau image that can filter maps based on pollutants <br>
+ 
 
 ##Other files
 Beyond these files, there are several image files used throughout notebooks
