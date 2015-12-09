@@ -22,7 +22,7 @@ http://aqicn.org/map/world/
 ##Key Findings
 Based on our analysis, air quality appears to be a composite of many features, some related to human activity and some related to environmental sources. The relative contribution of these two sources seems to vary across pollutants which has implications about how to design effective overall air quality interventions. Using multiple modeling approaches, we find that some pollutant concentrations, such as NO<sub>2</sub> and O<sub>3</sub>, are easier to predict than others. Additionally, US cities can be clustered into distinct pollutant profiles which are differentiated by environmental and demographic factors.<br>
 <ul>
-<li>Airborne NO2, PM2.5, and O3 of cities can be somewhat predicted based on demographic and weather features, but PM10, CO, and SO2 are not well described from these characteristics</li>
+<li>Airborne NO<sub>2</sub>, PM2.5, and O<sub>3</sub> of cities can be somewhat predicted based on demographic and weather features, but PM10, CO, and SO<sub>2</sub> are not well described from these characteristics</li>
 <li>Prediction models based on US cities do not extend well to French cities</li>
 <li>The relative importance of anthropogenic and environmental factors to air pollutant concentrations varies between pollutants</li>
 <li>Distinct types of cities exist that can be characterized by their particular pollutant profiles</li>
@@ -36,28 +36,28 @@ There are several ipython notebooks in this repository. These are designed to br
 1. DataCollection&Cleaning.ipynb<br>
 2. ExplotatoryDataAnalysis.ipynb<br>
 3. PredictiveLinearModeling.ipynb<br>
-4. UnsupervisedAnalysisPart1.ipynb<br>
-5. UnsupervisedAnalysisPart2.ipynb<br>
+4. UnsupervisedAnalysis.ipynb<br>
+5. UnsupervisedLearning_pt2.ipynb<br>
 
 Each section contains the following information.
 
 [**DataCollection&Cleaning.ipynb**](https://github.com/mchaffin17/AirPollutionFinalProject/blob/master/DataCollection%26Cleaning.ipynb)
-This notebook contains the details of data collection and scraping. All files used in this process are either accessed directly from their links within the notebook or contain in the dropbox repository found at: https://www.dropbox.com/sh/cd95rdgrbm9cpz7/AAAG9758zR1tUMvGsxKtIJzXa?dl=0.
+This notebook contains the details of data collection and scraping. All files used in this process are either accessed directly from their links within the notebook or contained in the dropbox repository found at: https://www.dropbox.com/sh/cd95rdgrbm9cpz7/AAAG9758zR1tUMvGsxKtIJzXa?dl=0.
 
 [**ExploratoryDataAnalysis.ipynb**](https://github.com/mchaffin17/AirPollutionFinalProject/blob/master/ExploratoryDataAnalysis.ipynb)
 This notebook contains the basic visualizations of the data and simple bivariate analyses.
 
 [**PredictiveLinearModeling.ipynb**](https://github.com/mchaffin17/AirPollutionFinalProject/blob/master/PredictiveLinearModeling.ipynb)
-This notebook works to build predictive models of the individual pollutants based on demographic and environmental variables. Analysis was validated using cities in France.
+This notebook works to build predictive models of the individual pollutants based on demographic and environmental variables. Analysis was validated using cities in France. Additionally, attempts at statistical inference about drivers of particular pollutants using GEE's is found in this notebook.
 
 [**UnsupervisedAnalysis.ipynb**](https://github.com/mchaffin17/AirPollutionFinalProject/blob/master/UnsupervisedAnalysis.ipynb)
-This notebook works to generate particular clusters of urban areas given their pollutant profiles. Furthermore, it looks at differences in environmental and demographic variables between the clusters.
+This notebook contains work done generating clusters of urban areas given their pollutant profiles. Furthermore, it looks at differences in environmental and demographic variables between the clusters.
 
 [**UnsupervisedLearning_pt2.ipynb**](https://github.com/mchaffin17/AirPollutionFinalProject/blob/master/UnsupervisedLearning_pt2.ipynb)
-This notebook seeks to extend cluster identities to US cities that are missing values for some pollutants using KNN. Additionally, it tries to see if French cities fall within the clusters generated with US cities to generalize these pollutant profiles beyond the US.
+This notebook seeks to extend cluster identities to US cities that are missing values for some pollutants using KNN. Additionally, it investigates whether French cities fall within the clusters generated with US cities to generalize these pollutant profiles beyond the US.
 
 ##Data Files in this Repository
-There are several files in this repository beyond the ipython notebooks. There are 11 datafiles:<br>
+There are many data files found in this repository. There are 14 in total:<br>
 1. FranceMonthDat.csv - Monthly dataset for French cities<br>
 2. FranceSeasonDat.csv - Seasonal dataset for French cities<br>
 3. FranceYearDat.csv - Yearly dataset for French cities<br>
@@ -68,9 +68,9 @@ There are several files in this repository beyond the ipython notebooks. There a
 8. YearDat.csv - Original yearly dataset for US cities (weather from EPA site)<br>
 9. YearDat2.csv - Updated yearly dataset for US cities (weather from NOAA)<br>
 10. us_transit_to_tableau.csv - A dataset that was used in tableau to generate a map of transit style across the US<br>
-11. clustesr_knn.csv - A file indicating cluster identity inferred for many cities through KNN <br>
-12. cluster_knn_france.csv - Inferring French city cluster id with US clusters by KNN <br>
-13. dfClusters_kMeans.csv - A file indicating which cluster each US city fell in<br>
+11. dfClusters_kMeans.csv - A file indicating which cluster each US city fell in <br>
+12. clustesr_knn.csv - A file indicating cluster identity inferred for many cities through KNN <br>
+13. cluster_knn_france.csv - Inferring French city cluster id with US clusters by KNN <br>
 14. PollutantFilteringTableau.csv - A file that was used to generate the tableau image that can filter maps based on pollutants <br>
  
 
