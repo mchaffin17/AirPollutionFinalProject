@@ -13,14 +13,14 @@ Initial Questions:<br>
 </ul>
 
 ##Related Work
-We were partly inspired by this interesting visualization that shows the relative contribution different environmental and anthropogenic factors on climate change trends.<br>
+We were partly inspired by this interesting visualization that shows the relative contribution of different environmental and anthropogenic factors on climate change trends.<br>
 http://www.bloomberg.com/graphics/2015-whats-warming-the-world/?utm_source=The+Weekly+Pique&utm_campaign=cf7d4cd5ac-Episode+12%3A+Global+Warming&utm_medium=email&utm_term=0_4627876a86-cf7d4cd5ac-297062977
 
 Another source of inspiration was this interactive map of air quality across all continents:<br>
 http://aqicn.org/map/world/
 
 ##Key Findings
-Based on our analysis, air quality appears to be a composite of many features, some related to human activity and some related to environmental sources. The relative contribution of these two sources seems to vary across pollutants which has implications about how to design effective overall air quality interventions. Using multiple modeling approaches, we find that some pollutant concentrations, such as NO2 and O3, are easier to predict than others.<br>
+Based on our analysis, air quality appears to be a composite of many features, some related to human activity and some related to environmental sources. The relative contribution of these two sources seems to vary across pollutants which has implications about how to design effective overall air quality interventions. Using multiple modeling approaches, we find that some pollutant concentrations, such as NO<sub>2</sub> and O<sub>3</sub>, are easier to predict than others. Additionally, US cities can be clustered into distinct pollutant profiles which are differentiated by environmental and demographic factors.<br>
 <ul>
 <li>Airborne NO2, PM2.5, and O3 of cities can be somewhat predicted based on demographic and weather features, but PM10, CO, and SO2 are not well described from these characteristics</li>
 <li>Prediction models based on US cities do not extend well to French cities</li>
