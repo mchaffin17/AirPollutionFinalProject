@@ -29,7 +29,7 @@ Based on our analysis, air quality appears to be a composite of many features, s
  <ul><li>These clusters can be differentiated by liquid precipitation, air pressure, temperature, and land area</li></ul>
 <li>Differential patterns of missing pollutant data for US cities made imputation of clusters unreliable.</li>
 <li>When French cities were clustered with the same method, their pollutant profiles looked reasonably similar to the clustered US pollutant profiles.</li>
-<ul>
+</ul>
 
 ##Notebooks in this repository<br>
 There are several ipython notebooks in this repository. These are designed to break up the individual sections of the project into smaller, self-contained processes. To follow the project process, the optimal order to view these files is:<br>
@@ -75,7 +75,7 @@ There are several files in this repository beyond the ipython notebooks. There a
  
 
 ##Other files
-Beyond these files, there are several image files used throughout notebooks
+1. TransitMap.png - an image file that's used within the EDA notebook
 
 ##Project Website and Video Links
 The project website can be found at: http://cs109airpollution.github.io<br>
