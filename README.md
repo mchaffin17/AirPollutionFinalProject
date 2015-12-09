@@ -4,13 +4,13 @@ The World Health Organization reported that in 2012 about 7 million people died 
  
 As students at the Harvard T.H. Chan School of Public Health, we want to conduct some research into air pollution in the USA as well as on some of the determinants of such pollution such as weather, commuting, and population density given the severity of this public health issue.  By understanding the pollutant profiles of various cities, more targeted and effective interventions for reducing pollution on a by-pollutant-type basis could then be proposed and implemented.  Linking these specific profiles to certain determinants would also aid in the creation of powerful air pollution reduction policies.  These various analyses could be useful for developing legislation across the USA.  Additionally, we could predict the pollutant profiles of cities in the third world, where such measuring of pollutants is not available, based on weather, population, etc.  Such prediction would allow for better formulation of air pollution reduction policies for those cities.
 Initial Questions:<br>
-<ol>
+<ul>
 <li>Are there certain pollutant profiles that characterize groups of US cities?</li>
 <li>What is the distribution of pollutants (air particulate matter, gas levels, etc.) within these clusters?</li>
 <li>What are the determinants (weather, demographics, transportation, etc.) of these pollutant profiles?</li>
 <li>Can we use data on weather, demographics, transportation, etc. to predict a city’s pollutant profiles?</li>
 <li>Can specific policy recommendations be made based on a city’s pollutant profile?</li>
-</ol>
+</ul>
 
 ##Related Work
 We were partly inspired by this interesting visualization that shows the relative contribution different environmental and anthropogenic factors on climate change trends.<br>
@@ -21,13 +21,15 @@ http://aqicn.org/map/world/
 
 ##Key Findings
 Based on our analysis, air quality appears to be a composite of many features, some related to human activity and some related to environmental sources. The relative contribution of these two sources seems to vary across pollutants which has implications about how to design effective overall air quality interventions. Using multiple modeling approaches, we find that some pollutant concentrations, such as NO2 and O3, are easier to predict than others.<br>
-·       Airborne NO2, PM2.5, and O3 of cities can be somewhat predicted based on demographic and weather features, but PM10, CO, and SO2 are not well described from these characteristics<br>
-·       Prediction models based on US cities do not extend well to French cities<br>
-·       The relative importance of anthropogenic and environmental factors to air pollutant concentrations varies between pollutants<br>
-·       Distinct types of cities exist that can be characterized by their particular pollutant profiles<br>
-        ·       These clusters can be differentiated by liquid precipitation, air pressure, temperature, and land area<br>
-·       Differential patterns of missing pollutant data for US cities made imputation of clusters unreliable.<br>
-·       When French cities were clustered with the same method, their pollutant profiles looked reasonably similar to the clustered US pollutant profiles.
+<ul>
+<li>Airborne NO2, PM2.5, and O3 of cities can be somewhat predicted based on demographic and weather features, but PM10, CO, and SO2 are not well described from these characteristics</li>
+<li>Prediction models based on US cities do not extend well to French cities</li>
+<li>The relative importance of anthropogenic and environmental factors to air pollutant concentrations varies between pollutants</li>
+<li>Distinct types of cities exist that can be characterized by their particular pollutant profiles</li>
+ <ul><li>These clusters can be differentiated by liquid precipitation, air pressure, temperature, and land area</li></ul>
+<li>Differential patterns of missing pollutant data for US cities made imputation of clusters unreliable.</li>
+<li>When French cities were clustered with the same method, their pollutant profiles looked reasonably similar to the clustered US pollutant profiles.</li>
+<ul>
 
 ##Notebooks in this repository
 There are several ipython notebooks in this repository. These are designed to break up the individual sections of the project into smaller, self-contained processes. To follow the project process, the optimal order to view these files is:<br>
