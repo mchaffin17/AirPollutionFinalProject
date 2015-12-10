@@ -29,6 +29,7 @@ http://aqicn.org/map/world/
 		</li></ul>
 	<li>Imputation of cluster identities for US cities with missing data allows us to increase the coverage of the country, and seems to be fairly reliable.</li>
 	<li>When French cities were clustered with the same method, their pollutant profiles looked reasonably similar to the clustered US pollutant profiles suggesting some generalizability beyond the US.</li>
+</ul>
 ##Notebooks in this repository<br>
 There are several ipython notebooks in this repository. These are designed to break up the individual sections of the project into smaller, self-contained processes. To follow the project process, the optimal order to view these files is:<br>
 0. Prologue.ipynb<br>
