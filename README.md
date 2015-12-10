@@ -27,7 +27,7 @@ Based on our analysis, air quality appears to be a composite of many features, s
 <li>The relative importance of anthropogenic and environmental factors to air pollutant concentrations varies between pollutants</li>
 <li>Distinct types of cities exist that can be characterized by their particular pollutant profiles</li>
  <ul><li>These clusters can be differentiated by liquid precipitation, air pressure, temperature, and land area</li></ul>
-<li>Differential patterns of missing pollutant data for US cities made imputation of clusters unreliable.</li>
+<li>Imputation of cluster identities for US cities with missing data allows us to increase the coverage of US cities, and seems to be fairly reliable</li>
 <li>When French cities were clustered with the same method, their pollutant profiles looked reasonably similar to the clustered US pollutant profiles.</li>
 </ul>
 
