@@ -78,7 +78,7 @@ There are many data files found in the [**Data**](https://github.com/mchaffin17/
  
 
 ##Image Files
-This file is found in the Image folder in this repository
+This file is found in the Image folder in this repository<br>
 1. TransitMap.png - an image file that's used within the EDA notebook
 
 ##Project Website and Video Links
