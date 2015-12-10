@@ -20,17 +20,15 @@ Another source of inspiration was this interactive map of air quality across all
 http://aqicn.org/map/world/
 
 ##Key Findings
-Based on our analysis, air quality appears to be a composite of many features, some related to human activity and some related to environmental sources. The relative contribution of these two sources seems to vary across pollutants which has implications about how to design effective overall air quality interventions. Using multiple modeling approaches, we find that some pollutant concentrations, such as NO<sub>2</sub> and O<sub>3</sub>, are easier to predict than others. Additionally, US cities can be clustered into distinct pollutant profiles which are differentiated by environmental and demographic factors.<br>
 <ul>
-<li>Airborne NO<sub>2</sub>, PM2.5, and O<sub>3</sub> of cities can be somewhat predicted based on demographic and weather features, but PM10, CO, and SO<sub>2</sub> are not well described from these characteristics</li>
-<li>Prediction models based on US cities do not extend well to French cities</li>
-<li>The relative importance of anthropogenic and environmental factors to air pollutant concentrations varies between pollutants</li>
-<li>Distinct types of cities exist that can be characterized by their particular pollutant profiles</li>
- <ul><li>These clusters can be differentiated by liquid precipitation, air pressure, temperature, and land area</li></ul>
-<li>Imputation of cluster identities for US cities with missing data allows us to increase the coverage of US cities, and seems to be fairly reliable</li>
-<li>When French cities were clustered with the same method, their pollutant profiles looked reasonably similar to the clustered US pollutant profiles.</li>
-</ul>
-
+	<li>Airborne NO<sub>2</sub>, PM2.5, and O<sub>3</sub> of cities can be somewhat predicted based on demographic and weather features, but PM10, CO, and SO<sub>2</sub> are not well described from these characteristics.</li>
+	<li>Prediction models based on US cities do not extend well to French cities for the pollutants that we can best predict.</li>
+	<li>The relative importance and relationship of anthropogenic and environmental factors to air pollutants varies -- there is unlikely one key intervention to improve overall air quality.</li>
+	<li>Distinct types of cities exist that can be characterized by their particular pollutant profiles. Cities with similar profiles may benefit from similar inteventions</li>
+		<ul><li>These clusters can be differentiated by liquid precipitation, air pressure, temperature, and land area.
+		</li></ul>
+	<li>Imputation of cluster identities for US cities with missing data allows us to increase the coverage of the country, and seems to be fairly reliable.</li>
+	<li>When French cities were clustered with the same method, their pollutant profiles looked reasonably similar to the clustered US pollutant profiles suggesting some generalizability beyond the US.</li>
 ##Notebooks in this repository<br>
 There are several ipython notebooks in this repository. These are designed to break up the individual sections of the project into smaller, self-contained processes. To follow the project process, the optimal order to view these files is:<br>
 0. Prologue.ipynb<br>
