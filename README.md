@@ -83,4 +83,4 @@ This file is found in the Image folder in this repository<br>
 
 ##Project Website and Video Links
 The project website can be found at: http://cs109airpollution.github.io<br>
-The video can be found at: FILL THIS IN
+The video can be found at: https://vimeo.com/148539835
