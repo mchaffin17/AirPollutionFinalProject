@@ -40,7 +40,7 @@ There are several ipython notebooks in this repository. These are designed to br
 4. UnsupervisedAnalysis.ipynb<br>
 5. UnsupervisedLearning_pt2.ipynb<br>
 
-Each section contains the following information.
+Each section contains the following information.<br>
 [**Prologue.ipynb**](https://github.com/mchaffin17/AirPollutionFinalProject/blob/master/0.Prologue.ipynb)
 This notebook contains the information included in this README. This includes background and motivation, initial questions, and guidance on how to navigate the github repo.
 
@@ -56,7 +56,7 @@ This notebook works to build predictive models of the individual pollutants base
 [**UnsupervisedAnalysis.ipynb**](https://github.com/mchaffin17/AirPollutionFinalProject/blob/master/4.UnsupervisedAnalysis.ipynb)
 This notebook contains work done generating clusters of urban areas given their pollutant profiles. Furthermore, it looks at differences in environmental and demographic variables between the clusters.
 
-[**UnsupervisedLearning_pt2.ipynb**](https://github.com/mchaffin17/AirPollutionFinalProject/blob/master/5.UnsupervisedLearning_pt2.ipynb)
+[**UnsupervisedLearning_pt2.ipynb**](https://github.com/mchaffin17/AirPollutionFinalProject/blob/master/5. UnsupervisedLearning_pt2.ipynb)
 This notebook seeks to extend cluster identities to US cities that are missing values for some pollutants using KNN. Additionally, it investigates whether French cities fall within the clusters generated with US cities to generalize these pollutant profiles beyond the US.
 
 ##Data Files in this Repository
