@@ -60,7 +60,7 @@ This notebook contains work done generating clusters of urban areas given their 
 This notebook seeks to extend cluster identities to US cities that are missing values for some pollutants using KNN. Additionally, it investigates whether French cities fall within the clusters generated with US cities to generalize these pollutant profiles beyond the US.
 
 ##Data Files in this Repository
-There are many data files found in the Data folder of this repository. There are 14 in total:<br>
+There are many data files found in the [**Data**](https://github.com/mchaffin17/AirPollutionFinalProject/tree/master/Data) folder of this repository. There are 14 in total:<br>
 1. FranceMonthDat.csv - Monthly dataset for French cities<br>
 2. FranceSeasonDat.csv - Seasonal dataset for French cities<br>
 3. FranceYearDat.csv - Yearly dataset for French cities<br>
