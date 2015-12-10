@@ -33,6 +33,7 @@ Based on our analysis, air quality appears to be a composite of many features, s
 
 ##Notebooks in this repository<br>
 There are several ipython notebooks in this repository. These are designed to break up the individual sections of the project into smaller, self-contained processes. To follow the project process, the optimal order to view these files is:<br>
+0. Prologue.ipynb<br>
 1. DataCollection&Cleaning.ipynb<br>
 2. ExplotatoryDataAnalysis.ipynb<br>
 3. PredictiveLinearModeling.ipynb<br>
@@ -40,24 +41,26 @@ There are several ipython notebooks in this repository. These are designed to br
 5. UnsupervisedLearning_pt2.ipynb<br>
 
 Each section contains the following information.
+[**Prologue.ipynb**](https://github.com/mchaffin17/AirPollutionFinalProject/blob/master/0.Prologue.ipynb)
+This notebook contains the information included in this README. This includes background and motivation, initial questions, and guidance on how to navigate the github repo.
 
-[**DataCollection&Cleaning.ipynb**](https://github.com/mchaffin17/AirPollutionFinalProject/blob/master/DataCollection%26Cleaning.ipynb)
+[**DataCollection&Cleaning.ipynb**](https://github.com/mchaffin17/AirPollutionFinalProject/blob/master/1.DataCollection%26Cleaning.ipynb)
 This notebook contains the details of data collection and scraping. All files used in this process are either accessed directly from their links within the notebook or contained in the dropbox repository found at: https://www.dropbox.com/sh/cd95rdgrbm9cpz7/AAAG9758zR1tUMvGsxKtIJzXa?dl=0.
 
-[**ExploratoryDataAnalysis.ipynb**](https://github.com/mchaffin17/AirPollutionFinalProject/blob/master/ExploratoryDataAnalysis.ipynb)
+[**ExploratoryDataAnalysis.ipynb**](https://github.com/mchaffin17/AirPollutionFinalProject/blob/master/2.ExploratoryDataAnalysis.ipynb)
 This notebook contains the basic visualizations of the data and simple bivariate analyses.
 
-[**PredictiveLinearModeling.ipynb**](https://github.com/mchaffin17/AirPollutionFinalProject/blob/master/PredictiveLinearModeling.ipynb)
+[**PredictiveLinearModeling.ipynb**](https://github.com/mchaffin17/AirPollutionFinalProject/blob/master/3.PredictiveLinearModeling.ipynb)
 This notebook works to build predictive models of the individual pollutants based on demographic and environmental variables. Analysis was validated using cities in France. Additionally, attempts at statistical inference about drivers of particular pollutants using GEE's is found in this notebook.
 
-[**UnsupervisedAnalysis.ipynb**](https://github.com/mchaffin17/AirPollutionFinalProject/blob/master/UnsupervisedAnalysis.ipynb)
+[**UnsupervisedAnalysis.ipynb**](https://github.com/mchaffin17/AirPollutionFinalProject/blob/master/4.UnsupervisedAnalysis.ipynb)
 This notebook contains work done generating clusters of urban areas given their pollutant profiles. Furthermore, it looks at differences in environmental and demographic variables between the clusters.
 
-[**UnsupervisedLearning_pt2.ipynb**](https://github.com/mchaffin17/AirPollutionFinalProject/blob/master/UnsupervisedLearning_pt2.ipynb)
+[**UnsupervisedLearning_pt2.ipynb**](https://github.com/mchaffin17/AirPollutionFinalProject/blob/master/5.UnsupervisedLearning_pt2.ipynb)
 This notebook seeks to extend cluster identities to US cities that are missing values for some pollutants using KNN. Additionally, it investigates whether French cities fall within the clusters generated with US cities to generalize these pollutant profiles beyond the US.
 
 ##Data Files in this Repository
-There are many data files found in this repository. There are 14 in total:<br>
+There are many data files found in the Data folder of this repository. There are 14 in total:<br>
 1. FranceMonthDat.csv - Monthly dataset for French cities<br>
 2. FranceSeasonDat.csv - Seasonal dataset for French cities<br>
 3. FranceYearDat.csv - Yearly dataset for French cities<br>
@@ -74,7 +77,8 @@ There are many data files found in this repository. There are 14 in total:<br>
 14. PollutantFilteringTableau.csv - A file that was used to generate the tableau image that can filter maps based on pollutants <br>
  
 
-##Other files
+##Image Files
+This file is found in the Image folder in this repository
 1. TransitMap.png - an image file that's used within the EDA notebook
 
 ##Project Website and Video Links
