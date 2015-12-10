@@ -5,11 +5,10 @@ The World Health Organization reported that in 2012 about 7 million people died 
 As students at the Harvard T.H. Chan School of Public Health, we want to conduct some research into air pollution in the USA as well as on some of the determinants of such pollution such as weather, commuting, and population density given the severity of this public health issue.  By understanding the pollutant profiles of various cities, more targeted and effective interventions for reducing pollution on a by-pollutant-type basis could then be proposed and implemented.  Linking these specific profiles to certain determinants would also aid in the creation of powerful air pollution reduction policies.  These various analyses could be useful for developing legislation across the USA.  Additionally, we could predict the pollutant profiles of cities in the third world, where such measuring of pollutants is not available, based on weather, population, etc.  Such prediction would allow for better formulation of air pollution reduction policies for those cities.
 Initial Questions:<br>
 <ul>
-<li>Are there certain pollutant profiles that characterize groups of US cities?</li>
-<li>What is the distribution of pollutants (air particulate matter, gas levels, etc.) within these clusters?</li>
-<li>What are the determinants (weather, demographics, transportation, etc.) of these pollutant profiles?</li>
-<li>Can we use data on weather, demographics, transportation, etc. to predict a city’s pollutant profiles?</li>
-<li>Can specific policy recommendations be made based on a city’s pollutant profile?</li>
+	<li>Are there certain pollutant profiles that characterize groups of US cities?</li>
+	<li>What is the distribution of pollutants (air particulate matter, gas levels, etc.) within these clusters?</li>
+	<li>What are the determinants (weather, demographics, transportation, etc.) of these pollutant profiles?</li>
+	<li>Can we use data on weather, demographics, and transportation to predict pollutant concentrations of cities in the US?</li>
 </ul>
 
 ##Related Work
@@ -20,17 +19,16 @@ Another source of inspiration was this interactive map of air quality across all
 http://aqicn.org/map/world/
 
 ##Key Findings
-Based on our analysis, air quality appears to be a composite of many features, some related to human activity and some related to environmental sources. The relative contribution of these two sources seems to vary across pollutants which has implications about how to design effective overall air quality interventions. Using multiple modeling approaches, we find that some pollutant concentrations, such as NO<sub>2</sub> and O<sub>3</sub>, are easier to predict than others. Additionally, US cities can be clustered into distinct pollutant profiles which are differentiated by environmental and demographic factors.<br>
 <ul>
-<li>Airborne NO<sub>2</sub>, PM2.5, and O<sub>3</sub> of cities can be somewhat predicted based on demographic and weather features, but PM10, CO, and SO<sub>2</sub> are not well described from these characteristics</li>
-<li>Prediction models based on US cities do not extend well to French cities</li>
-<li>The relative importance of anthropogenic and environmental factors to air pollutant concentrations varies between pollutants</li>
-<li>Distinct types of cities exist that can be characterized by their particular pollutant profiles</li>
- <ul><li>These clusters can be differentiated by liquid precipitation, air pressure, temperature, and land area</li></ul>
-<li>Imputation of cluster identities for US cities with missing data allows us to increase the coverage of US cities, and seems to be fairly reliable</li>
-<li>When French cities were clustered with the same method, their pollutant profiles looked reasonably similar to the clustered US pollutant profiles.</li>
+	<li>Airborne NO<sub>2</sub>, PM2.5, and O<sub>3</sub> of cities can be somewhat predicted based on demographic and weather features, but PM10, CO, and SO<sub>2</sub> are not well described from these characteristics.</li>
+	<li>Prediction models based on US cities do not extend well to French cities for the pollutants that we can best predict.</li>
+	<li>The relative importance and relationship of anthropogenic and environmental factors to air pollutants varies -- there is unlikely one key intervention to improve overall air quality.</li>
+	<li>Distinct types of cities exist that can be characterized by their particular pollutant profiles. Cities with similar profiles may benefit from similar inteventions</li>
+		<ul><li>These clusters can be differentiated by liquid precipitation, air pressure, temperature, and land area.
+		</li></ul>
+	<li>Imputation of cluster identities for US cities with missing data allows us to increase the coverage of the country, and seems to be fairly reliable.</li>
+	<li>When French cities were clustered with the same method, their pollutant profiles looked reasonably similar to the clustered US pollutant profiles suggesting some generalizability beyond the US.</li>
 </ul>
-
 ##Notebooks in this repository<br>
 There are several ipython notebooks in this repository. These are designed to break up the individual sections of the project into smaller, self-contained processes. To follow the project process, the optimal order to view these files is:<br>
 0. Prologue.ipynb<br>
@@ -83,4 +81,4 @@ This file is found in the Image folder in this repository<br>
 
 ##Project Website and Video Links
 The project website can be found at: http://cs109airpollution.github.io<br>
-The video can be found at: FILL THIS IN
+The video can be found at: https://vimeo.com/148551233
